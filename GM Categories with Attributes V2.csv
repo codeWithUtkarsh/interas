@@ -1,0 +1,4455 @@
+BUSINESS,CATEGORY,CATEGORY_ATTRIBUTE
+Accessories,Backpacks,Activity
+Accessories,Backpacks,Bag Size
+Accessories,Backpacks,Battery Charged
+Accessories,Backpacks,Brand Logo
+Accessories,Backpacks,Closure
+Accessories,Backpacks,Hydration Compatible
+Accessories,Backpacks,Hydration Included
+Accessories,Backpacks,License
+Accessories,Backpacks,Licensee
+Accessories,Backpacks,Licensor
+Accessories,Backpacks,Material
+Accessories,Backpacks,Multi-FunctionalMulti-Purpose Strap
+Accessories,Backpacks,Pack Volume
+Accessories,Backpacks,Saffiano Leather
+Accessories,Backpacks,Size - Inches
+Accessories,Backpacks,Sling
+Accessories,Backpacks,Tech Pocket Size
+Accessories,Backpacks,Transparent/Clear
+Accessories,Backpacks,Wheels
+Accessories,Belts,Evening
+Accessories,Belts,Handbag Silhouette
+Accessories,Fanny/Waist/Chest Packs,Fanny Pack Volume
+Accessories,Garment Bags,Carry On
+Accessories,Garment Bags,Expandable
+Accessories,Garment Bags,Spinners
+Accessories,Handbags,Direction
+Accessories,Sunglasses,Interchangeable Lenses
+Accessories,Sunglasses,Photochromic
+Accessories,Sunglasses,Polarized
+Accessories,Wallet,Mobile Phone Sleeve
+Accessories,Wallet,Wallet Closure
+Accessories,Wallet,Wallet Shape
+Accessories,Watches,Band Type
+Accessories,Watches,Case Material
+Accessories,Watches,Case Shape
+Accessories,Watches,Chronograph
+Accessories,Watches,Day/Date
+Accessories,Watches,Gemstones
+Accessories,Watches,No Band
+Accessories,Watches,Primary Analog/Digital
+Accessories,Watches,Primary Band Material
+Accessories,Watches,Watch Type
+Accessories,Watches,Water Proof
+Accessories,Watches,Water-Resistant
+Apparel,Apparel Accessories,Baselayer Protective/Padding
+Apparel,Apparel Accessories,Compression
+Apparel,Apparel Accessories,Glove Hybrid
+Apparel,Apparel Accessories,GloveMitten Type
+Apparel,Apparel Accessories,Handwear Type
+Apparel,Apparel Accessories,Moisture Wicking
+Apparel,Apparel Accessories,Pack Count
+Apparel,Athletic Sets,Bottom Fit
+Apparel,Athletic Sets,Bottom Length
+Apparel,Athletic Sets,Bottom Style
+Apparel,Athletic Sets,Fabrication
+Apparel,Athletic Sets,Fiber/Fabric Type
+Apparel,Athletic Sets,Graphic/Logo
+Apparel,Athletic Sets,Hooded
+Apparel,Athletic Sets,Leg Opening
+Apparel,Athletic Sets,Legging
+Apparel,Athletic Sets,Pullover
+Apparel,Athletic Sets,Sleeve Length
+Apparel,Athletic Sets,Stretch
+Apparel,Athletic wear,Character License
+Apparel,Bottoms,Ankle Trend
+Apparel,Bottoms,Bottom Silhouette
+Apparel,Bottoms,Cargo
+Apparel,Bottoms,Cycling Apparel Type
+Apparel,Bottoms,Pleats
+Apparel,Bottoms,Rise
+Apparel,Bottoms,Sport License
+Apparel,Bottoms,Tablines
+Apparel,Bottoms,Tabslack
+Apparel,Bottoms,Wrinkle Free
+Apparel,Cold Weather Undergarments,Coldweather
+Apparel,Intimates,Bra - Maternity
+Apparel,Intimates,Bra Boxed
+Apparel,Intimates,Bra Closure
+Apparel,Intimates,Bra Cup Fiber - Cotton
+Apparel,Intimates,Bra Cup Fiber - Nylon
+Apparel,Intimates,Bra Cup Fiber - Poly
+Apparel,Intimates,Bra Cup Fiber - Spandex
+Apparel,Intimates,Bra Full Figure/Average Figure
+Apparel,Intimates,Bra Padding
+Apparel,Intimates,Bra Pushup
+Apparel,Intimates,Bra Shelf
+Apparel,Intimates,Bra Silhouette
+Apparel,Intimates,Bra Wire
+Apparel,Intimates,Bra and Panty Set
+Apparel,Intimates,Bra-Minimizer
+Apparel,Intimates,Bralette
+Apparel,Intimates,Cooling
+Apparel,Intimates,Daywear Silhouette
+Apparel,Intimates,Degree of Control
+Apparel,Intimates,Fiber - Other
+Apparel,Intimates,Fiber - Poly
+Apparel,Intimates,Fiber - Spandex
+Apparel,Intimates,Lace
+Apparel,Intimates,Line
+Apparel,Intimates,Maternity
+Apparel,Intimates,Panties Rise
+Apparel,Intimates,Panties Silhouette
+Apparel,Intimates,Pattern
+Apparel,Intimates,Period Leak Protection
+Apparel,Intimates,Seams
+Apparel,Intimates,Shapewear Leg Length
+Apparel,Intimates,Shapewear Silhouette
+Apparel,Intimates,Smoothing
+Apparel,Intimates,Strap Type
+Apparel,Intimates,Support Level
+Apparel,Intimates,T-Shirt Bra
+Apparel,Intimates,Torsette
+Apparel,Intimates,Waist
+Apparel,Outerwear,Bib
+Apparel,Outerwear,Denim
+Apparel,Outerwear,Fabric of Outer Shell
+Apparel,Outerwear,Fleece
+Apparel,Outerwear,Outdoor Stretch Pant
+Apparel,Outerwear,Outerwear Style
+Apparel,Outerwear,Outerwear System
+Apparel,Outerwear,Outerwear Type
+Apparel,Outerwear,Outerwear Use
+Apparel,Outerwear,Quilted
+Apparel,Outerwear,Water Repellant
+Apparel,Outerwear,Wind Resistant
+Apparel,Socks,MedicalHealth Socks
+Apparel,Socks,Socks Classification
+Apparel,Socks,Socks Silhouette
+Apparel,Socks,Socks Type
+Apparel,Socks,Tube Socks
+Apparel,Socks,Unisex
+Apparel,Swimwear,Separate Type
+Apparel,Swimwear,Swim Bottom Style
+Apparel,Swimwear,Swim Top Style
+Apparel,Swimwear,Swimwear Silhouette
+Apparel,Tights/Sheer Hosiery,Control Top
+Apparel,Tights/Sheer Hosiery,Package
+Apparel,Tights/Sheer Hosiery,Plus Size
+Apparel,Tights/Sheer Hosiery,Sheer Hosiery Toe Style
+Apparel,Tights/Sheer Hosiery,Sheer Segments
+Apparel,Tops,Collar
+Apparel,Tops,Henley
+Apparel,Tops,Neck Type
+Apparel,Tops,PVH Brand
+Apparel,Tops,Pocket
+Apparel,Tops,Stain Resistant
+Apparel,Tops,Top Fit
+Apparel,Tops,Zipper Length
+Apparel,Underwear,Pouch
+Apparel,Underwear,Undershirt Silhouette
+Apparel,Underwear,Underwear Silhouette
+Automotive,12-Volt Items,NA Battery Cell Size
+Automotive,A/C Clutches and Components,Climate Clutch Type
+Automotive,A/C Clutches and Components,Climate Compressor Make
+Automotive,A/C Clutches and Components,Climate Compressor Type
+Automotive,A/C Clutches and Components,Climate Manufacturing Type
+Automotive,A/C Compressors and Components,Climate Grade
+Automotive,A/C Hoses / Lines / Fittings,Bulk Volume
+Automotive,ABS,Brake Grade
+Automotive,ABS,Brake Manufacturing Type
+Automotive,ATF +3 / +4 ALL,BRAZIL - Trans Fluid Pkg Size
+Automotive,ATF +3 / +4 ALL,Transmission Fluid Package Size
+Automotive,ATF +3 / +4 ALL,Transmission-Product_Type
+Automotive,Adhesives,Sealants-Color
+Automotive,Adhesives,SealantsPackageType
+Automotive,Appearance Chemical Multi-Packs / Gift Packs,AppChem-Product_Delivery
+Automotive,Appearance Chemical Multi-Packs / Gift Packs,AppChem-Product_Type
+Automotive,Appearance Towels / Rags ALL,CarCare-Pack Size
+Automotive,Appearance Towels / Rags ALL,CarCare-Product-Type
+Automotive,Bar / Chain Oils ALL,BRAZIL - Grease Pkg Size
+Automotive,Bar / Chain Oils ALL,Grease-PackageSize
+Automotive,Batteries ALL,Battery Grade
+Automotive,Batteries ALL,Battery Group Size
+Automotive,Batteries ALL,Battery-Type
+Automotive,Battery Cables ALL,BRAZIL - Bulk Volume
+Automotive,Battery Cables ALL,BattAccess-Product_Type
+Automotive,Belts,Cooling Grade
+Automotive,Body Filler Hardeners ALL,Body-Product_Type
+Automotive,Brake Pads,Brake D-Plate
+Automotive,Brake Shoes ALL,Brake Shoes Manufacturing Type
+Automotive,Brushes ALL,CarCare-Product_Use
+Automotive,Cabin Air Filters ALL,Cabin Air Filters Product Grade
+Automotive,Can / Jar Air Fresheners,Air Freshener Pack Size
+Automotive,Carburetors & Components,Fuel System - Grade
+Automotive,Carburetors & Components,Fuel System - Type
+Automotive,Catalytic Converters ALL,Exhaust - CARB Approved
+Automotive,Catalytic Converters ALL,Exhaust - Fitment Type
+Automotive,Catalytic Converters ALL,Exhaust - OBD
+Automotive,Catalytic Converters ALL,Exhaust - Substrate Material
+Automotive,Charging Systems,Rotating Electrical Grade
+Automotive,Charging Systems,Rotating Electrical Style
+Automotive,Coatings,PaintPackageType
+Automotive,Conventional Antifreeze/Coolant ALL,Antifreeze-Product_Type
+Automotive,Cooling / Heating Hoses,Cooling Hose Type
+Automotive,Cooling System Gaskets,Gaskets - Grade
+Automotive,DEL2014-Bug Wash Fluid ALL,Washer-Product_Type
+Automotive,DELETE    Rechargeable Batteries,Chemical Composition
+Automotive,DELETE    Rechargeable Batteries,NA Battery Grade
+Automotive,DELETE0714_Marine Oil,Motor Oil Grade
+Automotive,DELETE0714_Marine Oil,Motor Oil Package Size
+Automotive,DELETE12 -Automotive Refrigerants with Additives,Refrigerants - PackType
+Automotive,DELETE12 -Dispensers / Kits ALL,Hand Cleaner Type
+Automotive,DELETE2011     Washing Systems,Package Type
+Automotive,DELETE2011     Washing Systems,Product Type
+Automotive,Decorative Graphics,Exterior-Product_Delivery
+Automotive,Decorative Lighting ALL,Lighting-Product_Type
+Automotive,Diesel Additives,PerfChem-PkgSize
+Automotive,Electric Cooling Fans,Cooling Fitment Type
+Automotive,Electric Cooling Fans,Cooling Manufacturing Type
+Automotive,Electrical Wire ALL,Electrical-Pack_Type
+Automotive,Engine Gaskets,Gaskets - Type
+Automotive,Engine Management / Vehicle Sensors,O2-Application
+Automotive,Engine Management / Vehicle Sensors,O2-Type
+Automotive,Fan Clutches & Blades,Cooling Fan Clutch Type
+Automotive,Fuel Additives,PerfChem-ProdType
+Automotive,Fuel Hoses / Lines / Fittings,Fuel System - Hose Diameter
+Automotive,Fuel Injection,Fuel System - Injection Type
+Automotive,Fuel Pumps,Fuel System - Pump Assembly Type
+Automotive,Fuel Pumps,Fuel System - Pump Strainer
+Automotive,Fuel Tanks & Components,Fuel System - Cap Type
+Automotive,Gear Lubes,Greases-Grade
+Automotive,Glass Care,AppChem-Ceramic
+Automotive,Greases ALL,Greases-Product_Type
+Automotive,HDMO,BRAZIL - Motor Oil Pkg Size
+Automotive,HVAC Blowers,Climate Blower Wheel
+Automotive,Hand Cleaners ALL,HandCare-Conditioners
+Automotive,Hand Cleaners ALL,HandCare-FormulaType
+Automotive,Hand Cleaners ALL,HandCare-GritType
+Automotive,Hand Cleaners ALL,HandCare-PackSize
+Automotive,Hand Cleaners ALL,HandCare-PackType
+Automotive,Hand Cleaners ALL,HandCare-Type
+Automotive,Hand Cleaners ALL,HandCare-UseWithDispenser
+Automotive,Hanging Air Fresheners,Air Freshener Scent
+Automotive,Hanging Air Fresheners,Novelty
+Automotive,Headlights / Forward Lighting,Lighting-Product_Grade
+Automotive,Headlights / Forward Lighting,Lighting-UnitsPerPack
+Automotive,Hidden / Other Air Fresheners,AirFreshener-Product_Type
+Automotive,Hose Clamps,Cooling Hose Clamp Material
+Automotive,Hose Clamps,Cooling Hose Clamp Size
+Automotive,Interior - Flooring,FloorMat-Material
+Automotive,Interior - Flooring,IntAcc-Image
+Automotive,Interior - Flooring,IntAcc-License_Category
+Automotive,Interior - Flooring,IntAcc-Pieces
+Automotive,Interior - Flooring,IntAcc-Primary_Color
+Automotive,Interior - Flooring,IntAcc-Product_Type
+Automotive,Interior - Steering,IntAcc-Product_Design
+Automotive,License Plate Accessories,ExtAcc-Primary_Color
+Automotive,License Plate Accessories,ExtAcc-Primary_Material
+Automotive,License Plate Accessories,ExtAcc-Product_Design
+Automotive,Lift Supports ALL,Suspension - Lift Support Position
+Automotive,Miscellaneous Exhaust,Exhaust - Clamp Size
+Automotive,Miscellaneous Exhaust,Exhaust - Clamp Type
+Automotive,Miscellaneous Exhaust,Exhaust - Pipe Adapter
+Automotive,Mufflers ALL,Exhaust - Grade
+Automotive,Non-Automotive Batteries,NA Battery Pack Size
+Automotive,PCMO,Motor Oil Formulation
+Automotive,PCMO,Motor Oil Premium
+Automotive,PCMO,MotorOil-Product_Type
+Automotive,Performance / Dress-Up Exhaust,Exhaust - Finish
+Automotive,Power Steering Hoses / Lines / Fittings,Rack Type
+Automotive,Power Steering Hoses / Lines / Fittings,Steering - Hose Type
+Automotive,Power Steering Hoses / Lines / Fittings,Steering - Pump Assembly T1
+Automotive,Power Steering Hoses / Lines / Fittings,Tierod Placement
+Automotive,Power Steering Pumps / Cylinders / Control Valves,Steering - Manufacturing Type
+Automotive,Power Steering Pumps / Cylinders / Control Valves,Steering - Pump Assembly T2
+Automotive,Premium Spark Plugs,SparkPlug-SubBrands
+Automotive,Protectants ALL,AppChem-Product_Use
+Automotive,Protectants ALL,AppChem-Scent
+Automotive,Rack & Pinion,Steering - Rack & Pinion Type
+Automotive,Rack & Pinion,Steering - Tie Rod Pos-1
+Automotive,Radiators ALL,Cooling Radiator Cap Type
+Automotive,Replacement Tires,Pure Size
+Automotive,Replacement Tires,Tire Aspect Ratio Height
+Automotive,Replacement Tires,Tire Diameter
+Automotive,Replacement Tires,Tire Load Index
+Automotive,Replacement Tires,Tire Load Range Ply Rating
+Automotive,Replacement Tires,Tire Run Flat
+Automotive,Replacement Tires,Tire Seasonality
+Automotive,Replacement Tires,Tire Speed Rating
+Automotive,Replacement Tires,Tire Type
+Automotive,Replacement Tires,Tire Type OLD
+Automotive,Replacement Tires,Tire Vehicle Class
+Automotive,Replacement Tires,Tire Width
+Automotive,Replacement Tires,Tire XL Designation
+Automotive,Sealants,Sealants-Packaging
+Automotive,Seats ALL,IntAcc-Primary_Material
+Automotive,Seats ALL,SeatCover-Cover_Type
+Automotive,Seats ALL,SeatCushion-Cooling
+Automotive,Seats ALL,SeatCushion-Cushion_Type
+Automotive,Spray Air Fresheners,AirFreshener-Product_Delivery
+Automotive,Steering - Linkage,Steering - Grade
+Automotive,Steering - Linkage,Steering - Tie Rod Pos-2
+Automotive,Steering - Linkage,Steering - Tie Rod Pos-3
+Automotive,Steering - Stabilizing,Steering - Dampers/Stabilizers
+Automotive,Sun Protection,IntAcc-Shade_Type
+Automotive,Suspension - General,Suspension - Grade #1
+Automotive,Suspension - General,Suspension - Position # 1
+Automotive,Suspension - General,Suspension - Position # 2
+Automotive,Suspension - Ride Control,Suspension - Grade #2
+Automotive,Suspension - Ride Control,Suspension - Shock/Strut Tube Type
+Automotive,Suspension - Specialty,Suspension - Lowering & Lift Kit Type
+Automotive,Thermostats,Cooling Finish Type
+Automotive,Timing Components,Engine - Grade
+Automotive,Tire Care,AppChem-Graphene
+Automotive,Tire Tools / Accessories,TW-Product_Type
+Automotive,Un-Classified Batteries ALL,Battery New/Used
+Automotive,Un-Classified Wipers ALL,Wiper Blade Length
+Automotive,Wheel Care / Cleaner ALL,AppChem-Cleaner_Type
+Automotive,Wheels,WheelBoltPattern
+Automotive,Wheels,WheelFinish
+Automotive,Wiper Blades - Beam,Wipers-Sub-Brand
+Beauty,EU SKINCARE,Acne Benefit
+Beauty,EU SKINCARE,Alphabet Creams
+Beauty,EU SKINCARE,Brightening
+Beauty,EU SKINCARE,Hair Color Type
+Beauty,EU SKINCARE,Hair Heat Protectant
+Beauty,EU SKINCARE,Hair Primary Benefit
+Beauty,EU SKINCARE,Hair Set Segment
+Beauty,EU SKINCARE,Hair Size ml
+Beauty,EU SKINCARE,Hair Styling Hold
+Beauty,EU SKINCARE,Hair Sulfate Free
+Beauty,EU SKINCARE,Hair Texture
+Beauty,EU SKINCARE,Makeup Shade
+Beauty,EU SKINCARE,Mattifying Benefit
+Beauty,EU SKINCARE,Moisturizing/Hydrating
+Beauty,EU SKINCARE,SPF
+Beauty,EU SKINCARE,Skincare Anti Age Benefit
+Beauty,EU SKINCARE,Skincare Anticellulite
+Beauty,EU SKINCARE,Skincare Benefit
+Beauty,EU SKINCARE,Skincare Body Part
+Beauty,EU SKINCARE,Skincare Day/Night (EU)
+Beauty,EU SKINCARE,Skincare Day/Night (NA)
+Beauty,EU SKINCARE,Skincare Device Sets
+Beauty,EU SKINCARE,Skincare Device Type
+Beauty,EU SKINCARE,Skincare Form/Texture
+Beauty,EU SKINCARE,Skincare Ingredient
+Beauty,EU SKINCARE,Skincare Lifting/Firming
+Beauty,EU SKINCARE,Skincare Lines/Wrinkles
+Beauty,EU SKINCARE,Skincare Set/Kit Dominant Product
+Beauty,EU SKINCARE,Skincare Tinted
+Beauty,EU SKINCARE,Skincare Type
+Beauty,EU SKINCARE,Travel Friendly Sets
+Beauty,FRAGRANCES,Classification Type
+Beauty,FRAGRANCES,Fragrance Affiliated with a Juice
+Beauty,FRAGRANCES,Fragrance Brand Launch Month Country
+Beauty,FRAGRANCES,Fragrance Format
+Beauty,FRAGRANCES,Fragrance Gift Set Piece Count
+Beauty,FRAGRANCES,Fragrance Gift Set Type
+Beauty,FRAGRANCES,Fragrance Type
+Beauty,FRAGRANCES,Fragrance Type Grouped
+Beauty,FRAGRANCES,Refill
+Beauty,FRAGRANCES,Scent Class
+Beauty,HAIR,Hair Leave-In Conditioner/Detangler
+Beauty,HAIR,Hair Product Form
+Beauty,HAIR,Hair Scalp Care
+Beauty,HAIR,Hair Size oz
+Beauty,HAIR,Hair Thinning/Loss
+Beauty,MAKEUP,Cannabis Sativa
+Beauty,MAKEUP,Lip Plumpers
+Beauty,MAKEUP,Makeup Anti-Aging
+Beauty,MAKEUP,Makeup Applicator Type
+Beauty,MAKEUP,Makeup Bronzer
+Beauty,MAKEUP,Makeup Collaboration
+Beauty,MAKEUP,Makeup Collection
+Beauty,MAKEUP,Makeup Customization Accessories
+Beauty,MAKEUP,Makeup Eye Primer
+Beauty,MAKEUP,Makeup Finish
+Beauty,MAKEUP,Makeup Form
+Beauty,MAKEUP,Makeup Form Grouped
+Beauty,MAKEUP,Makeup Foundation Coverage
+Beauty,MAKEUP,Makeup Lip Color Finish
+Beauty,MAKEUP,Makeup Long Wear
+Beauty,MAKEUP,Makeup Mascara Benefit
+Beauty,MAKEUP,Makeup Mineral
+Beauty,MAKEUP,Makeup Multi-Purpose
+Beauty,MAKEUP,Makeup Palette
+Beauty,MAKEUP,Makeup Presentation
+Beauty,MAKEUP,Makeup Primary Benefit
+Beauty,MAKEUP,Makeup Primer
+Beauty,MAKEUP,Makeup Product Layer
+Beauty,MAKEUP,Makeup Set Dominant Product
+Beauty,MAKEUP,Makeup Set Duos
+Beauty,MAKEUP,Makeup Set Segment
+Beauty,MAKEUP,Makeup Travel Size
+Beauty,MAKEUP,Makeup Waterproof
+Beauty,SKINCARE,Loskinproductlayerus
+Beauty,SKINCARE,Skinageus
+Beauty,SKINCARE,Skincare Device/Tool Motorized
+Beauty,SKINCARE,Skincare Device/Tool with Removable Head
+Beauty,SKINCARE,Skincare Essences
+Beauty,SKINCARE,Skincare Facial Set Segment
+Beauty,SKINCARE,Skincare FormTexture Grouped
+Beauty,SKINCARE,Skincare Lash/Brow Treatment
+Beauty,SKINCARE,Skincare MicroDerm/Peel Benefit
+Beauty,SKINCARE,Skincare Packaging
+Beauty,SKINCARE,Skincare Set Segment
+Beauty,SKINCARE,Skincare Skin Type
+Beauty,SKINCARE,Skincare Sunscreen Filter Type
+Beauty,SKINCARE,Skincare System/Kit
+Beauty,SKINCARE,Skinproductlayerus
+Beauty,SKINCARE,Supplement Primary Benefit
+Cycling,Bicycles,Bicycle Type
+Cycling,Bicycles,Disc Brakes
+Cycling,Bicycles,Fat Tire
+Cycling,Bicycles,Frame Material
+Cycling,Bicycles,Front Suspension Travel
+Cycling,Bicycles,Geared
+Cycling,Bicycles,License Property
+Cycling,Bicycles,Model Year
+Cycling,Bicycles,Motor Class
+Cycling,Bicycles,Motor Manufacturer
+Cycling,Bicycles,Motor Position
+Cycling,Bicycles,Plus Size Tires
+Cycling,Bicycles,Series
+Cycling,Bicycles,Wheel Base
+Cycling,Bicycles,Wheel Size
+Cycling,Bike Parts,Bicycle Tire Use
+Cycling,Bike Parts,Wheel Material
+Cycling,Helmets/Footwear/Gloves,Helmet Style
+Cycling,Helmets/Footwear/Gloves,Triathlon
+Cycling,Shop Services,Cycling Industry
+Diamond and Jewelry,Pre Owned Watches,Always-on Display
+Diamond and Jewelry,Pre Owned Watches,Band Color
+Diamond and Jewelry,Pre Owned Watches,BandMaterial
+Diamond and Jewelry,Pre Owned Watches,Bezel Add on
+Diamond and Jewelry,Pre Owned Watches,Bluetooth
+Diamond and Jewelry,Pre Owned Watches,Brand Compatibility
+Diamond and Jewelry,Pre Owned Watches,Calorie Tracker
+Diamond and Jewelry,Pre Owned Watches,Case Material Color
+Diamond and Jewelry,Pre Owned Watches,Charging Method
+Diamond and Jewelry,Pre Owned Watches,Chronometer Certification
+Diamond and Jewelry,Pre Owned Watches,Dial Color
+Diamond and Jewelry,Pre Owned Watches,Dial Surface
+Diamond and Jewelry,Pre Owned Watches,Display Size
+Diamond and Jewelry,Pre Owned Watches,Distance Tracker
+Diamond and Jewelry,Pre Owned Watches,GPS Enabled
+Diamond and Jewelry,Pre Owned Watches,Gender
+Diamond and Jewelry,Pre Owned Watches,Heart Rate Monitor
+Diamond and Jewelry,Pre Owned Watches,Interaction Capability
+Diamond and Jewelry,Pre Owned Watches,Mobile Notifications
+Diamond and Jewelry,Pre Owned Watches,Mobile Telecom Technology
+Diamond and Jewelry,Pre Owned Watches,Movement
+Diamond and Jewelry,Pre Owned Watches,Movement Options
+Diamond and Jewelry,Pre Owned Watches,Op Sys
+Diamond and Jewelry,Pre Owned Watches,Oxygen Level Monitor
+Diamond and Jewelry,Pre Owned Watches,Pedometer
+Diamond and Jewelry,Pre Owned Watches,Power Type
+Diamond and Jewelry,Pre Owned Watches,Quartz Chronograph
+Diamond and Jewelry,Pre Owned Watches,Size
+Diamond and Jewelry,Pre Owned Watches,Sleep Tracker
+Diamond and Jewelry,Pre Owned Watches,Speed Tracker
+Diamond and Jewelry,Pre Owned Watches,Style
+Diamond and Jewelry,Pre Owned Watches,Wearable Battery Life
+Diamond and Jewelry,Pre Owned Watches,Wearable Connection Type
+Diamond and Jewelry,Pre Owned Watches,Weatherproof/Waterproof
+Diamond and Jewelry,Pre Owned Watches,Wi-Fi
+Food Canada,Alcoholic beverage,Alcohol Amount
+Food Canada,Alcoholic beverage,Alcoholmixnew
+Food Canada,Alcoholic beverage,Alcoholmixold
+Food Canada,Alcoholic beverage,Alcoholtypenew
+Food Canada,Alcoholic beverage,Beerbrand
+Food Canada,Alcoholic beverage,Beertype
+Food Canada,Alcoholic beverage,Pieflavor
+Food Canada,Alcoholic beverage,Salad Meats
+Food Canada,Alcoholic beverage,Soda Container
+Food Canada,Alcoholic beverage,Whereconsumed
+Food Canada,Asian,Asianmeats
+Food Canada,Asian,Asiantype
+Food Canada,Baked goods,BreadSpread
+Food Canada,Bottled water,Bottledwater
+Food Canada,Bottled water,Bottlewater2
+Food Canada,Breakfast,Breakfastprotein
+Food Canada,Breakfast,Fruittype
+Food Canada,Breakfast,Yogurttype
+Food Canada,Chicken,ChickenType
+Food Canada,Chicken,Nuggetwing
+Food Canada,Chicken,Stripwing
+Food Canada,Chicken,Wingtype
+Food Canada,Chicken,Wingtype2
+Food Canada,Dessert/snack,Cakeflavor
+Food Canada,Dessert/snack,Containersize
+Food Canada,Dessert/snack,Cookieflavor
+Food Canada,French fries,Frysize
+Food Canada,Maindish general,Steaktype
+Food Canada,Milk,Milkflavor
+Food Canada,Milk,Milktype
+Food Canada,Non-alcoholic beverage,Coffee Additives
+Food Canada,Non-alcoholic beverage,Lemonadeflavor
+Food Canada,Non-alcoholic beverage,Refills
+Food Canada,Pasta,Pastaprotein
+Food Canada,Pasta,Pastasauces
+Food Canada,Pizza,Mpizzacrustnew
+Food Canada,Pizza,Pizza Toppings
+Food Canada,Pizza,Pizzacrustold
+Food Canada,Salad,Saladdressing
+Food Canada,Sandwich-burger,Breadused
+Food Canada,Sandwich-burger,Combomeats
+Food Canada,Sandwich-burger,Sandwich Toppings
+Food Canada,Sandwich-burger,Toasted
+Food Canada,Sidedish general,Ricedetail
+Footwear,Aerobic/Cheer/Dance,Shoe Height
+Footwear,Aerobic/Cheer/Dance,Visible Technology
+Footwear,All Other Performance,Cleat Type
+Footwear,Basketball,Signature Basketball
+Footwear,Casual,Boot Shaft Height
+Footwear,Casual,Chukka Boot
+Footwear,Casual,Heel Height
+Footwear,Casual,Heel Type
+Footwear,Casual,Platforms
+Footwear,Casual,Shoe Open Toe
+Footwear,Casual,Slipper Silhouette
+Footwear,Casual,Sole Material
+Footwear,Casual,Toe Type
+Footwear,Casual,Toe Type Shape
+Footwear,Casual,Wedge Sneakers
+Footwear,Casual Athletic,Insulated
+Footwear,Casual Athletic,Sole Type
+Footwear,Cold/All Weather/Hunting/Fishing Boots,Sneaker Bottom
+Footwear,Cold/All Weather/Hunting/Fishing Boots,Visible Fur
+Footwear,Fashion Boots,Fashion Boot Style
+Footwear,Fashion Sandals,Slingback
+Footwear,Fashion Sandals,Thong Style
+Footwear,Fashion Sandals,Toe Style
+Footwear,Fashion Shoes,Driver
+Footwear,Fashion Shoes,Mary JaneT-Strap
+Footwear,Fashion Shoes,Monkstrap
+Footwear,Hiking/Trekking/Mountaineering,Approach Shoes
+Footwear,Hunting/Fishing Boots,NewAllWeatherBootType
+Footwear,Outdoor/Water Sandal,Outdoor Open Toe
+Footwear,Running,Carbon Plate
+Footwear,Running,Heel-Toe Drop
+Footwear,Running,Race Shoe Type Detail
+Footwear,Running,Shoe Structure
+Footwear,Skate,Collaboration
+Footwear,Sport Lifestyle,Platform Sneaker
+Footwear,Training,CrossFit-Lifting
+Footwear,Work/Occupational/Safety,MilitaryTactical
+Footwear,Work/Occupational/Safety,Protective Toe
+Footwear,Work/Occupational/Safety,Slip Resistant
+Footwear,Work/Occupational/Safety,Work-Occupational-Safety Type
+Home Improvement,Aerosols,Additional Stain Features
+Home Improvement,Aerosols,Paint & Primer in One
+Home Improvement,Aerosols,Paint Kit
+Home Improvement,Aerosols,Paint Sheen Finishes
+Home Improvement,Aerosols,Paint Specialty Finish
+Home Improvement,Aerosols,Paint Type
+Home Improvement,Aerosols,Stain & Sealer Base Material
+Home Improvement,Aerosols,Stain Type
+Home Improvement,Bathtub/Whirlpool,Color/Finish
+Home Improvement,Bathtub/Whirlpool,Drain Location
+Home Improvement,Bathtub/Whirlpool,Exterior Bath Shape
+Home Improvement,Bathtub/Whirlpool,Installation Type
+Home Improvement,Bathtub/Whirlpool,Maximum Number of Occupants
+Home Improvement,Bathtub/Whirlpool,Number of Jets
+Home Improvement,Bathtub/Whirlpool,Overall Height
+Home Improvement,Bathtub/Whirlpool,Overall Length
+Home Improvement,Bathtub/Whirlpool,Overall Width
+Home Improvement,Bathtub/Whirlpool,Soaking Depth
+Home Improvement,Bathtub/Whirlpool,Water Capacity
+Home Improvement,Beverage Center,# Bottles Detail
+Home Improvement,Beverage Center,# Cans Detail
+Home Improvement,Beverage Center,Appliance Color
+Home Improvement,Beverage Center,Beverage Refrigerators Depth Detail
+Home Improvement,Beverage Center,Beverage Refrigerators Height Detail
+Home Improvement,Beverage Center,Beverage Refrigerators Light
+Home Improvement,Beverage Center,Beverage Refrigerators Width Detail
+Home Improvement,Beverage Center,Bluetooth Enabled
+Home Improvement,Beverage Center,Form Beverage Refrigerators
+Home Improvement,Beverage Center,Lock Beverage Refrigerators
+Home Improvement,Beverage Center,Number of Racks
+Home Improvement,Beverage Center,Number of Temperature Zones
+Home Improvement,Beverage Center,Rack Material
+Home Improvement,Beverage Center,Type Beverage Refrigerators
+Home Improvement,Beverage Center,WiFi Enabled
+Home Improvement,Cabinet & Furniture Hardware,Cabinet Hardware Shape
+Home Improvement,Cabinet & Furniture Hardware,Cabinet Pull Length
+Home Improvement,Cabinet & Furniture Hardware,Hardware Color Finish
+Home Improvement,Cabinet & Furniture Hardware,Hardware Material
+Home Improvement,Cabinet & Furniture Hardware,Hardware Units per Pack
+Home Improvement,Ceiling Fans,Ceiling Fan Mount Type
+Home Improvement,Ceiling Fans,Indoor Outdoor
+Home Improvement,Ceiling Fans,Number of Ceiling Fan Blades
+Home Improvement,Ceiling Fans,Remote Controlled
+Home Improvement,Ceiling Fans,Smart
+Home Improvement,Dishwashers,Disher Washer Width Detail
+Home Improvement,Dishwashers,Dishwasher Controls
+Home Improvement,Dishwashers,Dishwasher Number of Cycles Detail
+Home Improvement,Dishwashers,Energy Star Qualification (Dishwashers)
+Home Improvement,Dishwashers,Filter Type (Dishwashers)
+Home Improvement,Dishwashers,Interior Material
+Home Improvement,Dishwashers,Kilowatt-hours
+Home Improvement,Dishwashers,Number of Drawers/Doors
+Home Improvement,Dishwashers,Sensor Option (Dishwashers)
+Home Improvement,Dishwashers,Sound Control Option
+Home Improvement,Dishwashers,Sound Rating
+Home Improvement,Dishwashers,TubType
+Home Improvement,Dishwashers,Type (Dishwashers)
+Home Improvement,Dishwashers,Type of Controls
+Home Improvement,Door Hardware,Handleset Lock Type
+Home Improvement,Door Hardware,Type of Electric Door Lock
+Home Improvement,Electrical Generators,Generator Fuel Type
+Home Improvement,Fencing Parts & Accessories,Galvanized
+Home Improvement,Garage Door Hardware & Accessories,Garage Hardware Product Type
+Home Improvement,Garbage Disposals,Disposal Feed
+Home Improvement,Garbage Disposals,Grinding Speed RPM
+Home Improvement,Garbage Disposals,Horsepower
+Home Improvement,Garbage Disposals,Power Cord Included
+Home Improvement,Gate Hardware,Fencing Material Compatibility
+Home Improvement,Grills/Smokers/Stoves,Combo Fuel Type
+Home Improvement,Grills/Smokers/Stoves,Consumable
+Home Improvement,Grills/Smokers/Stoves,Fuel Type
+Home Improvement,Grills/Smokers/Stoves,Griddle
+Home Improvement,Grills/Smokers/Stoves,Grill Style
+Home Improvement,Grills/Smokers/Stoves,Grill Type
+Home Improvement,Grills/Smokers/Stoves,Grilling Fuel Flavor
+Home Improvement,Grills/Smokers/Stoves,Grilling Fuel Size
+Home Improvement,Grills/Smokers/Stoves,Grills/Smokers/Stoves Color
+Home Improvement,Grills/Smokers/Stoves,Lump - Briquette Charcoal
+Home Improvement,Grills/Smokers/Stoves,Number of Main Burners
+Home Improvement,Grills/Smokers/Stoves,Number of Side Burners
+Home Improvement,Grills/Smokers/Stoves,Primary Cooking Space
+Home Improvement,Grills/Smokers/Stoves,Regular - Instant Charcoal
+Home Improvement,Ice Makers,Daily Ice Production
+Home Improvement,Ice Makers,Energy Star Qualification Ice Makers
+Home Improvement,Ice Makers,Ice Capacity
+Home Improvement,Ice Makers,Mounting Type - Ice Makers
+Home Improvement,Indoor Lighting,Number of Bulbs or Lights
+Home Improvement,Indoor Lighting,Power Source
+Home Improvement,Interior & Exterior Paint,Primer Interior Exterior
+Home Improvement,Kitchen & Bath Faucets,Collection Name
+Home Improvement,Kitchen & Bath Faucets,Deck Plate
+Home Improvement,Kitchen & Bath Faucets,Drain
+Home Improvement,Kitchen & Bath Faucets,Faucet Type
+Home Improvement,Kitchen & Bath Faucets,Flow Rate
+Home Improvement,Kitchen & Bath Faucets,Hand Shower
+Home Improvement,Kitchen & Bath Faucets,Handle Type
+Home Improvement,Kitchen & Bath Faucets,Mounting Type
+Home Improvement,Kitchen & Bath Faucets,Number of Faucet Handles
+Home Improvement,Kitchen & Bath Faucets,Number of Spray Settings
+Home Improvement,Kitchen & Bath Faucets,Platform Type
+Home Improvement,Kitchen & Bath Faucets,Shower Head Shape
+Home Improvement,Kitchen & Bath Faucets,Showerhead Flow Rate
+Home Improvement,Kitchen & Bath Faucets,Soap Dispenser
+Home Improvement,Kitchen & Bath Faucets,Sprayer Head
+Home Improvement,Kitchen & Bath Faucets,Supply Line
+Home Improvement,Kitchen & Bath Faucets,Touchless Faucet
+Home Improvement,Landscaping Equipment,Battery Included
+Home Improvement,Landscaping Equipment,Charger Included
+Home Improvement,Landscaping Equipment,Landscaping Equipment Fuel Type
+Home Improvement,Laundry,Agitator
+Home Improvement,Laundry,Charge Load Capacity (Kg)
+Home Improvement,Laundry,Cubic Capacity Actual
+Home Improvement,Laundry,Delicate Cycle (Clothes Dryer)
+Home Improvement,Laundry,Dryer Cubic Capacity Detail
+Home Improvement,Laundry,Dryer Door Opening
+Home Improvement,Laundry,Dryer Rack Included
+Home Improvement,Laundry,Dryer Width Detail
+Home Improvement,Laundry,Energy Star Qualification (Washing Machines)
+Home Improvement,Laundry,Energy Type (Clothes Dryers)
+Home Improvement,Laundry,Impeller
+Home Improvement,Laundry,Number of Drums
+Home Improvement,Laundry,Number of Drying Programs Detail (Clothes Dryer)
+Home Improvement,Laundry,Operation Function
+Home Improvement,Laundry,Steam (Clothes Dryer/Washing Machines)
+Home Improvement,Laundry,Temperature Level Detail
+Home Improvement,Laundry,Type (Clothes Dryers)
+Home Improvement,Laundry,Type (Washing Machines)
+Home Improvement,Laundry,Type of Sensor (Washing Machines)
+Home Improvement,Laundry,Washer Loading
+Home Improvement,Laundry,Washer Number of Cycles Detail
+Home Improvement,Laundry,Washer Width Details
+Home Improvement,Laundry,Washer rpms Detail
+Home Improvement,Laundry,Washer/Dryer Controls
+Home Improvement,Laundry,Washing Machine Capacity Detail
+Home Improvement,Lawn & Garden Care,Bag Capacity Dry Volume
+Home Improvement,Lawn & Garden Care,Color Family - Mulch
+Home Improvement,Lawn & Garden Care,Coverage Area
+Home Improvement,Lawn & Garden Care,Delivery Method
+Home Improvement,Lawn & Garden Care,Mulch Type
+Home Improvement,Lawn & Garden Care,Product Weight
+Home Improvement,Lawn & Garden Care,Seed Type
+Home Improvement,Lawn & Garden Tools,Bin or Cart Material
+Home Improvement,Lawn & Garden Tools,Capacity
+Home Improvement,Lawn & Garden Tools,Handle Material
+Home Improvement,Lawn & Garden Tools,Head Blade Material
+Home Improvement,Lawn & Garden Tools,Material - Garden Hoses & Accessories
+Home Improvement,Lawn & Garden Tools,Product Length - Hoses
+Home Improvement,Lawn & Garden Tools,Product Type - Hose Reel
+Home Improvement,Lawn & Garden Tools,Product Type - Sprayer
+Home Improvement,Lawn & Garden Tools,Product Type - Spreader
+Home Improvement,Lawn & Garden Tools,Product Type - Spreader Accessories
+Home Improvement,Lawn & Garden Tools,Shoulder Strap
+Home Improvement,Lawn & Garden Tools,Watering Can Material
+Home Improvement,Lawn & Garden Tools,Winding Reel Type
+Home Improvement,Lawn Care Equipment,Lawn Care Fuel Type
+Home Improvement,Lawn Care Equipment,Number of Batteries Included
+Home Improvement,Lawn Care Equipment,Number of Cordless Power Equipment Batteries Included
+Home Improvement,Lawn Care Equipment,Number of Items included in the Kit
+Home Improvement,Lawn Care Equipment,Self Propelled Lawn Mower
+Home Improvement,Lawn Fertilizers & Weed Killers,Application Type - Weed Grass Killers
+Home Improvement,Lawn Fertilizers & Weed Killers,Emergent Type
+Home Improvement,Lawn Fertilizers & Weed Killers,Form - Weed Grass Killers
+Home Improvement,Lawn Fertilizers & Weed Killers,Organic
+Home Improvement,Lawn Fertilizers & Weed Killers,Product Type - Lawn Fertilizers
+Home Improvement,Lawn Fertilizers & Weed Killers,Spray Application
+Home Improvement,Lawn Fertilizers & Weed Killers,Time Release
+Home Improvement,Light Bulbs,Light Bulb Package Quantity
+Home Improvement,Microwaves,Maximum Wattage (Microwave Oven)
+Home Improvement,Microwaves,Microwave Controls
+Home Improvement,Microwaves,Microwave Cubic Capacity Detail
+Home Improvement,Microwaves,Power Levels
+Home Improvement,Microwaves,Sensor
+Home Improvement,Microwaves,Turntable
+Home Improvement,Microwaves,Type (Microwave Oven)
+Home Improvement,Outdoor Furniture,Furniture Height Type
+Home Improvement,Outdoor Furniture,Number of Pieces in the Set
+Home Improvement,Outdoor Furniture,Outdoor Furniture Seating Capacity
+Home Improvement,Paint Supplies,Bristle Material
+Home Improvement,Paint Supplies,Caulk Gun - Manual or Powered
+Home Improvement,Paint Supplies,Heat Gun - Corded or Cordless
+Home Improvement,Paint Supplies,Package Quantity
+Home Improvement,Paint Supplies,Paint Sprayer Type
+Home Improvement,Paint Supplies,Paint Tools Handle Material
+Home Improvement,Paint Supplies,Patch & Repair Kit
+Home Improvement,Paint Supplies,Patch Base Material
+Home Improvement,Paint Supplies,Roller Cover Material
+Home Improvement,Pest Control,Application Type - Animal Control
+Home Improvement,Pest Control,Application Type - Insect Control
+Home Improvement,Pest Control,Barrier Type
+Home Improvement,Pest Control,Number of Doors - Traps
+Home Improvement,Pest Control,Product Type - Animal Control
+Home Improvement,Pest Control,Product Type - Insect Control
+Home Improvement,Pest Control,Trap Type
+Home Improvement,Shade Structures,Lighted Umbrella
+Home Improvement,Shade Structures,Umbrella Stand Included
+Home Improvement,Sinks,Faucet Hole Spacing
+Home Improvement,Sinks,Number of Basins
+Home Improvement,Sinks,Number of Faucet Holes
+Home Improvement,Sinks,Sink Mount Type
+Home Improvement,Sinks,Sink Type
+Home Improvement,Toilets & Bidets,Antimicrobial
+Home Improvement,Toilets & Bidets,Bidet - Height
+Home Improvement,Toilets & Bidets,Bidet - Type
+Home Improvement,Toilets & Bidets,Bidet Spray Type
+Home Improvement,Toilets & Bidets,Bidet Wash Direction
+Home Improvement,Toilets & Bidets,Bidet Water Temperature
+Home Improvement,Toilets & Bidets,Bowl Height
+Home Improvement,Toilets & Bidets,Bowl Shape
+Home Improvement,Toilets & Bidets,Electric Bidet
+Home Improvement,Toilets & Bidets,Flushing Type
+Home Improvement,Toilets & Bidets,Gallons Per Flush
+Home Improvement,Toilets & Bidets,Gentle Wash
+Home Improvement,Toilets & Bidets,Seat Material
+Home Improvement,Toilets & Bidets,Spud Location
+Home Improvement,Toilets & Bidets,Toilet Mount Location
+Home Improvement,Toilets & Bidets,Toilet Seat Included
+Home Improvement,Toilets & Bidets,Toilet Seat Type
+Home Improvement,Toilets & Bidets,Toilet Type
+Home Improvement,Toilets & Bidets,Touchless
+Home Improvement,Toilets & Bidets,Urinal Installation Method
+Home Improvement,Toilets & Bidets,Urinal Type
+Home Improvement,Total Cooking,Air Extraction Rate Detail
+Home Improvement,Total Cooking,Cleaning Option (Ovens)
+Home Improvement,Total Cooking,Cleaning Option (Ranges only)
+Home Improvement,Total Cooking,Cook-Top Controls
+Home Improvement,Total Cooking,Cook-Top Cooking Surface
+Home Improvement,Total Cooking,Cook-Top Width Detail
+Home Improvement,Total Cooking,Energy (Cook-top)
+Home Improvement,Total Cooking,Energy (Ranges)
+Home Improvement,Total Cooking,Energy Type (Ovens)
+Home Improvement,Total Cooking,Extraction System
+Home Improvement,Total Cooking,Filter Type (Range Hoods/Vent Systems)
+Home Improvement,Total Cooking,Heat Sensor
+Home Improvement,Total Cooking,Keep Warm Element
+Home Improvement,Total Cooking,Number of Cooking Elements/Burners
+Home Improvement,Total Cooking,Number of Fan Speeds
+Home Improvement,Total Cooking,Number of Ovens
+Home Improvement,Total Cooking,Oven (Ranges)
+Home Improvement,Total Cooking,Oven Controls
+Home Improvement,Total Cooking,Oven Cubic Capacity Detail
+Home Improvement,Total Cooking,Oven Width Detail
+Home Improvement,Total Cooking,Range Controls
+Home Improvement,Total Cooking,Range Cooking Surface
+Home Improvement,Total Cooking,Range Cubic Capacity Detail
+Home Improvement,Total Cooking,Range Hood Controls
+Home Improvement,Total Cooking,Range Hood Depth Detail
+Home Improvement,Total Cooking,Range Hood Height Detail
+Home Improvement,Total Cooking,Range Hood Light
+Home Improvement,Total Cooking,Range Hood Width Detail
+Home Improvement,Total Cooking,Range Width Detail
+Home Improvement,Total Cooking,Ranges Dual Fuel
+Home Improvement,Total Cooking,Speed Cooking Options (Ovens)
+Home Improvement,Total Cooking,Speed Cooking Options (Ranges)
+Home Improvement,Total Cooking,Type (Ovens)
+Home Improvement,Total Cooking,Type (Range Hoods/Vent Systems)
+Home Improvement,Total Cooking,Type (Ranges)
+Home Improvement,Total Cooking,Warming Drawer
+Home Improvement,Total Cooling,Built-In Refrigerator
+Home Improvement,Total Cooling,Defrost Type
+Home Improvement,Total Cooling,Door Dispenser Options
+Home Improvement,Total Cooling,Drawer Type
+Home Improvement,Total Cooling,Energy Star Qualification (Refrigerators)
+Home Improvement,Total Cooling,Freezer Cubic Capacity Detail
+Home Improvement,Total Cooling,Icemaker Option (Freezers)
+Home Improvement,Total Cooling,Icemaker Option (Refrigerators)
+Home Improvement,Total Cooling,Interior Light
+Home Improvement,Total Cooling,Lock (freezers)
+Home Improvement,Total Cooling,Number of Baskets
+Home Improvement,Total Cooling,Number of Dividers
+Home Improvement,Total Cooling,Number of Exterior Refrigerator Doors
+Home Improvement,Total Cooling,Number of Shelves
+Home Improvement,Total Cooling,Refrigerator Capacity Liter
+Home Improvement,Total Cooling,Refrigerator Cubic Capacity Detail
+Home Improvement,Total Cooling,Refrigerator Height Detail
+Home Improvement,Total Cooling,Refrigerator Width Detail
+Home Improvement,Total Cooling,Refrigerators Depth Detail
+Home Improvement,Total Cooling,Shelf Type
+Home Improvement,Total Cooling,Type (Freezers)
+Home Improvement,Total Cooling,Type of 4th Door
+Home Improvement,Total Cooling,Water Filtration
+Home Improvement,Trash Compactors,Mounting Type - Trash Compactors
+Home Improvement,Tub/Shower Surround,All Hardware
+Home Improvement,Tub/Shower Surround,Door Glass Thickness
+Home Improvement,Tub/Shower Surround,Double Hinged
+Home Improvement,Tub/Shower Surround,Glass Finish
+Home Improvement,Tub/Shower Surround,Number of Finished Sides
+Home Improvement,Tub/Shower Surround,Number of Shower Shelves
+Home Improvement,Tub/Shower Surround,Number of Wall Panels
+Home Improvement,Tub/Shower Surround,Shower Base Shape
+Home Improvement,Tub/Shower Surround,Shower Base Type
+Home Improvement,Tub/Shower Surround,Shower Door Type
+Home Improvement,Tub/Shower Surround,Shower Frame Hardware Finish Family
+Home Improvement,Tub/Shower Surround,Shower Frame Type
+Home Improvement,Tub/Shower Surround,Shower Handle Finish
+Home Improvement,Tub/Shower Surround,Shower Handle Style
+Home Improvement,Tub/Shower Surround,Shower Wall Installation Type
+Home Improvement,Tub/Shower Surround,Towel Bar Included
+Home Improvement,Tub/Shower Surround,Tub or Shower
+Home Improvement,Vanities,Assembled Depth
+Home Improvement,Vanities,Assembled Height
+Home Improvement,Vanities,Assembled Width
+Home Improvement,Vanities,Basin Color
+Home Improvement,Vanities,Basin Material
+Home Improvement,Vanities,Cabinet Color
+Home Improvement,Vanities,Cabinet Material
+Home Improvement,Vanities,Mirror Included
+Home Improvement,Vanities,Number of Doors
+Home Improvement,Vanities,Number of Sinks
+Home Improvement,Vanities,Number of Vanity Drawers
+Home Improvement,Vanities,Sink Shape
+House,Air Purifier Filters and Pre-Filters,Activated Carbon
+House,Air Purifier Filters and Pre-Filters,Charcoal
+House,Air Purifier Filters and Pre-Filters,HEPA filter
+House,Air Purifier Filters and Pre-Filters,Pack size
+House,Air Purifier Filters and Pre-Filters,Pre-filter Layer
+House,Air Purifier Filters and Pre-Filters,Smart Enabled Air Purifier Filters
+House,Air Purifiers/Humidifiers,AHAM-Verification
+House,Air Purifiers/Humidifiers,Aroma/Oil Diffuser
+House,Air Purifiers/Humidifiers,Cadr (Purifiers Only)
+House,Air Purifiers/Humidifiers,Fan Function
+House,Air Purifiers/Humidifiers,Filtration Technology (Purifiers Only)
+House,Air Purifiers/Humidifiers,Heater Function
+House,Air Purifiers/Humidifiers,Humidifier Capacity
+House,Air Purifiers/Humidifiers,Humidifier Function
+House,Air Purifiers/Humidifiers,Humidifier Output per Day
+House,Air Purifiers/Humidifiers,Humidifier Type (Humidifiers Only)
+House,Air Purifiers/Humidifiers,Humidistat
+House,Air Purifiers/Humidifiers,Ionizer
+House,Air Purifiers/Humidifiers,Plasma Ionizer
+House,Air Purifiers/Humidifiers,Smart Enabled
+House,Air Purifiers/Humidifiers,Type
+House,Air Purifiers/Humidifiers,UV-C Light
+House,Air Purifiers/Humidifiers,Water Purification (Humidifiers Only)
+House,Air Purifiers/Humidifiers,Wick (Cool Mist Humidifiers only)
+House,Beverage Center Other,Color
+House,Blending & Processing,Baby Food Maker
+House,Blending & Processing,Blending & Processing Type
+House,Blending & Processing,Container Primary Material
+House,Blending & Processing,Container Size Detail
+House,Blending & Processing,Control Configuration
+House,Blending & Processing,Corded/Cordless
+House,Blending & Processing,Cup to Go
+House,Blending & Processing,Hand Blender Attachment Type
+House,Blending & Processing,Heating Element
+House,Blending & Processing,Maximum Blending & Processing Vessel Size
+House,Blending & Processing,Number of Blade Attachments
+House,Blending & Processing,Number of Vessels
+House,Blending & Processing,Nutrient Extractor
+House,Blending & Processing,Product Capabilities
+House,Blending & Processing,Soup Function
+House,Blending & Processing,Speeds
+House,Blending & Processing,Vacuum Blending
+House,Blending & Processing,Watts
+House,Breadmaker,Bread Settings
+House,Breadmaker,Crust Options
+House,Breadmaker,Programmable Clock
+House,Breadmaker,Type Of Appliance (Breadmakers)
+House,Breadmaker,Viewing Window
+House,Bundles,Coffee Bundle
+House,Bundles,Counter Top Blender Bundle
+House,Bundles,Garment Care Bundle
+House,Bundles,Hand Blender Bundle
+House,Bundles,Other Bundle
+House,Bundles,Personal Care Bundles
+House,Bundles,Sandwich Maker Bundle
+House,Bundles,Toaster Bundle
+House,Bundles,Toaster Oven Bundle
+House,Citrus Juicer,Pulp Regulator
+House,Clothes Dryers,Dryer Cubic Capacity
+House,Clothes Dryers,Dryer Cubic Capacity Ranges
+House,Clothes Dryers,Dryer Width
+House,Clothes Dryers,Dryer Width Ranges
+House,Clothes Dryers,Number of Drying Programs (Clothes Dryers)
+House,Clothes Dryers,Temperature Level
+House,Coffee Grinder,Fineness Setting
+House,Coffee Grinder,Grinder Type
+House,Coffee Percolators,Coffee Level Indicator
+House,Coffee Percolators,Coffee Percolator Type
+House,Coffee Percolators,Cord Type
+House,Coffee Percolators,Dispensing Type
+House,Coffee Percolators,Drip Tray
+House,Coffee Percolators,Electric (Percolators)
+House,Coffee Percolators,Keep Warm Feature
+House,Coffee Percolators,Percolator Number Of Cups Detail
+House,Coffee Percolators,Ready To Serve Indicator
+House,Coffee Percolators,Smart Enabled (Coffee/Espresso Makers)
+House,Coffee/Espresso Makers,1-4 Cup Setting
+House,Coffee/Espresso Makers,Adjustable Coffee Strength
+House,Coffee/Espresso Makers,Auto On
+House,Coffee/Espresso Makers,Built-In Coffee Grinder
+House,Coffee/Espresso Makers,Carafe Type
+House,Coffee/Espresso Makers,Digital Display
+House,Coffee/Espresso Makers,Frother Type
+House,Coffee/Espresso Makers,Iced Coffee
+House,Coffee/Espresso Makers,Number Of Cups Detail
+House,Coffee/Espresso Makers,Number of Cups
+House,Coffee/Espresso Makers,One Touch Beverages (Espresso Makers)
+House,Coffee/Espresso Makers,Permanent Coffee Filter
+House,Coffee/Espresso Makers,Permanent Filter Type
+House,Coffee/Espresso Makers,Pod Capability
+House,Coffee/Espresso Makers,Pod System Platform
+House,Coffee/Espresso Makers,Travel Mug
+House,Coffee/Espresso Makers,Type (Coffee/Espresso Makers)
+House,Coffee/Espresso Makers,Type Of Espresso Maker
+House,Coffee/Espresso Makers,Type of Coffee Maker
+House,Coffee/Espresso Makers,Water Reservoir Type
+House,Compact Refrigerators,Type (Refrigerators)
+House,Cook-top,Cook-Top Timer
+House,Cook-top,Cook-Top Width Ranges
+House,Cook-top,Cook-top Width
+House,Cook-top,Number of Cooking ElementsBurners Ranges
+House,Cookers,Adjustable Temperature Control
+House,Cookers,Air Fry
+House,Cookers,Air Fryer Capacity
+House,Cookers,Air Fryer Lid
+House,Cookers,Air Fryer Shape
+House,Cookers,Air Fryer Technique
+House,Cookers,Air Fryer Timer
+House,Cookers,Bake/Roast/Toast
+House,Cookers,Basket Lift
+House,Cookers,Controls
+House,Cookers,Cooker Capacity
+House,Cookers,Cooker Design
+House,Cookers,Cooker Temperature Settings
+House,Cookers,Cooking Timer
+House,Cookers,Cool-Touch Housing
+House,Cookers,Delayed Start
+House,Cookers,Fryer Heating Element
+House,Cookers,Fryer Type
+House,Cookers,Multi-Cook Capability
+House,Cookers,Number of Tiers
+House,Cookers,Odor Filter
+House,Cookers,Oil Capacity
+House,Cookers,On-the-Go Design
+House,Cookers,Other Cooking Techniques
+House,Cookers,Pressure Cooking Technique
+House,Cookers,Removable Insert
+House,Cookers,Roast-Bake Technique
+House,Cookers,Rotating Feature
+House,Cookers,Saute-Brown Technique
+House,Cookers,Slow Cooking Technique
+House,Cookers,Steam/Boil/Simmer
+House,Cookers,Steaming Technique
+House,Cookers,Toast Technique
+House,Countertop Microwave Oven,Broils/Grill Technique
+House,Countertop Microwave Oven,Inverter Technology
+House,Countertop Microwave Oven,Microwave Cubic Capacity
+House,Curling Irons/Stylers,2-in-1
+House,Curling Irons/Stylers,Auto Curl Release
+House,Curling Irons/Stylers,Automatic Shutoff (Curling Irons/Stylers)
+House,Curling Irons/Stylers,Barrel/Plate Size
+House,Curling Irons/Stylers,Barrel/Plate Size Actual
+House,Curling Irons/Stylers,Cord
+House,Curling Irons/Stylers,Hot Air
+House,Curling Irons/Stylers,Instant Heat (Curling Irons/Stylers)
+House,Curling Irons/Stylers,Ionic Technology
+House,Curling Irons/Stylers,Number Of Heats
+House,Curling Irons/Stylers,Number Of Heats Detail
+House,Curling Irons/Stylers,Power Type (Curling Irons/Stylers)
+House,Curling Irons/Stylers,Specialty Styler Type
+House,Curling Irons/Stylers,Steam
+House,Curling Irons/Stylers,Straightener/Crimper Type
+House,Curling Irons/Stylers,Swivel Cord
+House,Curling Irons/Stylers,Wet/Dry (Flat Iron/Hair Straightener)
+House,DO NOT USE Food Processor,Type (Food Processor)
+House,DO NOT USE_Electric Kettles (Canada only),Capacity (litres)
+House,DO NOT USE_Electric Kettles (Canada only),Cordless
+House,DO NOT USE_Electric Kettles (Canada only),Detachable Cord
+House,DO NOT USE_Electric Kettles (Canada only),Kettle Material
+House,DO NOT USE_Electric Kettles (Canada only),Safety Feature
+House,DO NOT USE_Electric Kettles (Canada only),Style/Shape
+House,DO NOT USE_Electric Kettles (Canada only),Water Level Indicator/Window
+House,Dehumidifier,Automatic Shutoff
+House,Dehumidifier,Built in pump
+House,Dehumidifier,Continuous Drain
+House,Dehumidifier,Control Type
+House,Dehumidifier,Dehumidifer Capacity
+House,Dehumidifier,Fan Speed
+House,Dehumidifier,Tank Capacity
+House,Dishwashers,Dishwashers Width
+House,Dishwashers,Kilowatt-Hours Dishwashers
+House,Dishwashers,Number of Cycles (Dishwashers)
+House,Dishwashers,Sound Rating Ranges
+House,Electric Can Opener,Bag/Bottle Opener
+House,Electric Can Opener,Built-In Knife Sharpener
+House,Electric Can Opener,Electric Can Opener Size
+House,Electric Can Opener,Power Type (Electric Can Opener)
+House,Electric Can Opener,Removable Cutting Blade
+House,Electric Can Opener,Type (Electric Can Opener)
+House,Electric Diffusers,DIffuser Material
+House,Electric Diffusers,Diffusion Type
+House,Electric Diffusers,Lighted
+House,Electric Diffusers,Multiuse
+House,Electric Grills/Griddles,Adjustable Thermostat (Electric Grills/Griddles)
+House,Electric Grills/Griddles,Auto Shutoff (Electric Grills/Griddles)
+House,Electric Grills/Griddles,Non-Stick Coating (Electric Grills/Griddles)
+House,Electric Grills/Griddles,Smokeless
+House,Electric Grills/Griddles,Type (Electric Grills/Griddles)
+House,Electric Kettles,Concealed Heating Element
+House,Electric Kettles,Electric Kettle Capacity
+House,Electric Kettles,Electric Kettles Removable Filter
+House,Electric Kettles,Keep Warm Function
+House,Electric Kettles,Number of Temperature/Heat Settings
+House,Electric Kettles,Type of Heat Setting
+House,Electric Kettles,Water Temperature Display
+House,Electric Skillets/Woks,Adjustable Thermostat (Electric Skillets/Woks)
+House,Electric Skillets/Woks,Auto Shutoff (Electric Skillets/Woks)
+House,Electric Skillets/Woks,Electric Skillet Wok Size Detail
+House,Electric Skillets/Woks,Non-Stick Coating (Electric Skillets/Woks)
+House,Electric Skillets/Woks,Size (Skillets Only)
+House,Electric Skillets/Woks,Type (Electric Skillets/Woks)
+House,Electric Skillets/Woks,Vented Lid
+House,Fans,Fan Width
+House,Fans,Oscillating
+House,Fans,Power Type (Fans)
+House,Fans,Remote Control
+House,Fans,Thermostat
+House,Fans,Type Of Fan
+House,Food Vacuum Sealer Bags and Rolls,Type Food Vacuum Sealer Bag and Rolls
+House,Freezers,Freezer Cubic Capacity
+House,Fryers,Immersion
+House,Fryers,Nonstick Interior
+House,Fryers,Removable Pot
+House,Fryers,Timer Fryers
+House,Fryers,Type Fryers
+House,Fryers,Viewing Window (Deep Fryers)
+House,Full Size Vacuums,2-in-1 Vacuum
+House,Full Size Vacuums,Bag Type
+House,Full Size Vacuums,Cleaning Path
+House,Full Size Vacuums,Cleaning Path Detail (Full-Size Vacuums)
+House,Full Size Vacuums,Cleaning_Path_Detail_Canada
+House,Full Size Vacuums,Cord Length (Floor Care)
+House,Full Size Vacuums,Corded
+House,Full Size Vacuums,Cyclonic
+House,Full Size Vacuums,Extractor Style (Deep Carpet Cleaners Only)
+House,Full Size Vacuums,Filtration System (Full-Size Vacuums)
+House,Full Size Vacuums,Fold-away Handle (Uprights Only)
+House,Full Size Vacuums,Head Configuration (Deep Carpet Cleaners Only)
+House,Full Size Vacuums,Headlight
+House,Full Size Vacuums,Moveable Head
+House,Full Size Vacuums,Multi-Surface Capability Deep Carpet Cleaners
+House,Full Size Vacuums,Number Of Amps Detail (Full-Size Vacuums)
+House,Full Size Vacuums,Number of Amps
+House,Full Size Vacuums,Number of Motors
+House,Full Size Vacuums,Number_of_Amps_Detail_Canada
+House,Full Size Vacuums,Pet
+House,Full Size Vacuums,Retractable Cord (Floor Care)
+House,Full Size Vacuums,Self Propelled (Full-Size Vacuums)
+House,Full Size Vacuums,Size (Canisters Only)
+House,Full Size Vacuums,Tank Capacity Gals. (Workshop Vacs Only)
+House,Full Size Vacuums,Tank Capacity Gals. Detail (Workshop Vacs Only)
+House,Full Size Vacuums,Type (Full-Size Vacuums)
+House,Full Size Vacuums,Type of Cleaner Head
+House,Full Size Vacuums,Water Spray (Extractor Only)
+House,Full Size Vacuums,Weight Detail
+House,Garment Care,Adjustable Steam
+House,Garment Care,Automatic Shutoff (Garment Care)
+House,Garment Care,Burst Of Steam
+House,Garment Care,Self Cleaning
+House,Garment Care,Travel (Garment Care)
+House,Garment Care,Type Garment Care
+House,Garment Care,Type Of Sole Plate
+House,Hair Removal Replacement Parts,Appliance Gender
+House,Hair Removal Replacement Parts,Appliance Type
+House,Hair Removal Replacement Parts,Replacement Type
+House,Hairdryers,Attachments (Hair Dryers)
+House,Hairdryers,Brush/Comb Attachment
+House,Hairdryers,Ceramic Technology
+House,Hairdryers,Cool Shot
+House,Hairdryers,Folding Handle
+House,Hairdryers,Hair Dryer Watts Detail
+House,Hairdryers,Heat Settings (Hairdryers)
+House,Hairdryers,Quiet Feature
+House,Hairdryers,Removable Filter
+House,Hairdryers,Speeds (Hairdryers)
+House,Hairdryers,Type Of Appliance (Hairdryers)
+House,Hairdryers,Wattage (Hairdryers)
+House,Hairdryers,Worldwide Dual Voltage
+House,Hairsetters,Color Change Heat Indicator
+House,Hairsetters,Dual Voltage
+House,Hairsetters,Heat Method
+House,Hairsetters,Instant Heat (Hairsetters)
+House,Hairsetters,Number Of Rollers
+House,Hairsetters,Roller Size
+House,Hairsetters,Roller Type
+House,Hairsetters,Travel (Hairsetters)
+House,Hand/Stick Vacuums,Accessories (Hand/Stick Vacuums)
+House,Hand/Stick Vacuums,Brush Bar
+House,Hand/Stick Vacuums,Multi-Speed
+House,Hand/Stick Vacuums,Removable Battery
+House,Hand/Stick Vacuums,Self Emptying
+House,Hand/Stick Vacuums,Self-Standing
+House,Hand/Stick Vacuums,Type (Hand/Stick Vacuums)
+House,Hand/Stick Vacuums,Wet/Dry (Hand/Stick Vacuums)
+House,Heaters,Adjustable Thermostat (Heaters)
+House,Heaters,Heater Form
+House,Heaters,Heating Element Technology
+House,Heaters,Oscillating (Heater)
+House,Heaters,Remote Control (Heaters)
+House,Heaters,Type of Heat Distribution
+House,Home Hair Clippers,Blade Configuration
+House,Home Hair Clippers,Hair Clipper Piece Count Detail
+House,Home Hair Clippers,Instructional Video
+House,Home Hair Clippers,Piece Count
+House,Home Hair Clippers,Power Type (Clippers)
+House,Home Hair Clippers,Type (Clippers)
+House,Home Soda/Beer/Cocktail Makers,Bottle_Type
+House,Home Soda/Beer/Cocktail Makers,Capsule/Pod
+House,Home Soda/Beer/Cocktail Makers,Mix-Syrup_Flavors
+House,Home Soda/Beer/Cocktail Makers,Mix-Syrup_PackSize
+House,Home Soda/Beer/Cocktail Makers,Type (Home Soda Machines)
+House,Home Soda/Beer/Cocktail Makers,Type of Carbonator
+House,Juice Extractor,Juice Container
+House,Juice Extractor,Number Of Speeds (Juice Extractor)
+House,Juice Extractor,Pulp Ejection Bin
+House,Juice Extractor,Type of Juicer
+House,Kitchen Composters,Composter Color
+House,Kitchen Composters,Composters Capacity
+House,Kitchen Composters,Electric Composters
+House,Kitchen Composters,Placement
+House,Lighted Mirrors,Adjustable Side Mirrors
+House,Lighted Mirrors,Body Type
+House,Lighted Mirrors,Halogen Lighting
+House,Lighted Mirrors,Light Setting
+House,Lighted Mirrors,Magnification
+House,Lighted Mirrors,Mirror Shape
+House,Lighted Mirrors,Power Type (Lighted Mirrors)
+House,Lighted Mirrors,Swivel Mirror
+House,Lighted Mirrors,Wall Mount
+House,Massaging Appliances,Adjustability
+House,Massaging Appliances,Attachments
+House,Massaging Appliances,Heat
+House,Massaging Appliances,Mode
+House,Massaging Appliances,Power Type (Massaging Appliances)
+House,Massaging Appliances,Speed Control
+House,Massaging Appliances,Water Movement
+House,Men's Electric Shavers,Clean And Charge
+House,Men's Electric Shavers,Head Shaver
+House,Men's Electric Shavers,Head Type
+House,Men's Electric Shavers,Number Of Heads/Foils
+House,Men's Electric Shavers,Power Type (Electric Shavers)
+House,Men's Electric Shavers,Wet/Dry (Electric Shavers)
+House,Mens Trimmer,Power Type (Trimmers)
+House,Mens Trimmer,Type (Trimmers)
+House,Mens Trimmer,Wet/Dry (Trimmers)
+House,Mixers,Dough Hooks
+House,Mixers,Number Of Speeds (Mixers)
+House,Mixers,Type (Mixers)
+House,Non-Electric Carpet Sweepers,Brush Count
+House,Non-Electric Carpet Sweepers,Corner Brushes
+House,Non-Electric Carpet Sweepers,Height Adjustable
+House,Non-Electric Carpet Sweepers,Shell
+House,Oral Care Appliance,Power
+House,Oral Care Appliance,Type (Oral Care Appliance)
+House,Oral Care Replacement Parts,Pack Capacity (Oral Care)
+House,Oral Care Replacement Parts,Type (Oral Care Replacements)
+House,Ovens,Oven Cubic Capacity
+House,Ovens,Oven Cubic Capacity Ranges
+House,Ovens,Oven Width Ranges
+House,Personal Wellness,Body Beauty Service
+House,Personal Wellness,Clock/Timer (Sensory Type Only)
+House,Personal Wellness,Sensory Experience
+House,Personal Wellness,Type (Personal Wellness)
+House,Portable Induction Cooktop,Bonus Pack
+House,Portable Induction Cooktop,Portable Induction Auto Shutoff
+House,Portable Induction Cooktop,Portable Induction Number of Burners
+House,Range Hood,Air Extraction Rate
+House,Range Hood,Range Hood Depth
+House,Range Hood,Range Hood Height
+House,Range Hood,Range Hood Width
+House,Ranges,Burner Grill Material
+House,Ranges,Cubic Capacity Ranges
+House,Ranges,Fuel Options (do not use)
+House,Ranges,Ignition
+House,Ranges,LidCover
+House,Ranges,Range Cubic Capacity
+House,Ranges,Range Width
+House,Ranges,Range Width Ranges
+House,Ranges,Ranges Air Fryer
+House,Refrigerators,Color Refrigerators
+House,Refrigerators,Depth (in inches)
+House,Refrigerators,Refrigerator Cubic Capacity
+House,Refrigerators,Refrigerator Cubic Capacity Ranges
+House,Refrigerators,Refrigerators Height
+House,Refrigerators,Refrigerators Height Ranges
+House,Refrigerators,Refrigerators Width
+House,Refrigerators,Refrigerators Width Ranges
+House,Room Air Conditioners,BTUs
+House,Room Air Conditioners,Electronic Controls/Remote Control Option
+House,Room Air Conditioners,Heating/Cooling Option
+House,Room Air Conditioners,Timer Option
+House,Room Air Conditioners,Type (Room Air Conditioners)
+House,Scales,Body Fat
+House,Scales,Memory
+House,Scales,Platform Material
+House,Scales,Type (Scales)
+House,Slow Cooker,Programmable Slow Cookers
+House,Slow Cooker,Shape (Slow Cooker)
+House,Slow Cooker,Slow Cook Capacity Detail
+House,Slow Cooker,Slow Cooker Capacity
+House,Specialty Cleaning,Auto Recharge and Resume
+House,Specialty Cleaning,Boundary Type
+House,Specialty Cleaning,Cliff Detection
+House,Specialty Cleaning,Connectivity
+House,Specialty Cleaning,Detection Type
+House,Specialty Cleaning,Height (Robotic Vacuums)
+House,Specialty Cleaning,Method of Cleaning
+House,Specialty Cleaning,Method of Cleaning (Robotic Vacuums)
+House,Specialty Cleaning,Multi-Surface Capability
+House,Specialty Cleaning,OTA Capable
+House,Specialty Cleaning,Programmable (Specialty Cleaning)
+House,Specialty Cleaning,Run-Time
+House,Specialty Cleaning,Shape (Robotic Vacuums)
+House,Specialty Cleaning,Steam (Specialty Cleaning)
+House,Specialty Cleaning,Surface Adjustment
+House,Specialty Cleaning,Voice Activation
+House,Specialty Coffee/Espresso Makers,Carafe Primary Material
+House,Specialty Coffee/Espresso Makers,Electric (Specialty Coffee)
+House,Specialty Coffee/Espresso Makers,Ounces
+House,Specialty Kitchen Electrics,Type (Misc Kitchen Elec)
+House,Specialty Kitchen Electrics,Type Specialty Ovens
+House,Specialty Kitchen Electrics,Type of Popcorn Maker
+House,Toaster,Cool-Touch Housing (Toaster)
+House,Toaster,Crumb Tray
+House,Toaster,Long Slot
+House,Toaster,Slices (Toaster)
+House,Toaster,Wide Slot
+House,Toaster Oven,Broiler
+House,Toaster Oven,Convection
+House,Toaster Oven,Cool-Touch Housing (Toaster Oven)
+House,Toaster Oven,Crumb Tray (Toaster Oven)
+House,Toaster Oven,Digital Touchpad
+House,Toaster Oven,Infrared
+House,Toaster Oven,Non-Stick Interior Coating
+House,Toaster Oven,Rotisserie
+House,Toaster Oven,Slices (Toaster Oven)
+House,Toaster Oven,Temperature Probe
+House,Toaster Oven,Timer (Toaster Oven)
+House,Vacuum Sealers,Accessory Port
+House,Vacuum Sealers,Bag Storage
+House,Waffle Iron/Sandwich Maker,Cool Touch
+House,Waffle Iron/Sandwich Maker,Rotating Function
+House,Waffle Iron/Sandwich Maker,Type of Maker
+House,Waffle Iron/Sandwich Maker,Waffle Shape
+House,Waffle Iron/Sandwich Maker,Waffle Style
+House,Washing Machines,Kilowatt Hours Ranges
+House,Washing Machines,Number of Cycles (Washing Machines)
+House,Washing Machines,RPMs
+House,Washing Machines,RPMs Ranges
+House,Washing Machines,Washer Cubic Capacity
+House,Washing Machines,Washer Width
+House,Water Filtration Devices,Container Type
+House,Water Filtration Devices,Type (Water Filtration Devices)
+House,Water Filtration Replacement Filters,Pack Capacity (Filters)
+House,Water Filtration Replacement Filters,Type (Filters)
+House,Wine Coolers,# Bottles
+House,Wine Coolers,Beverage Refrigerator Depth
+House,Wine Coolers,Beverage Refrigerator Height
+House,Wine Coolers,Beverage Refrigerator Width
+House,Women's Grooming,Type (Electric Shavers)
+Housewares,Bake/Mix/Measure,Kitchen Scales Type
+Housewares,Bake/Mix/Measure,Measuring Products Color
+Housewares,Bake/Mix/Measure,Measuring Products Primary Material
+Housewares,Bake/Mix/Measure,Rolling Pin Material
+Housewares,Bake/Mix/Measure,Rolling Pin Style
+Housewares,Bake/Mix/Measure,Whisk Type
+Housewares,Bakeware,Bakeware Color
+Housewares,Bakeware,Bakeware Cover Included
+Housewares,Bakeware,Bakeware Design
+Housewares,Bakeware,Bakeware Inches
+Housewares,Bakeware,Bakeware Line
+Housewares,Bakeware,Bakeware Muffin Pan Capacity
+Housewares,Bakeware,Bakeware Non-Stick
+Housewares,Bakeware,Bakeware Piece Count
+Housewares,Bakeware,Bakeware Piece Count Detail
+Housewares,Bakeware,Bakeware Primary Material
+Housewares,Bakeware,Bakeware Quart Size
+Housewares,Bakeware,Bakeware Shape
+Housewares,Bakeware,Bakeware Stock Type 
+Housewares,Bakeware,Bakeware Type
+Housewares,Bathroom Cleaning Tools,Bristle / Head Type
+Housewares,Bathroom Cleaning Tools,Cleaning Tool Primary Material
+Housewares,Bathroom Cleaning Tools,Cleaning Tool Type
+Housewares,Beverageware,Beverageware Glass Type
+Housewares,Beverageware,Beverageware Piece Count Detail
+Housewares,Beverageware,Beverageware Primary Material
+Housewares,Beverageware,Beverageware Segment
+Housewares,Beverageware,Beverageware Shape
+Housewares,Beverageware,Beverageware Type
+Housewares,Beverageware,Portable Beverageware Color
+Housewares,Beverageware,Portable Beverageware Insulation
+Housewares,Beverageware,TEMP Beverageware Primary Material
+Housewares,Beverageware,TEMP Beverageware Shape
+Housewares,Beverageware,Water Bottle Filtration
+Housewares,Cookware,Cookware Cover Included
+Housewares,Cookware,Cookware Exterior Color Treatment
+Housewares,Cookware,Cookware Interior Nonstick Coating
+Housewares,Cookware,Cookware Internal Color
+Housewares,Cookware,Cookware PTFE/PFOA Free
+Housewares,Cookware,Cookware Piece Count Detail
+Housewares,Cookware,Cookware Ply
+Housewares,Cookware,Cookware Primary Material
+Housewares,Cookware,Cookware Size of Item - Inches
+Housewares,Cookware,Cookware Size of Item - Quarts
+Housewares,Cookware,Cookware Stock Type
+Housewares,Cookware,Cookware Type
+Housewares,Cookware,Dishwasher Safe
+Housewares,Cookware,Induction Compatible
+Housewares,Cookware,Interior Coating
+Housewares,Cookware,Stackable Cookware
+Housewares,Crystal Giftware,Crystal Giftware Type
+Housewares,Cutlery,Blade Coating
+Housewares,Cutlery,Blade Material
+Housewares,Cutlery,Cutlery Accessory Type
+Housewares,Cutlery,Cutlery Blade Type
+Housewares,Cutlery,Cutlery Board Material
+Housewares,Cutlery,Cutlery Edge Treatment
+Housewares,Cutlery,Cutlery Handle Material
+Housewares,Cutlery,Cutlery Handle Type
+Housewares,Cutlery,Cutlery Open Stock Type
+Housewares,Cutlery,Cutlery Piece Count Detail
+Housewares,Cutlery,Cutlery Set Type
+Housewares,Cutlery,Cutlery Size Detail
+Housewares,Cutlery,Cutlery Type
+Housewares,Cutlery,Scissors or Shear Type
+Housewares,Dinnerware,Dinnerware Design
+Housewares,Dinnerware,Dinnerware Metal Accent Band
+Housewares,Dinnerware,Dinnerware Pattern Placement
+Housewares,Dinnerware,Dinnerware Piece Count Detail
+Housewares,Dinnerware,Dinnerware Primary Material Type
+Housewares,Dinnerware,Dinnerware Segment
+Housewares,Dinnerware,Dinnerware Stock Type
+Housewares,Dinnerware,Dinnerware Type
+Housewares,Dinnerware,Dinnerware Year of Introduction
+Housewares,Dinnerware,Serveware Stock Type
+Housewares,Entertaining Gadgets,Ice Bucket Insulation
+Housewares,Entertaining Gadgets,Ice Bucket Primary Material
+Housewares,Entertaining Gadgets,Reusable Straws Primary Material
+Housewares,Flatware,Flatware Piece Count Detail
+Housewares,Flatware,Flatware Primary Material
+Housewares,Flatware,Flatware Segment
+Housewares,Flatware,Flatware Service Size
+Housewares,Flatware,Flatware Type
+Housewares,Flatware,Flatware Utensil Shape
+Housewares,Food Preservation,Accessory Type
+Housewares,Food Preservation,Canner Type
+Housewares,Food Preservation,Electric Canner
+Housewares,Food Preservation,Jar Capacity
+Housewares,Food Preservation,Jar Color
+Housewares,Food Preservation,Jar Mouth Size
+Housewares,Food Preservation,Jar Pack Size
+Housewares,Food Preservation,Jar Texture
+Housewares,Food Preservation,Lid Primary Material
+Housewares,Food Preservation,Lid Type
+Housewares,Food Storage,Food Storage Airtight Feature
+Housewares,Food Storage,Food Storage Baby/Toddler
+Housewares,Food Storage,Food Storage Design
+Housewares,Food Storage,Food Storage Divided
+Housewares,Food Storage,Food Storage Lid Style
+Housewares,Food Storage,Food Storage Primary Material
+Housewares,Food Storage,Food Storage Set Pc Count
+Housewares,Food Storage,Food Storage Shape
+Housewares,Food Storage,Food Storage Type
+Housewares,Food Storage,Traditional Food Storage Portable Feature
+Housewares,Food Storage,Traditional Food Storage Product Line
+Housewares,Food Storage,Traditional Food Storage Size
+Housewares,Food Storage,Wide Mouth
+Housewares,Grate/Peel/Clean,Garlic Prep Type
+Housewares,Grate/Peel/Clean,Garlic Prep Usage
+Housewares,Grate/Peel/Clean,Peelers Color
+Housewares,Home Utility Cleaning Tools,Bucket Capacity
+Housewares,Kettles,Kettles Stock Type
+Housewares,Kitchen Tools,Cooking Spoon Type
+Housewares,Kitchen Tools,Kitchen Tools Handle Color
+Housewares,Kitchen Tools,Kitchen Tools Handle Material
+Housewares,Kitchen Tools,Kitchen Tools Head Material
+Housewares,Kitchen Tools,Kitchen Tools Number of Pieces
+Housewares,Kitchen Tools,Turner Type
+Housewares,Laundry Organization,Laundry Expandable
+Housewares,Laundry Organization,Laundry Handles
+Housewares,Laundry Organization,Laundry Organization Color
+Housewares,Laundry Organization,Laundry Organization Primary Material
+Housewares,Laundry Organization,Laundry Type
+Housewares,Laundry Organization,Sections
+Housewares,Microwaveware,Microwaveware
+Housewares,Microwaveware,Microwaveware Cover(s) Included
+Housewares,Microwaveware,Microwaveware Piece Count Detail
+Housewares,Microwaveware,Microwaveware Primary Material
+Housewares,Microwaveware,Microwaveware Shape
+Housewares,Microwaveware,Microwaveware Stock Type
+Housewares,Microwaveware,Microwaveware Type
+Housewares,Miscellaneous Housewares,Glass Cutting Boards
+Housewares,Miscellaneous Housewares,New Products
+Housewares,Open/Close,Can Opener Type
+Housewares,Other Cooking Gadgets,Kitchen Thermometer Type
+Housewares,Other Cooking Gadgets,Kitchen Timers Type
+Housewares,Other Cooking Gadgets,Mixing Bowls Material
+Housewares,Other Cooking Gadgets,Mixing Bowls Number of Pieces
+Housewares,Other Preparation,Other Prep Collapsible
+Housewares,Other Preparation,Salad Spinner Function
+Housewares,Other Preparation,Tenderizer type
+Housewares,"Pantry, Cabinet and Countertop Organization",Adhesive Backing
+Housewares,"Pantry, Cabinet and Countertop Organization",Cabinet Attachment
+Housewares,"Pantry, Cabinet and Countertop Organization",Drawers Included
+Housewares,"Pantry, Cabinet and Countertop Organization",Foldable / Collapsable
+Housewares,"Pantry, Cabinet and Countertop Organization",Kitchen Organization Type
+Housewares,"Pantry, Cabinet and Countertop Organization",Liner Dimensions
+Housewares,"Pantry, Cabinet and Countertop Organization",Organization Item Color
+Housewares,"Pantry, Cabinet and Countertop Organization",Organization Item Primary Material
+Housewares,"Pantry, Cabinet and Countertop Organization",Organization Item Type
+Housewares,Portable Beverageware,Handle
+Housewares,Portable Beverageware,Portable Beverageware Shape
+Housewares,Portable Beverageware,Portable Beverageware Size
+Housewares,Portable Beverageware,Straw
+Housewares,Serving Gadgets,Corn Holder Handle Type
+Housewares,Serving Gadgets,Corn Holder Novelty
+Housewares,Serving Gadgets,Ice Cream Scoop Handle Type
+Housewares,Serving Gadgets,Ice Cream Scoop Head Material
+Housewares,Serving Gadgets,Ice Cream Scoop Type
+Housewares,Serving Gadgets,Pie Cake Brownie Server Handle Type
+Housewares,Serving Gadgets,Pie Cake Brownie Server Head Material
+Housewares,Sinkware & Accessories,Sinkware Primary Material
+Housewares,Sinkware & Accessories,Sinkware Type
+Housewares,Sinkware & Accessories,Soap Compartment / Dispenser
+Housewares,Sinkware & Accessories,Suction
+Housewares,Specialty Gadgets,Oil Vinegar Dispenser Type
+Housewares,Specialty Gadgets,Salt and Pepper Shaker Novelty
+Housewares,Specialty Gadgets,Specialty Gadgets Primary Material
+Housewares,Utensil Organization,Drawer/Untensil Organizers Max Width
+Housewares,Utensil Organization,Utensil Org Primary Material
+Housewares,Utensil Organization,Utensil Org Type
+Juvenile,Bed Bath,Bath Tub Feature
+Juvenile,Bed Bath,Bath Tub Insert
+Juvenile,Bed Bath,Bedding Material
+Juvenile,Bed Bath,Bedding Type
+Juvenile,Bed Bath,Changing Pads Or Covers
+Juvenile,Bed Bath,Convertibility
+Juvenile,Bed Bath,Diaper System Type
+Juvenile,Bed Bath,Foldability/Portability
+Juvenile,Bed Bath,Function
+Juvenile,Bed Bath,Odor Control
+Juvenile,Bed Bath,Organic Material
+Juvenile,Bed Bath,Potty Training Type
+Juvenile,Bed Bath,Sound
+Juvenile,Bed Bath,Sound Machine Format
+Juvenile,Bed Bath,Sound Machine Sleep Timer
+Juvenile,Bed Bath,Towel Type
+Juvenile,Entertainment,Activity Seats-Jumpers Type
+Juvenile,Entertainment,Bouncer Motion Type
+Juvenile,Entertainment,Harness
+Juvenile,Entertainment,Jumping Feature
+Juvenile,Entertainment,Multifunction
+Juvenile,Entertainment,Removable Mobile(s)
+Juvenile,Entertainment,Vibration
+Juvenile,Feeding,Automatic Shut-off
+Juvenile,Feeding,Baby Mesh Silicone Feeders
+Juvenile,Feeding,Bottle Shape
+Juvenile,Feeding,Bottle Warmer Heating Option
+Juvenile,Feeding,Bottle/Nipple
+Juvenile,Feeding,Breast Feeding Product Type
+Juvenile,Feeding,Breast Pump Closed System
+Juvenile,Feeding,Breast Pump Speed Control
+Juvenile,Feeding,Breast Pump Vacuum/Suction Control
+Juvenile,Feeding,Cup Handle(s)
+Juvenile,Feeding,Cup Insulation
+Juvenile,Feeding,DishesUtensilsFood Storage Type
+Juvenile,Feeding,Feeding Accessory Type
+Juvenile,Feeding,Feeding Product Material
+Juvenile,Feeding,Hands-free
+Juvenile,Feeding,Multiple Temperature Setting
+Juvenile,Feeding,Nipple Ventilation
+Juvenile,Feeding,Pacifier Age Break
+Juvenile,Feeding,Sippy Cup Type
+Juvenile,Feeding,Straw-Included
+Juvenile,Feeding,Tableware Type
+Juvenile,Feeding,Transitional Cup
+Juvenile,Feeding,Wearable Breast Pump
+Juvenile,Furniture,2 In 1 Mattress
+Juvenile,Furniture,Attached Changer
+Juvenile,Furniture,Crib Size
+Juvenile,Furniture,Furniture Accessory Type
+Juvenile,Furniture,Furniture Material
+Juvenile,Furniture,Furniture Type
+Juvenile,Furniture,Mattress Position Adjustment
+Juvenile,Furniture,Mattress Size
+Juvenile,Furniture,Mattress Type
+Juvenile,Furniture,Waterproof
+Juvenile,Mobility Furniture,Additional Storage
+Juvenile,Mobility Furniture,Adjustable Recline
+Juvenile,Mobility Furniture,Bassinet Rocking Movement
+Juvenile,Mobility Furniture,Bassinet Type
+Juvenile,Mobility Furniture,Canopy-Included
+Juvenile,Mobility Furniture,High Chair Height Adjustability
+Juvenile,Mobility Furniture,High Chair Type
+Juvenile,Mobility Furniture,Inclined Surface
+Juvenile,Mobility Furniture,Playard Type
+Juvenile,Mobility Furniture,Tray-Insert-Included
+Juvenile,Mobility Furniture,WheelsCasters-Included
+Juvenile,Safety and Health,Baby Gate Accessibility
+Juvenile,Safety and Health,Baby Gate Maximum Height
+Juvenile,Safety and Health,Baby Gate Maximum Length
+Juvenile,Safety and Health,Baby Gate Mount
+Juvenile,Safety and Health,Bed Rail Conversion Kit
+Juvenile,Safety and Health,Bed Rail Type
+Juvenile,Safety and Health,Health & Grooming Type
+Juvenile,Safety and Health,Moms Health
+Juvenile,Safety and Health,Monitor 2-Way Communication
+Juvenile,Safety and Health,Monitor LCD Display
+Juvenile,Safety and Health,Monitor Night Vision
+Juvenile,Safety and Health,Monitor Sound Activated LED Lights
+Juvenile,Safety and Health,Monitor Wireless
+Juvenile,Safety and Health,Safety Accessory Type
+Juvenile,Travel,Baby Carrier Type
+Juvenile,Travel,Car Seat Autobase Option
+Juvenile,Travel,Car Seat Size
+Juvenile,Travel,Car Seat Type
+Juvenile,Travel,Carrier Max Weight
+Juvenile,Travel,Diaper Travel Bag Type
+Juvenile,Travel,Modular Stroller
+Juvenile,Travel,Multiple Stroller Seats
+Juvenile,Travel,Newborn Insert
+Juvenile,Travel,Pocket(s)
+Juvenile,Travel,Rotating Car Seat
+Juvenile,Travel,Stroller Compact Fold
+Juvenile,Travel,Stroller Fold
+Juvenile,Travel,Stroller One-Hand Fold
+Juvenile,Travel,Stroller Type
+Juvenile,Travel,Stroller Weight
+Juvenile,Travel,Stroller Wheel Count
+Juvenile,Travel,Travel Accessories System Type
+Juvenile,Travel,Travel Accessory Type
+Juvenile,Travel,Travel System
+Software,Business,Customer Segment
+Software,Business,Hand Held OS
+Software,Business,Ingram Proprietary Attribute
+Software,Business,License Name
+Software,Business,License Status
+Software,Business,License Type
+Software,Business,Old Format
+Software,Business,Original Publisher
+Software,Business,User Groups
+Software,Business,Users
+Software,Digital Full PC Games Software,Corporate Pub
+Software,Digital Full PC Games Software,Developer
+Software,Digital Full PC Games Software,Distributor Australia
+Software,Digital Full PC Games Software,Distributor New Zealand
+Software,Digital Full PC Games Software,ESRB
+Software,Digital Full PC Games Software,ESRB Australia
+Software,Digital Full PC Games Software,License PC Games
+Software,Digital Full PC Games Software,MSRP
+Software,Digital Full PC Games Software,Online Playable
+Software,Digital Full PC Games Software,Players
+Software,Digital Full PC Games Software,Property
+Software,Digital Full PC Games Software,Title (Item Rollup)
+Software,Dummy,Education Level
+Software,PC Games Sub Cards,Sub-category of Game
+Software,PC Games Sub Cards,Subscription Length
+Software,PC Games Sub Cards,Title Based Subscription
+Software,System Utilities,Desktop/Server
+Sports EU,Active Swimwear - Body Suit,Length (Apparel Only)
+Sports EU,Outdoor Alpine Pants - Membrane,Membrane Type (Apparel Only)
+Sports EU,Outdoor Alpine Pants - Membrane,dictapmembranetype
+Sports EU,Outdoor Fleece Jacket,Closure (Apparel Only)
+Sports EU,Outdoor Fleece Jacket,Sleeve (Apparel Only)
+Sports EU,Outdoor Fleece Jacket,Windstop (Apparel Only)
+Sports EU,Outdoor Fleece Jacket,dictapclosure
+Sports EU,Outdoor Fleece Jacket,dictapsleeve
+Sports EU,Outdoor Fleece Jacket,dictapwindstop
+Sports EU,Outdoor Insulation Jacket,Jacket Type (Apparel Only)
+Sports EU,Outdoor Insulation Jacket,dictapjackettype
+Sports EU,Outdoor Tights,dictaplength
+Sports Equipment,Adjustable Poles,Material - Winter/Snow & Trekking Poles
+Sports Equipment,Alpine Equipment,DIN Range
+Sports Equipment,Alpine Equipment,Reverse/Mixed Camber
+Sports Equipment,Alpine Equipment,Ski Waist Width
+Sports Equipment,Alpine Equipment,Twin Tip
+Sports Equipment,Boats,Fishing
+Sports Equipment,Boats,Pedal
+Sports Equipment,Boats,Recreation Kayak Type
+Sports Equipment,Boats,SUP Type
+Sports Equipment,Boats,Touring Kayak Type
+Sports Equipment,Cardiovascular Machines,Resistance Type
+Sports Equipment,Coolers,Can Capacity
+Sports Equipment,Coolers,Cooler Size
+Sports Equipment,Coolers,Electric
+Sports Equipment,Coolers,Wheels Coolers
+Sports Equipment,Eyewear Accessories,Modelyear
+Sports Equipment,Eyewear Accessories,Temperature Ratings
+Sports Equipment,Firearms,Ammunition Type
+Sports Equipment,Firearms,Barrel Length
+Sports Equipment,Firearms,Caliber
+Sports Equipment,Firearms,Gauge
+Sports Equipment,Firearms,Gun Type
+Sports Equipment,Home Gym Weight Machines,Weight Type
+Sports Equipment,Hydration,Collapsible
+Sports Equipment,Hydration,Hydration Pack Style
+Sports Equipment,Hydration,Material Type
+Sports Equipment,Hydration,Size Capacity
+Sports Equipment,Instruments,Altimeter
+Sports Equipment,Instruments,Barometer
+Sports Equipment,Instruments,Calorie Counter
+Sports Equipment,Instruments,Compass
+Sports Equipment,Instruments,Distance
+Sports Equipment,Instruments,GPS Technology
+Sports Equipment,Instruments,Night Vision
+Sports Equipment,Instruments,PC Connectivity
+Sports Equipment,Instruments,Speed
+Sports Equipment,Instruments,Thermometer
+Sports Equipment,"Lines, Lures, & Terminal Tackle",Fly Line Weight
+Sports Equipment,"Lines, Lures, & Terminal Tackle",Line Type
+Sports Equipment,"Lines, Lures, & Terminal Tackle",Pound Test
+Sports Equipment,Nordic Equipment,Boot Type/Closure
+Sports Equipment,Paddles/Oars,Paddle Material
+Sports Equipment,Pet Products,Sleeping Pad - Mattress Type
+Sports Equipment,Pet Products,Tent Occupancy
+Sports Equipment,Rods & Reels,Rod Action
+Sports Equipment,Rods & Reels,Rod Length
+Sports Equipment,Rods & Reels,Rod Power
+Sports Equipment,Rods & Reels,Water Use
+Sports Equipment,Sleeping Bags,Fill Type - Sleeping Bags
+Sports Equipment,Stoves & Grills,Stove & Grill Type
+Sports Equipment,Tools,Knife Type
+Sports Equipment,Water Sports Apparel,Wetsuit Thickness
+SupplyTrack,All Other Bakery,AOBakeryFlavorFilling
+SupplyTrack,All Other Bakery,AOBakeryForkSplit
+SupplyTrack,All Other Bakery,AOBakeryProdType
+SupplyTrack,All Other Bakery,AOBakeryStuffedFilled
+SupplyTrack,All Other Bakery,GlutenFree
+SupplyTrack,All Other Bakery,GrainType
+SupplyTrack,All Other Bakery,IndividuallyWrapped
+SupplyTrack,All Other Bakery,Label
+SupplyTrack,All Other Bakery,Packaging
+SupplyTrack,All Other Bakery,PlantBased
+SupplyTrack,All Other Bakery,PrepMethod
+SupplyTrack,All Other Bakery,Storage
+SupplyTrack,All Other Bakery,ZTF
+SupplyTrack,All Other Baking Ingredients,AOBakingIngredientCornSyrupMolassesType
+SupplyTrack,All Other Baking Ingredients,AOBakingIngredientProdType
+SupplyTrack,All Other Baking Ingredients,BatterBreaderFlavor
+SupplyTrack,All Other Baking Ingredients,BatterBreaderType
+SupplyTrack,All Other Baking Ingredients,CornSyrupHighFructose
+SupplyTrack,All Other Breakfast Entrees,AOBfastEntreeProdType
+SupplyTrack,All Other Breakfast Entrees,EntreeAdditionalItems
+SupplyTrack,All Other Breakfast Entrees,EntreeCNLabel
+SupplyTrack,All Other Breakfast Entrees,EntreeCheese
+SupplyTrack,All Other Breakfast Entrees,EntreeFormat
+SupplyTrack,All Other Breakfast Entrees,EntreeKit
+SupplyTrack,All Other Breakfast Entrees,EntreeProteinType
+SupplyTrack,All Other Breakfast Entrees,EntreeStick
+SupplyTrack,All Other Breakfast Entrees,EntreeVegetable
+SupplyTrack,All Other Chemical,ChemicalBase
+SupplyTrack,All Other Chemical,ChemicalColor
+SupplyTrack,All Other Chemical,ChemicalConcentration
+SupplyTrack,All Other Chemical,ChemicalFragrance
+SupplyTrack,All Other Chemical,ChemicalFunction
+SupplyTrack,All Other Chemical,ChemicalPrimaryPurpose
+SupplyTrack,All Other Chemical,ChemicalPrimaryPurposeNET
+SupplyTrack,All Other Chemical,ChemicalProdFormat
+SupplyTrack,All Other Chemical,ChemicalRefill
+SupplyTrack,All Other Condiments,AOCProdType
+SupplyTrack,All Other Condiments,CondimentForm
+SupplyTrack,All Other Condiments,PortionControl
+SupplyTrack,All Other Condiments,Sodium
+SupplyTrack,All Other Condiments,VarietyPack
+SupplyTrack,All Other Desserts,DessertFlavor
+SupplyTrack,All Other Desserts,DessertProdType
+SupplyTrack,All Other Desserts,FatClaim
+SupplyTrack,All Other Desserts,MedicalPurpose
+SupplyTrack,All Other Desserts,SugarClaim
+SupplyTrack,All Other Disposables,Compostable
+SupplyTrack,All Other Disposables,DisposableProdType
+SupplyTrack,All Other Disposables,Form
+SupplyTrack,All Other Disposables,Length
+SupplyTrack,All Other Frozen Potatoes,FzPotatoBatter
+SupplyTrack,All Other Frozen Potatoes,FzPotatoBrineBlanch
+SupplyTrack,All Other Frozen Potatoes,FzPotatoCutSize
+SupplyTrack,All Other Frozen Potatoes,FzPotatoLength
+SupplyTrack,All Other Frozen Potatoes,FzPotatoParFried
+SupplyTrack,All Other Frozen Potatoes,PotatoProdType
+SupplyTrack,All Other Frozen Potatoes,PotatoRoasted
+SupplyTrack,All Other Frozen Potatoes,PotatoSkin
+SupplyTrack,All Other Frozen Potatoes,SweetPotato
+SupplyTrack,All Other Meat,AOMeatDeli
+SupplyTrack,All Other Meat,AOMeatProdType
+SupplyTrack,All Other Meat,MeatFormat
+SupplyTrack,All Other Pork,AntibioticFree
+SupplyTrack,All Other Pork,BoneIn
+SupplyTrack,All Other Pork,PorkAdditionalDetail
+SupplyTrack,All Other Pork,PorkAdditionalDetailNET
+SupplyTrack,All Other Pork,PorkCoatingType
+SupplyTrack,All Other Pork,PorkCut
+SupplyTrack,All Other Pork,PorkDicedSize
+SupplyTrack,All Other Pork,PorkFormat
+SupplyTrack,All Other Pork,PorkGroundFatContent
+SupplyTrack,All Other Pork,PorkItemNumber
+SupplyTrack,All Other Pork,PorkOrigin
+SupplyTrack,All Other Pork,PorkProdType
+SupplyTrack,All Other Pork,PorkTrim
+SupplyTrack,All Other Pork,PorkValueAdded
+SupplyTrack,All Other Pork,PorkWeight
+SupplyTrack,All Other Poultry,AOPoultryProdType
+SupplyTrack,All Other Poultry,PoultryFormat
+SupplyTrack,All Other Prepared Entrees,AOPrepEntreeProdType
+SupplyTrack,All Other Prepared Entrees,EntreeSauceGravy
+SupplyTrack,All Other Sauces,NoAddedMSG
+SupplyTrack,All Other Sauces,SaucesGraviesAdditionalItems
+SupplyTrack,All Other Sauces,SaucesGraviesAdditionalItemsDetail
+SupplyTrack,All Other Sauces,SaucesGraviesProductForm
+SupplyTrack,All Other Sauces,SaucesGraviesProductType
+SupplyTrack,All Other Sauces,SaucesGraviesProductTypeDetail
+SupplyTrack,All Other Sauces,SaucesGraviesSpecialtyStyle
+SupplyTrack,All Other Sides,AOSidesCheese
+SupplyTrack,All Other Sides,AOSidesFormat
+SupplyTrack,All Other Sides,AOSidesKit
+SupplyTrack,All Other Sides,AOSidesProdType
+SupplyTrack,All Other Sides,AOSidesVegFruit
+SupplyTrack,All Other Sides,Breaded
+SupplyTrack,All Other Snacks,AOSnacksFlavorsAddIngredient
+SupplyTrack,All Other Snacks,AOSnacksKit
+SupplyTrack,All Other Snacks,AOSnacksProdType
+SupplyTrack,All Other Supplies,CookwareBakewareMaterial
+SupplyTrack,All Other Supplies,SuppliesProdType
+SupplyTrack,All Other Supplies,SuppliesProdTypeDetail
+SupplyTrack,All Other Supplies,SuppliesProdTypeNET
+SupplyTrack,All Other Tabletop,AOTabletopProdType
+SupplyTrack,All Other Tabletop,AOTabletopProdTypeDetail
+SupplyTrack,Appetizers,CountPerCase
+SupplyTrack,Appetizers,FzAppAddedFlavor
+SupplyTrack,Appetizers,FzAppAppAddedFlavorDetail
+SupplyTrack,Appetizers,FzAppAsianProtein
+SupplyTrack,Appetizers,FzAppBreaded
+SupplyTrack,Appetizers,FzAppGlobalCuisine
+SupplyTrack,Appetizers,FzAppProdType
+SupplyTrack,Appetizers,FzAppProdTypeDetail
+SupplyTrack,Appetizers,FzAppProdTypeNET
+SupplyTrack,Appetizers,FzAppProtein
+SupplyTrack,Appetizers,FzAppShape
+SupplyTrack,Appetizers,SizePerPiece
+SupplyTrack,BBQ Sauce,BBQSauceFlavor
+SupplyTrack,BBQ Sauce,BBQSauceProdForm
+SupplyTrack,Bacon,BaconFlavor
+SupplyTrack,Bacon,BaconPieceSize
+SupplyTrack,Bacon,BaconProductForm
+SupplyTrack,Bacon,BaconProductType
+SupplyTrack,Bacon,BaconSlicePerPound
+SupplyTrack,Bacon,BaconSliceType
+SupplyTrack,Bacon,CenterCut
+SupplyTrack,Bacon,GasFlushed
+SupplyTrack,Bacon,Natural
+SupplyTrack,Bacon,SmokeType
+SupplyTrack,Bagels,BagelFillingDetail
+SupplyTrack,Bagels,BagelFlavor
+SupplyTrack,Bagels,BagelProductType
+SupplyTrack,Bagels,BagelSize
+SupplyTrack,Bagels,BagelStyle
+SupplyTrack,Bagels,BagelThickness
+SupplyTrack,Bagels,PackCount
+SupplyTrack,Bagels,Sliced
+SupplyTrack,Bagels,TransFat
+SupplyTrack,Bags,DisposableBagDimensions
+SupplyTrack,Bags,DisposableBagHandle
+SupplyTrack,Bags,DisposableBagMaterial
+SupplyTrack,Bags,DisposableBagPrinted
+SupplyTrack,Bags,DisposableBagProdType
+SupplyTrack,Bags,DisposableBagReseal
+SupplyTrack,Bags,DisposableBagSize
+SupplyTrack,Baking Chips,DessertToppingFlavor
+SupplyTrack,Baking Chips,DessertToppingProdType
+SupplyTrack,Bar Mixes,BeveragesFlavor
+SupplyTrack,Bar Mixes,BeveragesJuicePercent
+SupplyTrack,Bar Mixes,BeveragesPrepMethod
+SupplyTrack,Bar Mixes,BeveragesProdForm
+SupplyTrack,Bar Mixes,BeveragesProductType
+SupplyTrack,Bathroom Tissue,BathTissProductType
+SupplyTrack,Bathroom Tissue,DispForm
+SupplyTrack,Bathroom Tissue,DispStyle
+SupplyTrack,Bathroom Tissue,NumberOfFeetNonPerforated
+SupplyTrack,Bathroom Tissue,NumberOfSheetsPerforatedorIndividual
+SupplyTrack,Bathroom Tissue,Perforated
+SupplyTrack,Beef - All Other,BeefBreed
+SupplyTrack,Beef - All Other,BeefGrade
+SupplyTrack,Beef - All Other,BeefNatural
+SupplyTrack,Beef - All Other,BeefPortionSize
+SupplyTrack,Beef - All Other,BeefPortionedCut
+SupplyTrack,Beef - All Other,BeefProdType
+SupplyTrack,Beef - All Other,BeefProdTypeNET
+SupplyTrack,Beef - All Other,BeefSection
+SupplyTrack,Beef - All Other,BeefSubprimalPortioned
+SupplyTrack,Beef - All Other,BeefValueAdded
+SupplyTrack,Beef - All Other,GrassFed
+SupplyTrack,Beef - All Other,Halal
+SupplyTrack,Beef - Breaded,GroundBeefDividedWith
+SupplyTrack,Beef - Breaded,GroundBeefFatContent
+SupplyTrack,Beef - Breaded,GroundBeefMeatType
+SupplyTrack,Beef - Breaded,GroundBeefPattyCharacteristic
+SupplyTrack,Beef - Breaded,GroundBeefPattyShape
+SupplyTrack,Beef - Breaded,GroundBeefPattySize
+SupplyTrack,Beef - Breaded,GroundBeefProdForm
+SupplyTrack,Beef - Breaded,GroundBeefScored
+SupplyTrack,Beef - Brisket/Shank,BeefDoneness
+SupplyTrack,Beef - Brisket/Shank,BeefItemNumber
+SupplyTrack,Beef - Brisket/Shank,PercentAddedSolution
+SupplyTrack,Beef - Brisket/Shank,Roast
+SupplyTrack,Beef - Chuck,BeefTrim
+SupplyTrack,Beef - Loin,BeefCapState
+SupplyTrack,Beef - Rib,BeefLipOnOff
+SupplyTrack,Beverage Ingredient Syrups & Powders,BevIngredFlavor
+SupplyTrack,Beverage Ingredient Syrups & Powders,BevIngredForDispenserOnly
+SupplyTrack,Beverage Ingredient Syrups & Powders,BevIngredMultiPurpose
+SupplyTrack,Beverage Ingredient Syrups & Powders,BevIngredProdType
+SupplyTrack,Beverage Ingredient Syrups & Powders,BevIngredType
+SupplyTrack,Beverageware,BeveragewareCount
+SupplyTrack,Beverageware,BeveragewareMaterial
+SupplyTrack,Beverageware,BeveragewareProdType
+SupplyTrack,Beverageware,BeveragewareProdTypeDetail
+SupplyTrack,Beverageware,BeveragewareSize
+SupplyTrack,Biscuits,BiscuitGrain
+SupplyTrack,Biscuits,BiscuitsBaking
+SupplyTrack,Biscuits,BiscuitsFlavors
+SupplyTrack,Biscuits,BiscuitsProdForm
+SupplyTrack,Biscuits,BiscuitsProdType
+SupplyTrack,Biscuits,BiscuitsShape
+SupplyTrack,Biscuits,BiscuitsSize
+SupplyTrack,Biscuits,DryMixSize
+SupplyTrack,Biscuits,Presliced
+SupplyTrack,Bottled Water,BeveragesIndividualSize
+SupplyTrack,Bottled Water,BottledWaterFlavor
+SupplyTrack,Bottled Water,BottledWaterProdType
+SupplyTrack,Bound Salads,BoundSaladsAddlItems
+SupplyTrack,Bound Salads,BoundSaladsBase
+SupplyTrack,Bound Salads,BoundSaladsProdType
+SupplyTrack,Bread/Rolls/Bread Sticks,BreadsPreSliced
+SupplyTrack,Bread/Rolls/Bread Sticks,BreadsRollsBaking
+SupplyTrack,Bread/Rolls/Bread Sticks,BreadsRollsCount
+SupplyTrack,Bread/Rolls/Bread Sticks,BreadsRollsFlavors
+SupplyTrack,Bread/Rolls/Bread Sticks,BreadsRollsProdForm
+SupplyTrack,Bread/Rolls/Bread Sticks,BreadsRollsProdType
+SupplyTrack,Bread/Rolls/Bread Sticks,BreadsRollsSeeded
+SupplyTrack,Bread/Rolls/Bread Sticks,BreadsRollsShape
+SupplyTrack,Bread/Rolls/Bread Sticks,BreadsRollsSize
+SupplyTrack,Bread/Rolls/Bread Sticks,BreadsRollsSizeSlice
+SupplyTrack,Bread/Rolls/Bread Sticks,BreadsSpecialty
+SupplyTrack,Bread/Rolls/Bread Sticks,BreadsType
+SupplyTrack,Bread/Rolls/Bread Sticks,RollsHinged
+SupplyTrack,Breaded Beef,BreadedBeefCoating
+SupplyTrack,Breaded Beef,BreadedBeefMeatProcessedType
+SupplyTrack,Breaded Beef,BreadedBeefMeatType
+SupplyTrack,Breaded Beef,BreadedBeefProductForm
+SupplyTrack,Breaded Beef,BreadedBeefProductType
+SupplyTrack,Breaded Beef,BreadedBeefSpecialty
+SupplyTrack,Breakfast Cereal - RTE,CerealFlavor
+SupplyTrack,Breakfast Cereal - RTE,CerealForm
+SupplyTrack,Breakfast Cereal - RTE,CerealStyle
+SupplyTrack,Breakfast Cereal - RTE,Granola
+SupplyTrack,Breakfast Cereal - RTE,Inclusions
+SupplyTrack,Broth/Stock/Consomme/Bouillon,DairyNonDairy
+SupplyTrack,Broth/Stock/Consomme/Bouillon,SaltContent
+SupplyTrack,Broth/Stock/Consomme/Bouillon,SoupFlavor
+SupplyTrack,Broth/Stock/Consomme/Bouillon,SoupForm
+SupplyTrack,Broth/Stock/Consomme/Bouillon,SoupProductType
+SupplyTrack,Broth/Stock/Consomme/Bouillon,Vegan
+SupplyTrack,Broth/Stock/Consomme/Bouillon,Vegetarian
+SupplyTrack,Brownies,BrownieAdditionalItems
+SupplyTrack,Brownies,BrownieAdditionalItemsNET
+SupplyTrack,Brownies,BrownieFlavor
+SupplyTrack,Brownies,BrownieIced
+SupplyTrack,Brownies,BrownieNuts
+SupplyTrack,Brownies,BrowniePreSliced
+SupplyTrack,Brownies,BrownieProdForm
+SupplyTrack,Brownies,BrownieProdType
+SupplyTrack,Brownies,BrownieSize
+SupplyTrack,Brownies,BrownieType
+SupplyTrack,Butter,ButtrMargCTofPC
+SupplyTrack,Butter,ButtrMargFlavor
+SupplyTrack,Butter,ButtrMargProdType
+SupplyTrack,Butter,ButtrMargSalt
+SupplyTrack,Butter,ButtrMargSpread
+SupplyTrack,Butter,ButtrMargStyle
+SupplyTrack,Butter,ButtrMargTypePC
+SupplyTrack,Butter,Format
+SupplyTrack,Cakes,CakeCut
+SupplyTrack,Cakes,CakeIced
+SupplyTrack,Cakes,CakeLayer
+SupplyTrack,Cakes,CakeProdForm
+SupplyTrack,Cakes,CakeProdType
+SupplyTrack,Cakes,CakeSize
+SupplyTrack,Can Liners,CanLinersCapacity
+SupplyTrack,Can Liners,CanLinersColor
+SupplyTrack,Can Liners,CanLinersCount
+SupplyTrack,Can Liners,CanLinersDensity
+SupplyTrack,Can Liners,CanLinersDimension
+SupplyTrack,Can Liners,CanLinersDrawstring
+SupplyTrack,Can Liners,CanLinersMaterial
+SupplyTrack,Can Liners,CanLinersStrength
+SupplyTrack,Can Liners,CanLinersThickness
+SupplyTrack,Canadian Bacon,HamProdForm
+SupplyTrack,Canadian Bacon,HamProdType
+SupplyTrack,Canadian Bacon,HamWaterAdded
+SupplyTrack,Canadian Bacon,HamWhole
+SupplyTrack,Canadian Bacon,ProteinAddedFlavor
+SupplyTrack,Candy,Calorie
+SupplyTrack,Candy,CandyFlavor
+SupplyTrack,Candy,ChocolateCandyChoType
+SupplyTrack,Candy,ChocolateCandyProdForm
+SupplyTrack,Candy,ChocolateCandyProdType
+SupplyTrack,Candy,HasAfilling
+SupplyTrack,Canned Tomatoes,CannedTomatoesAddedLiquid
+SupplyTrack,Canned Tomatoes,CannedTomatoesAdditionalItems
+SupplyTrack,Canned Tomatoes,CannedTomatoesCutSize
+SupplyTrack,Canned Tomatoes,CannedTomatoesPeeled
+SupplyTrack,Canned Tomatoes,CannedTomatoesProdFormat
+SupplyTrack,Canned Tomatoes,CannedTomatoesProdType
+SupplyTrack,Canned Tomatoes,CannedTomatoesRoasted
+SupplyTrack,Canned Tomatoes,CannedTomatoesSpecialtyType
+SupplyTrack,Canned Tomatoes,CannedTomatoesType
+SupplyTrack,Carbonated Soft Drinks,BeveragesCaffeineFree
+SupplyTrack,Carbonated Soft Drinks,BeveragesCarbonated
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsBlendType
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsCalories
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsChar
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsColor
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsFlavor
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsFormat
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsGlutenFree
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsPackaging
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsProductTypeVariety
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsSizeOfCube
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsSizeOfSlice
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsStrength
+SupplyTrack,Cheese - Alternatives/Substitutes,ChsStyle
+SupplyTrack,Cheese - Alternatives/Substitutes,Imported
+SupplyTrack,Cheese - Natural - Block/Slice/Shred/Other,CheeseSliceDividedWith
+SupplyTrack,Cheese - Natural - Block/Slice/Shred/Other,ChsMozzarella
+SupplyTrack,Cheese - Natural - Block/Slice/Shred/Other,ChsSizeOfBall
+SupplyTrack,Cheese Spreads,CheeseSpreadAdditionalIngredient
+SupplyTrack,Cheese Spreads,CheeseSpreadVariety
+SupplyTrack,Cheesecake,CheesecakeBasePrimaryFlavor
+SupplyTrack,Cheesecake,CheesecakeCrustType
+SupplyTrack,Cheesecake,CheesecakeCutSlice
+SupplyTrack,Cheesecake,CheesecakeDiameterSize
+SupplyTrack,Cheesecake,CheesecakeProdType
+SupplyTrack,Cheesecake,CheesecakeSecondaryFlavorCharacterization
+SupplyTrack,Cheesecake,CheesecakeStyle
+SupplyTrack,Cheesecake,CheesecakeThickness
+SupplyTrack,Chicken - As is,BirdSize
+SupplyTrack,Chicken - As is,ChickenFormat
+SupplyTrack,Chicken - As is,ChickenLightDark
+SupplyTrack,Chicken - As is,ChickenProdForm
+SupplyTrack,Chicken - As is,ChickenProdType
+SupplyTrack,Chicken - As is,ChickenProdTypeNET
+SupplyTrack,Chicken - As is,ChickenTrim
+SupplyTrack,Chicken - As is,IndividuallyFrozen
+SupplyTrack,Chicken - As is,Marinated
+SupplyTrack,Chicken - As is,SkinOn
+SupplyTrack,Chicken - As is,TenderPortionSize
+SupplyTrack,Chicken - Value Added,ChickenFritter
+SupplyTrack,Chicken - Value Added,SousVide
+SupplyTrack,Chips,ChipCut
+SupplyTrack,Chips,ChipFlavor
+SupplyTrack,Chips,ChipForm
+SupplyTrack,Chips,ChipProductType
+SupplyTrack,Chips,ChipShape
+SupplyTrack,Chips,ChipStyle
+SupplyTrack,Chips,SizeCluster
+SupplyTrack,Chips,TortillaColor
+SupplyTrack,Cleaning Supplies,CleaningSuppProdTypeGroup
+SupplyTrack,Cleaning Supplies,CleaningSuppliesProdType
+SupplyTrack,Cleaning Supplies,CleaningSuppliesStrength
+SupplyTrack,Coffee,CoatedAddedFlavor
+SupplyTrack,Coffee,CoffeeBlend
+SupplyTrack,Coffee,CoffeeBlendNet
+SupplyTrack,Coffee,CoffeeBrewTemp
+SupplyTrack,Coffee,CoffeeCaffeinated
+SupplyTrack,Coffee,CoffeeIced
+SupplyTrack,Coffee,CoffeeProdType
+SupplyTrack,Coffee,CoffeeRoast
+SupplyTrack,Coffee,CoffeeSpecialty
+SupplyTrack,Coffee,CoffeeSpecies
+SupplyTrack,Coffee,FairTrade
+SupplyTrack,Coffee,RainforestAllianceUTZ
+SupplyTrack,Coffee Creamer,CreamersFlavor
+SupplyTrack,Coffee Creamer,CreamersProdType
+SupplyTrack,Coffee Creamer,Kosher
+SupplyTrack,Coffee Creamer,Lactose
+SupplyTrack,Coffee Creamer,Pasteurized
+SupplyTrack,Coffee Creamer,ProdTypeDetail
+SupplyTrack,Condiment Peppers,CountryOfOrigin
+SupplyTrack,Condiment Peppers,PeppersAddlItems
+SupplyTrack,Condiment Peppers,PeppersColor
+SupplyTrack,Condiment Peppers,PeppersFormat
+SupplyTrack,Condiment Peppers,PeppersHeat
+SupplyTrack,Condiment Peppers,PeppersPackingLiquid
+SupplyTrack,Condiment Peppers,PeppersProdType
+SupplyTrack,Cookies,CookieAdditionalItems
+SupplyTrack,Cookies,CookieBase
+SupplyTrack,Cookies,CookieNuts
+SupplyTrack,Cookies,CookiePrepMthd
+SupplyTrack,Cookies,CookieProdForm
+SupplyTrack,Cookies,CookieProdType
+SupplyTrack,Cookies,CookieType
+SupplyTrack,Cookies,CookieTypeNET
+SupplyTrack,Corn Dogs,CDAddedFlavor
+SupplyTrack,Corn Dogs,CDProdType
+SupplyTrack,Corn Dogs,CDSize
+SupplyTrack,Corned Beef,BeefSliceWeight
+SupplyTrack,Corned Beef,CBPSTRMIProdType
+SupplyTrack,Corned Beef,CBPSTRMISliced
+SupplyTrack,Corned Beef,Deli
+SupplyTrack,Corned Beef,Whole
+SupplyTrack,Crackers,CrackerFilling
+SupplyTrack,Crackers,CrackerFlavor
+SupplyTrack,Crackers,CrackerForm
+SupplyTrack,Crackers,CrackerGrain
+SupplyTrack,Crackers,CrackerProdType
+SupplyTrack,Crackers,CrackerShape
+SupplyTrack,Crackers,CrackerStyle
+SupplyTrack,Croissants,CroissantsFillingFlavor
+SupplyTrack,Croissants,CroissantsFlavor
+SupplyTrack,Croissants,CroissantsGlazed
+SupplyTrack,Croissants,CroissantsProdForm
+SupplyTrack,Croissants,CroissantsProdType
+SupplyTrack,Croissants,CroissantsProofingReq
+SupplyTrack,Croissants,CroissantsShape
+SupplyTrack,Croissants,CroissantsSize
+SupplyTrack,Crust - Pastry/Pie,CrustPPFatType
+SupplyTrack,Crust - Pastry/Pie,CrustPPFormat
+SupplyTrack,Crust - Pastry/Pie,CrustPPOunces
+SupplyTrack,Crust - Pastry/Pie,CrustPPPreformed
+SupplyTrack,Crust - Pastry/Pie,CrustPPProdTypeNet
+SupplyTrack,Crust - Pastry/Pie,CrustPPSize
+SupplyTrack,Crust - Pastry/Pie,CrustPPType
+SupplyTrack,Crust - Pastry/Pie,CrustPPTypeFlavor
+SupplyTrack,Crustacean,CountPerPound
+SupplyTrack,Crustacean,FishType
+SupplyTrack,Crustacean,Harvest
+SupplyTrack,Crustacean,SeafoodAdditionalIngredients
+SupplyTrack,Crustacean,SeafoodBreadedBatteredNET
+SupplyTrack,Crustacean,SeafoodCoatingType
+SupplyTrack,Crustacean,SeafoodFormat
+SupplyTrack,Crustacean,SeafoodImitation
+SupplyTrack,Crustacean,SeafoodOrigin
+SupplyTrack,Crustacean,SeafoodPortionSize
+SupplyTrack,Crustacean,SeafoodProductType
+SupplyTrack,Crustacean,SeafoodSeasoning
+SupplyTrack,Crustacean,SeafoodShape
+SupplyTrack,Crustacean,SeafoodSpeciesAdditionalDetail
+SupplyTrack,Crustacean,SeafoodTreatmentQuality
+SupplyTrack,Crustacean,SeafoodTrim
+SupplyTrack,Crustacean,SeafoodType
+SupplyTrack,Crustacean,ValueAdded
+SupplyTrack,Dehydrated Potatoes,PotatoAddedFlavor
+SupplyTrack,Dehydrated Potatoes,PotatoMashedFormat
+SupplyTrack,Dehydrated Potatoes,PotatoVariety
+SupplyTrack,Dessert Bars,DessertBarAdditionalItems
+SupplyTrack,Dessert Bars,DessertBarCrustType
+SupplyTrack,Dessert Bars,DessertBarLayer
+SupplyTrack,Dessert Bars,DessertBarNuts
+SupplyTrack,Dessert Bars,DessertBarPreSliced
+SupplyTrack,Dessert Bars,DessertBarPrimaryFlavor
+SupplyTrack,Dessert Bars,DessertBarProdType
+SupplyTrack,Dessert Bars,DessertBarSize
+SupplyTrack,Dessert Bars,DessertBarTopping
+SupplyTrack,Dessert Cones,ConeBottomShape
+SupplyTrack,Dessert Cones,ConeDipped
+SupplyTrack,Dessert Cones,ConeJacketed
+SupplyTrack,Dessert Cones,ConeNumber
+SupplyTrack,Dessert Cones,ConeSize
+SupplyTrack,Dessert Cones,ConeType
+SupplyTrack,Dessert Cones,Flavor
+SupplyTrack,Dessert Filling,DessertFillingFlavorType
+SupplyTrack,Dessert Filling,DessertFillingFormat
+SupplyTrack,Dessert Filling,DessertFillingProdType
+SupplyTrack,Dinnerware,DinnerwareCapacitySize
+SupplyTrack,Dinnerware,DinnerwareColor
+SupplyTrack,Dinnerware,DinnerwareCount
+SupplyTrack,Dinnerware,DinnerwareEdgeStyle
+SupplyTrack,Dinnerware,DinnerwareLength
+SupplyTrack,Dinnerware,DinnerwareMaterial
+SupplyTrack,Dinnerware,DinnerwareProdType
+SupplyTrack,Dinnerware,DinnerwareProdTypeDetail
+SupplyTrack,Dinnerware,DinnerwareShape
+SupplyTrack,Dinnerware,DinnerwareStylePattern
+SupplyTrack,Dips/Spreads Non Cheese,DipsAdditionalIngredient
+SupplyTrack,Dips/Spreads Non Cheese,DipsHeatClaim
+SupplyTrack,Dips/Spreads Non Cheese,DipsProdType
+SupplyTrack,Dips/Spreads Non Cheese,HighPressureProcessing
+SupplyTrack,Dispensers,DispenserProdType
+SupplyTrack,Dispensers,DispenserProdTypeDetail
+SupplyTrack,Dispensers,ToiletTissRolls
+SupplyTrack,Dispensers,TowelDispenserAuto
+SupplyTrack,Disposable Beverage Cups,CupSize
+SupplyTrack,Disposable Beverage Cups,CupType
+SupplyTrack,Disposable Beverage Cups,LidMention
+SupplyTrack,Disposable Beverage Cups,NumberOfSleeves
+SupplyTrack,Disposable Beverage Cups,Print
+SupplyTrack,Disposable Beverage Cups and Lids,CupLidSize
+SupplyTrack,Disposable Beverage Cups and Lids,CupLidType
+SupplyTrack,Disposable Bowls,BowlSize
+SupplyTrack,Disposable Bowls,Compartment
+SupplyTrack,Disposable Containers,ContSizeInches
+SupplyTrack,Disposable Containers,ContSizeOunces
+SupplyTrack,Disposable Containers,ContType
+SupplyTrack,Disposable Containers,ContTypeNET
+SupplyTrack,Disposable Containers,ContainerColor
+SupplyTrack,Disposable Containers,Hinged
+SupplyTrack,Disposable Containers,MicrowaveableSafe
+SupplyTrack,Disposable Containers and Lids,ContLidType
+SupplyTrack,Disposable Containers and Lids,ContLidVented
+SupplyTrack,Disposable Containers and Lids,ContSizeInchesNET
+SupplyTrack,Disposable Cutlery,AlternativeFarming
+SupplyTrack,Disposable Cutlery,CutleryColor
+SupplyTrack,Disposable Cutlery,CutleryType
+SupplyTrack,Disposable Cutlery,CutleryWeight
+SupplyTrack,Disposable Cutlery,DispenserRefill
+SupplyTrack,Disposable Cutlery,KitCompFork
+SupplyTrack,Disposable Cutlery,KitCompKnife
+SupplyTrack,Disposable Cutlery,KitCompNapkin
+SupplyTrack,Disposable Cutlery,KitCompSaltPepper
+SupplyTrack,Disposable Cutlery,KitCompSpoon
+SupplyTrack,Disposable Gloves,CuffStyle
+SupplyTrack,Disposable Gloves,GlovesColor
+SupplyTrack,Disposable Gloves,GlovesFinish
+SupplyTrack,Disposable Gloves,GlovesHandStyle
+SupplyTrack,Disposable Gloves,GlovesLength
+SupplyTrack,Disposable Gloves,GlovesMaterial
+SupplyTrack,Disposable Gloves,GlovesMaterialGrade
+SupplyTrack,Disposable Gloves,GlovesPowdered
+SupplyTrack,Disposable Gloves,GlovesProdType
+SupplyTrack,Disposable Gloves,GlovesSize
+SupplyTrack,Disposable Napkins,Fold
+SupplyTrack,Disposable Napkins,NapDimensions
+SupplyTrack,Disposable Napkins,NapProductType
+SupplyTrack,Disposable Paper Towels,PTCharacteristics
+SupplyTrack,Disposable Paper Towels,PTProductType
+SupplyTrack,Disposable Plates,PlateSize
+SupplyTrack,Disposable Wraps/Liners,WrapProdType
+SupplyTrack,Disposable Wraps/Liners,WrapSize
+SupplyTrack,Disposable Wraps/Liners,WrapTypeCharacteristics
+SupplyTrack,Disposable Wraps/Liners,WrapTypeOfFold
+SupplyTrack,Duck,DuckFormat
+SupplyTrack,Duck,DuckMarinated
+SupplyTrack,Duck,DuckProdForm
+SupplyTrack,Duck,DuckProdType
+SupplyTrack,Eggs - Excluding Liquid/Substitutes,EggComponent
+SupplyTrack,Eggs - Excluding Liquid/Substitutes,EggFlavor
+SupplyTrack,Eggs - Excluding Liquid/Substitutes,EggPasteurized
+SupplyTrack,Eggs - Excluding Liquid/Substitutes,EggProdFormat
+SupplyTrack,Eggs - Excluding Liquid/Substitutes,EggShape
+SupplyTrack,Eggs - Excluding Liquid/Substitutes,EggSize
+SupplyTrack,Eggs - Excluding Liquid/Substitutes,EggSubstitute
+SupplyTrack,Eggs - Excluding Liquid/Substitutes,EggWelfareClaim
+SupplyTrack,Eggs - Excluding Liquid/Substitutes,EggsNumber
+SupplyTrack,Eggs - Excluding Liquid/Substitutes,EggsPrdType
+SupplyTrack,Eggs - Excluding Liquid/Substitutes,Grade
+SupplyTrack,Energy/Sport Drinks,SportEnergyDrinkFlavor
+SupplyTrack,Energy/Sport Drinks,SportEnergyDrinkProdType
+SupplyTrack,Energy/Sport Drinks,SportEnergyDrinkShot
+SupplyTrack,Equipment,EquipmentProdType
+SupplyTrack,Equipment,EquipmentProdTypeDetail
+SupplyTrack,Face Masks,FaceMaskType
+SupplyTrack,Fajita Beef,BeefMarinatedSeasoned
+SupplyTrack,Fajita Beef,FajitaBeefMuscleType
+SupplyTrack,Fajita Beef,FajitaBeefProdType
+SupplyTrack,Fajita Beef,FajitaBeefShape
+SupplyTrack,Finfish,Quality
+SupplyTrack,Flatware,FlatwareCount
+SupplyTrack,Flatware,FlatwareFinish
+SupplyTrack,Flatware,FlatwareHandleStyleColor
+SupplyTrack,Flatware,FlatwareLength
+SupplyTrack,Flatware,FlatwareMaterial
+SupplyTrack,Flatware,FlatwareProdType
+SupplyTrack,Flatware,FlatwareProdTypeDetail
+SupplyTrack,Flatware,FlatwareStainlessSteelStyle
+SupplyTrack,Flatware,FlatwareStyle
+SupplyTrack,Flatware,FlatwareWeight
+SupplyTrack,Flavored Salad Dressing -  RTU,SaladFlavor
+SupplyTrack,Flavored Salad Dressing -  RTU,SaladForm
+SupplyTrack,Flour,Flour00Flour
+SupplyTrack,Flour,FlourBlanched
+SupplyTrack,Flour,FlourBleached
+SupplyTrack,Flour,FlourBromated
+SupplyTrack,Flour,FlourEnriched
+SupplyTrack,Flour,FlourMalted
+SupplyTrack,Flour,FlourPrimaryIngredient
+SupplyTrack,Flour,FlourProteinLevel
+SupplyTrack,Flour,FlourProteinType
+SupplyTrack,Flour,FlourTreated
+SupplyTrack,Flour,FlourType
+SupplyTrack,Frosting/Icing,FrostingIcingColor
+SupplyTrack,Frosting/Icing,FrostingIcingFlavor
+SupplyTrack,Frosting/Icing,FrostingIcingProdType
+SupplyTrack,Frosting/Icing,FrostingIcingProdTypeDetail
+SupplyTrack,Frosting/Icing,FrostingIcingWhipped
+SupplyTrack,Frozen Fries,DeliveryFries
+SupplyTrack,Frozen Novelties,ICFYNAdditionalItems
+SupplyTrack,Frozen Novelties,ICFYNCoated
+SupplyTrack,Frozen Novelties,ICFYNCookieFlavor
+SupplyTrack,Frozen Novelties,ICFYNFlavor
+SupplyTrack,Frozen Novelties,ICFYNOtherCharacteristics
+SupplyTrack,Frozen Novelties,ICFYNPrepMethod
+SupplyTrack,Frozen Novelties,ICFYNPrimaryFlavor
+SupplyTrack,Frozen Novelties,ICFYNProdType
+SupplyTrack,Frozen Novelties,ICFYNSecondaryFlavor
+SupplyTrack,Frozen Novelties,ICFYNStick
+SupplyTrack,Frozen Novelties,ICFYNStyle
+SupplyTrack,Frozen Novelties,ICFYNStyleDetail
+SupplyTrack,Frozen Novelties,ICFYType
+SupplyTrack,Frozen Novelties,NoveltyType
+SupplyTrack,Frozen Yogurt,FZYogurtGreek
+SupplyTrack,Fruit - Canned,FruitFormat
+SupplyTrack,Fruit - Canned,FruitProdType
+SupplyTrack,Fruit - Canned,FruitProdTypeDetail
+SupplyTrack,Fruit - Canned,FruitStabilizer
+SupplyTrack,Fruit - Canned,PackingLiquid
+SupplyTrack,Fuel,ChemicalBurnTime
+SupplyTrack,Ground Beef - Bulk,GroundBeefBlendedBurger
+SupplyTrack,Ground Beef - Bulk,GroundBeefBulkPreCookedType
+SupplyTrack,Ground Beef - Bulk,GroundBeefSeasoned
+SupplyTrack,Gyro,GyroFormat
+SupplyTrack,Gyro,GyroProdType
+SupplyTrack,Gyro,GyroProteinType
+SupplyTrack,Ham - Deli Meats,HamWaterClaim
+SupplyTrack,Hand Care/Hand Sanitizer,HandCareDispensingType
+SupplyTrack,Hand Care/Hand Sanitizer,HandCareProdType
+SupplyTrack,Handheld Mexican,HHMexBreadingWrap
+SupplyTrack,Handheld Mexican,HHMexCheese
+SupplyTrack,Handheld Mexican,HHMexGrainType
+SupplyTrack,Handheld Mexican,HHMexOtherAddedIngredient
+SupplyTrack,Handheld Mexican,HHMexPepper
+SupplyTrack,Handheld Mexican,HHMexProductType
+SupplyTrack,Handheld Mexican,HHMexProteinType
+SupplyTrack,Handheld Mexican,HHMexSauce
+SupplyTrack,Handheld Mexican,HHMexSize
+SupplyTrack,Handheld Mexican,HHMexStarch
+SupplyTrack,Hot Cereal,HotCerOatCut
+SupplyTrack,Hot Cereal,HotCerProdType
+SupplyTrack,Hot Cereal,HotCerStyle
+SupplyTrack,Hot Cocoa / Hot Chocolate,Caffeine
+SupplyTrack,Hot Cocoa / Hot Chocolate,HotCocoaAddedFlavor
+SupplyTrack,Hot Cocoa / Hot Chocolate,HotCocoaAdditionalIngredientsToppings
+SupplyTrack,Hot Cocoa / Hot Chocolate,HotCocoaBasePowder
+SupplyTrack,Hot Cocoa / Hot Chocolate,HotCocoaChocolateDescription
+SupplyTrack,Hot Cocoa / Hot Chocolate,HotCocoaProductType
+SupplyTrack,Hot Cocoa / Hot Chocolate,HotCocoaType
+SupplyTrack,Hot Dogs,HDAddedFlavor
+SupplyTrack,Hot Dogs,HDCasing
+SupplyTrack,Hot Dogs,HDPerLB
+SupplyTrack,Hot Dogs,HDProductType
+SupplyTrack,Hot Dogs,HDSize
+SupplyTrack,Hot Sauce,HotSauceFlavor
+SupplyTrack,Hot Sauce,HotSauceHeat
+SupplyTrack,Hot Sauce,HotSauceProdForm
+SupplyTrack,Hot Sauce,HotSauceWing
+SupplyTrack,Italian Entrees,ItalianProdType
+SupplyTrack,Jams/Jellies/Spreads,JJSFlavors
+SupplyTrack,Jams/Jellies/Spreads,JJSPBPType
+SupplyTrack,Jams/Jellies/Spreads,JJSProdForm
+SupplyTrack,Jams/Jellies/Spreads,JJSProdType
+SupplyTrack,Jams/Jellies/Spreads,JJSProdTypeNET
+SupplyTrack,Jams/Jellies/Spreads,JJSVarietyPackCount
+SupplyTrack,Jerky,JerkyAddedFlavors
+SupplyTrack,Jerky,JerkyProductFormat
+SupplyTrack,Jerky,JerkyProductType
+SupplyTrack,Juice/Juice Drinks,BeveragesConcentrate
+SupplyTrack,Juice/Juice Drinks,BeveragesFortified
+SupplyTrack,Juice/Juice Drinks,BeveragesPulp
+SupplyTrack,Ketchup,HFCS
+SupplyTrack,Ketchup,KetchupAddedFlavors
+SupplyTrack,Ketchup,KetchupPacketMaterial
+SupplyTrack,Ketchup,KetchupProdType
+SupplyTrack,Lamb,LambFeed
+SupplyTrack,Lamb,LambGroundFatContent
+SupplyTrack,Lamb,LambItemNumber
+SupplyTrack,Lamb,LambOrigin
+SupplyTrack,Lamb,LambProdType
+SupplyTrack,Lamb,LambSection
+SupplyTrack,Lamb,LambSubprimalPortioned
+SupplyTrack,Liquid Butter Alternative (LBA) / Pan & Grill,LBAProdType
+SupplyTrack,Liquid Butter Alternative (LBA) / Pan & Grill,OilBlend
+SupplyTrack,Liquid Butter Alternative (LBA) / Pan & Grill,OilFlavor
+SupplyTrack,Liquid Butter Alternative (LBA) / Pan & Grill,OilType
+SupplyTrack,Liquid Fry Oil,HighOleic
+SupplyTrack,Liquid Fry Oil,LqFrQualTier
+SupplyTrack,Liquid Fry Oil,LqFrStyle
+SupplyTrack,Liquid Fry Oil,NonGMO
+SupplyTrack,Liquid Fry Oil,OilExpellerPressed
+SupplyTrack,Mac&Cheese,Cooked
+SupplyTrack,Mac&Cheese,MacAndCheeseAdditionalIngredient
+SupplyTrack,Mac&Cheese,MacAndCheeseCheeseType
+SupplyTrack,Mac&Cheese,MacAndCheesePrimaryIngredient
+SupplyTrack,Mac&Cheese,MacAndCheeseProdForm
+SupplyTrack,Mac&Cheese,MacAndCheeseProdType
+SupplyTrack,Mayonnaise,EggMentions
+SupplyTrack,Mayonnaise,MayoFlavor
+SupplyTrack,Mayonnaise,MayoForm
+SupplyTrack,Mayonnaise,MayoProductType
+SupplyTrack,Mayonnaise,ProductCharacteristics
+SupplyTrack,Meatballs,MeatballBreading
+SupplyTrack,Meatballs,MeatballCheese
+SupplyTrack,Meatballs,MeatballCookMethod
+SupplyTrack,Meatballs,MeatballProtein
+SupplyTrack,Meatballs,MeatballProteinExtender
+SupplyTrack,Meatballs,MeatballSauceGlaze
+SupplyTrack,Meatballs,MeatballSize
+SupplyTrack,Meatballs,MeatballStyle
+SupplyTrack,Meatballs,MeatballType
+SupplyTrack,Meatloaf,MeatloafAddedFlavor
+SupplyTrack,Meatloaf,MeatloafProtein
+SupplyTrack,Meatloaf,MeatloafProteinExtender
+SupplyTrack,Meatloaf,MeatloafSize
+SupplyTrack,Meatloaf,MeatloafSliced
+SupplyTrack,Milk,BaristaStyle
+SupplyTrack,Milk,Homogenized
+SupplyTrack,Milk,Sweetened
+SupplyTrack,Muffins,MuffinsFlavors
+SupplyTrack,Muffins,MuffinsProdForm
+SupplyTrack,Muffins,MuffinsProdType
+SupplyTrack,Muffins,MuffinsSize
+SupplyTrack,Mustard,MustardDetail
+SupplyTrack,Mustard,MustardProdForm
+SupplyTrack,Mustard,MustardProdType
+SupplyTrack,Nutritional/Supplemental Medical Drinks and Food,Consistency
+SupplyTrack,Nutritional/Supplemental Medical Drinks and Food,PureedProductType
+SupplyTrack,Nuts,AddedFlavors
+SupplyTrack,Nuts,NutSize
+SupplyTrack,Nuts,NutsProductType
+SupplyTrack,Nuts,NutsSalt
+SupplyTrack,Nuts,NutsSeedProductFormat
+SupplyTrack,Nuts,NutsSeedSpecialtyType
+SupplyTrack,Nuts,SeedNutPrepMethod
+SupplyTrack,Nuts,Shelled
+SupplyTrack,Nuts,Skinned
+SupplyTrack,Olives,OliveColor
+SupplyTrack,Olives,OliveType
+SupplyTrack,Olives,OlivesFormat
+SupplyTrack,Olives,OlivesSize
+SupplyTrack,Olives,OlivesStuffedDetail
+SupplyTrack,Other Salty Snacks,MixIncludes
+SupplyTrack,Other Salty Snacks,PretzelCovering
+SupplyTrack,Pan Release,PanReleaseFoaming
+SupplyTrack,Pan Release,PanReleaseProdBase
+SupplyTrack,Pancake/Waffle,CrepeBlintzFilling
+SupplyTrack,Pancake/Waffle,Glazed
+SupplyTrack,Pancake/Waffle,PWFTDiameter
+SupplyTrack,Pancake/Waffle,PWFTFlavor
+SupplyTrack,Pancake/Waffle,PWFTFormat
+SupplyTrack,Pancake/Waffle,PWFTProdForm
+SupplyTrack,Pancake/Waffle,PWFTProdShape
+SupplyTrack,Pancake/Waffle,PWFTProdType
+SupplyTrack,Pancake/Waffle,PWFTWaffleType
+SupplyTrack,Pasta,DyeCut
+SupplyTrack,Pasta,PastaAdditionalItems
+SupplyTrack,Pasta,PastaAdditionalItemsDetail
+SupplyTrack,Pasta,PastaDiameterWidth
+SupplyTrack,Pasta,PastaFilled
+SupplyTrack,Pasta,PastaFilling
+SupplyTrack,Pasta,PastaFillingDetail
+SupplyTrack,Pasta,PastaFlavoring
+SupplyTrack,Pasta,PastaFlavoringDetail
+SupplyTrack,Pasta,PastaLength
+SupplyTrack,Pasta,PastaPrimaryIngredient
+SupplyTrack,Pasta,PastaProductType
+SupplyTrack,Pasta,PastaProductTypeDetail
+SupplyTrack,Pepperoni - Deli Meats,SausageCasing
+SupplyTrack,Pepperoni - Deli Meats,SausageCured
+SupplyTrack,Pepperoni - Deli Meats,SausageDiameter
+SupplyTrack,Pepperoni - Deli Meats,SausageForm
+SupplyTrack,Pepperoni - Deli Meats,SausageProteinType
+SupplyTrack,Pepperoni - Deli Meats,SausageSliPerOz
+SupplyTrack,Pepperoni - Deli Meats,SausageSpiceLevel
+SupplyTrack,Pepperoni - Deli Meats,SausageType
+SupplyTrack,Pepperoni - Excluding deli,SausageCupping
+SupplyTrack,Philly Beef,PhillyCertifiedAngus
+SupplyTrack,Philly Beef,PhillyForm
+SupplyTrack,Philly Beef,PhillyFormat
+SupplyTrack,Philly Beef,PhillyMarinatedPercent
+SupplyTrack,Philly Beef,PhillyMeatBlock
+SupplyTrack,Philly Beef,PhillyPortionSize
+SupplyTrack,Philly Beef,PhillyVegetables
+SupplyTrack,Pickles,PicklesCount
+SupplyTrack,Pickles,PicklesFlavorType
+SupplyTrack,Pickles,PicklesProdForm
+SupplyTrack,Pickles,PicklesProdType
+SupplyTrack,Pies,DeepDish
+SupplyTrack,Pies,PieType
+SupplyTrack,Pies,PiesCrustType
+SupplyTrack,Pies,PiesCut
+SupplyTrack,Pies,PiesFlavors
+SupplyTrack,Pies,PiesFlavorsDetail
+SupplyTrack,Pies,PiesHandheld
+SupplyTrack,Pies,PiesProdForm
+SupplyTrack,Pies,PiesProdType
+SupplyTrack,Pies,PiesSize
+SupplyTrack,Pizza,PizzaCrustType
+SupplyTrack,Pizza,PizzaEdge
+SupplyTrack,Pizza,PizzaPrepMethodSpecialty
+SupplyTrack,Pizza,PizzaPrimaryIngredient
+SupplyTrack,Pizza,PizzaProductType
+SupplyTrack,Pizza,PizzaSauce
+SupplyTrack,Pizza,PizzaShape
+SupplyTrack,Pizza,PizzaSize
+SupplyTrack,Pizza,PizzaSpecialtyStyle
+SupplyTrack,Pizza,PizzaStuffedCrust
+SupplyTrack,Pizza,PizzaToppings
+SupplyTrack,Pizza,PizzaToppingsNET
+SupplyTrack,Pizza - Crust/Dough,PizzaCProductType
+SupplyTrack,Pizza - Crust/Dough,PizzaCStuffedCrust
+SupplyTrack,Pizza - Crust/Dough,PizzaFlavors
+SupplyTrack,Plant Based Proteins,PBPAddedFlavors
+SupplyTrack,Plant Based Proteins,PBPBreaded
+SupplyTrack,Plant Based Proteins,PBPFormat
+SupplyTrack,Plant Based Proteins,PBPPrimaryIngredient
+SupplyTrack,Plant Based Proteins,PBPProductSubstitution
+SupplyTrack,Plant Based Proteins,PBPProductSubstitutionDetail
+SupplyTrack,Plant Based Proteins,PBPProductType
+SupplyTrack,Plant Based Proteins,SoyFree
+SupplyTrack,Pre-Assembled Sandwiches/Breakfast Sandwiches,SandwichBreadType
+SupplyTrack,Pre-Assembled Sandwiches/Breakfast Sandwiches,SandwichCheese
+SupplyTrack,Pre-Assembled Sandwiches/Breakfast Sandwiches,SandwichCheeseType
+SupplyTrack,Pre-Assembled Sandwiches/Breakfast Sandwiches,SandwichEgg
+SupplyTrack,Pre-Assembled Sandwiches/Breakfast Sandwiches,SandwichJellyType
+SupplyTrack,Pre-Assembled Sandwiches/Breakfast Sandwiches,SandwichProdType
+SupplyTrack,Pre-Assembled Sandwiches/Breakfast Sandwiches,SandwichProtein
+SupplyTrack,Pre-Assembled Sandwiches/Breakfast Sandwiches,SandwichSlider
+SupplyTrack,Refrigerated Potatoes,PotatoFlavor
+SupplyTrack,Refrigerated Yogurt,YogBase
+SupplyTrack,Refrigerated Yogurt,YogFlavor
+SupplyTrack,Refrigerated Yogurt,YogForm
+SupplyTrack,Refrigerated Yogurt,YogLight
+SupplyTrack,Refrigerated Yogurt,YogProbiotics
+SupplyTrack,Refrigerated Yogurt,YogProdType
+SupplyTrack,Refrigerated Yogurt,YogSize
+SupplyTrack,Refrigerated Yogurt,YogStyle
+SupplyTrack,Relish,RelishAdditionalIngredientDetail
+SupplyTrack,Relish,RelishColor
+SupplyTrack,Relish,RelishStyle
+SupplyTrack,Relish,RelishType
+SupplyTrack,Rice/Grains,Breakage
+SupplyTrack,Rice/Grains,ReducedSodium
+SupplyTrack,Rice/Grains,RiceGrainAdditionalItems
+SupplyTrack,Rice/Grains,RiceGrainColor
+SupplyTrack,Rice/Grains,RiceGrainFlavoring
+SupplyTrack,Rice/Grains,RiceGrainProductType
+SupplyTrack,Rice/Grains,RiceGrainSize
+SupplyTrack,Rice/Grains,RiceGrainTwoAdditionalItemsDetail
+SupplyTrack,Rice/Grains,RiceGrainType
+SupplyTrack,Rice/Grains,WholeGrain
+SupplyTrack,Roast Beef - Sliced Deli Meats,BeefRoastMuscleType
+SupplyTrack,Roast Beef - Sliced Deli Meats,BeefRoastProdType
+SupplyTrack,Roast Beef - Sliced Deli Meats,BeefRoastShape
+SupplyTrack,Salad Oil,BlendRatio
+SupplyTrack,Salad Oil,SaladOilFlavor
+SupplyTrack,Salad Oil,SaladOilStyle
+SupplyTrack,Salsa,SalsaAdditionalIngredient
+SupplyTrack,Salsa,SalsaBaseIngredient
+SupplyTrack,Salsa,SalsaColor
+SupplyTrack,Salsa,SalsaFresh
+SupplyTrack,Salsa,SalsaHeat
+SupplyTrack,Salsa,SalsaPrimaryPepper
+SupplyTrack,Salsa,SalsaRoastingClaim
+SupplyTrack,Salsa,SalsaTexture
+SupplyTrack,Salsa,SalsaType
+SupplyTrack,Sausage - Breakfast,SausagePattyDiameter
+SupplyTrack,Sausage - Breakfast,SausageSize
+SupplyTrack,Sausage - Deli Meat,SalamiType
+SupplyTrack,Seeds,SeedSalt
+SupplyTrack,Seeds,SeedsProductType
+SupplyTrack,Snack Bars - Frozen,SBFlavor
+SupplyTrack,Snack Bars - Frozen,SBMadeWithYogurt
+SupplyTrack,Snack Bars - Frozen,SBProductType
+SupplyTrack,Snack Bars - Frozen,SBStyle
+SupplyTrack,Snack Bars/Toaster Pastries,Protein
+SupplyTrack,Snack Bars/Toaster Pastries,SBForm
+SupplyTrack,Soft Pretzels,SPretzelBavarian
+SupplyTrack,Soft Pretzels,SPretzelFormat
+SupplyTrack,Soft Pretzels,SPretzelSalt
+SupplyTrack,Soft Pretzels,SPretzelSizeClaim
+SupplyTrack,Solid Shortening,SldShortStyle
+SupplyTrack,Sour Cream,SourCreamCultureStyle
+SupplyTrack,Sour Cream,SourCreamForm
+SupplyTrack,Sour Cream,SourCreamProdType
+SupplyTrack,Soy Sauce,SoySauceFlavor
+SupplyTrack,Soy Sauce,SoySauceProdType
+SupplyTrack,Soy Sauce,SoySauceSodium
+SupplyTrack,Spices/Seasonings,SpiceSeasoningProdFormat
+SupplyTrack,Spices/Seasonings,SpiceType
+SupplyTrack,Spices/Seasonings,SpiceTypeNET
+SupplyTrack,Spices/Seasonings,SpicesSeasoningProdForm
+SupplyTrack,Spices/Seasonings,SpicesSeasoningsProdType
+SupplyTrack,Steak Sauce,SteakSauceFlavor
+SupplyTrack,Steak Sauce,SteakSauceProdForm
+SupplyTrack,Straws,Flex
+SupplyTrack,Straws,StrawsColor
+SupplyTrack,Straws,StrawsLength
+SupplyTrack,Straws,StrawsSize
+SupplyTrack,Straws,StrawsWrapped
+SupplyTrack,Sugar,SugarBaseIngredient
+SupplyTrack,Sugar,SugarColor
+SupplyTrack,Sugar,SugarFormat
+SupplyTrack,Sugar,SugarProdForm
+SupplyTrack,Sugar,SugarProdType
+SupplyTrack,Sugar Substitutes,SugarSubPacketColor
+SupplyTrack,Sugar Substitutes,SugarSubProdForm
+SupplyTrack,Sweet Roll/Danish/Pastry,SweetRollsDanishAdditions
+SupplyTrack,Sweet Roll/Danish/Pastry,SweetRollsDanishFilled
+SupplyTrack,Sweet Roll/Danish/Pastry,SweetRollsDanishFlavors
+SupplyTrack,Sweet Roll/Danish/Pastry,SweetRollsDanishFormat
+SupplyTrack,Sweet Roll/Danish/Pastry,SweetRollsDanishGlazed
+SupplyTrack,Sweet Roll/Danish/Pastry,SweetRollsDanishIced
+SupplyTrack,Sweet Roll/Danish/Pastry,SweetRollsDanishProdForm
+SupplyTrack,Sweet Roll/Danish/Pastry,SweetRollsDanishProdType
+SupplyTrack,Sweet Roll/Danish/Pastry,SweetRollsDanishSize
+SupplyTrack,Sweet Roll/Danish/Pastry,SweetRollsDanishSizeClaim
+SupplyTrack,Syrup,ReducedCalorie
+SupplyTrack,Syrup,SyrupFlavors
+SupplyTrack,Syrup,SyrupProdForm
+SupplyTrack,Syrup,SyrupProdType
+SupplyTrack,Tea,FreshBrewedIcedTeaBagSize
+SupplyTrack,Tea,TeaAddedFlavors
+SupplyTrack,Tea,TeaIcedOrHot
+SupplyTrack,Tea,TeaProdType
+SupplyTrack,Tea,TeaSweetened
+SupplyTrack,Tea,TeaVariety
+SupplyTrack,Tea,TeabagCount
+SupplyTrack,Tomato Based Sauces,Fresh
+SupplyTrack,Tomato Based Sauces,TomatoBasedSaucesAdditionalItems
+SupplyTrack,Tomato Based Sauces,TomatoBasedSaucesAdditionalItemsDetail
+SupplyTrack,Tomato Based Sauces,TomatoBasedSaucesChunky
+SupplyTrack,Tomato Based Sauces,TomatoBasedSaucesProdType
+SupplyTrack,Tomato Based Sauces,TomatoBasedSaucesProdTypeDetail
+SupplyTrack,Tomato Based Sauces,TomatoBasedSaucesSpecStyle
+SupplyTrack,Tomato Based Sauces,TomatoBasedSaucesType
+SupplyTrack,Tortillas,RawChipCut
+SupplyTrack,Tortillas,TortillaChipThickness
+SupplyTrack,Tortillas,TortillaFlavor
+SupplyTrack,Tortillas,TortillaForm
+SupplyTrack,Tortillas,TortillaProductType
+SupplyTrack,Tortillas,TortillaSize
+SupplyTrack,Tortillas,TortillaSpecialty
+SupplyTrack,Turkey - Deli Meats,TurkeyLeanClaim
+SupplyTrack,Turkey - Deli Meats,TurkeyPrep
+SupplyTrack,Turkey - Deli Meats,TurkeyProdForm
+SupplyTrack,Turkey - Deli Meats,TurkeyProdType
+SupplyTrack,Turkey - Deli Meats,TurkeyTypeOfMeat
+SupplyTrack,Turkey - Deli Meats,TurkeyWeightInd
+SupplyTrack,Turkey - Excluding Deli,TurkeyTimer
+SupplyTrack,Veal,VealFeed
+SupplyTrack,Veal,VealItemNumber
+SupplyTrack,Veal,VealProdType
+SupplyTrack,Veal,VealSection
+SupplyTrack,Veal,VealSubprimalPortioned
+SupplyTrack,Vegetables - Canned - Excluding Tomatoes,VegFormat
+SupplyTrack,Vegetables - Canned - Excluding Tomatoes,VegPackingLiquid
+SupplyTrack,Vegetables - Canned - Excluding Tomatoes,VegProdType
+SupplyTrack,Vegetables - Canned - Excluding Tomatoes,VegProdTypeDetail
+SupplyTrack,Vegetables - Canned - Excluding Tomatoes,VegRoasted
+SupplyTrack,Vegetables - Dried,VegPreWashed
+SupplyTrack,Vegetables - Fresh,Origin
+SupplyTrack,Vegetables - Fresh,USDAGrade
+SupplyTrack,Vinegar,VinegarAge
+SupplyTrack,Vinegar,VinegarFlavor
+SupplyTrack,Vinegar,VinegarProdType
+SupplyTrack,Vinegar,VinegarStrength
+SupplyTrack,Vinegar,VinegarWineDetail
+SupplyTrack,Whipped Toppings & Creams,WhipCreamAddedFlavors
+SupplyTrack,Whipped Toppings & Creams,WhipCreamFormat
+SupplyTrack,Whipped Toppings & Creams,WhipCreamHeavyLight
+SupplyTrack,Whipped Toppings & Creams,WhipCreamMilkFatContent
+SupplyTrack,Whipped Toppings & Creams,WhipCreamPackaging
+SupplyTrack,Whipped Toppings & Creams,WhipCreamProductType
+SupplyTrack,Whipped Toppings & Creams,WhipCreamStyle
+SupplyTrack,Wipers,Dimension
+SupplyTrack,Wipers,PrintColor
+SupplyTrack,Wipers,WiperApplication
+SupplyTrack,Wipers,WiperColor
+SupplyTrack,Wipers,WiperForm
+SupplyTrack,Wipers,WiperProductType
+SupplyTrack,Wipers,WiperScent
+SupplyTrack,Wipers,WiperSubstrate
+SupplyTrack,Wipers,WiperTreatment
+Team Sports,Badminton & Volleyball Sets,Set Type
+Team Sports,Baseball & Softball Equipment Bags,Bag Material
+Team Sports,Baseball & Softball Gloves & Mitts,Glove Size
+Team Sports,Baseball & Softball Gloves & Mitts,Glove Type
+Team Sports,Baseball & Softball Gloves & Mitts,Position
+Team Sports,Baseball & Softball Gloves & Mitts,Throwing Hand
+Team Sports,Baseballs,Baseball Softball Type
+Team Sports,Baseballs,Core Material
+Team Sports,Baseballs,Cover Material
+Team Sports,Baseballs,Fast-Pitch-Slow-Pitch
+Team Sports,Baseballs,Multipack
+Team Sports,Basketball Combo - Backboard & Rim,Backboard Material
+Team Sports,Basketball Combo - Backboard & Rim,Backboard Size
+Team Sports,Basketball Combo - Backboard & Rim,Breakaway Rim
+Team Sports,Batting Helmets,Baseball Facemask
+Team Sports,Field Hockey Sticks,Hockey Stick Material
+Team Sports,Golf Balls,Golf Ball Type
+Team Sports,Golf Balls,Recycled
+Team Sports,Hockey Balls,Hockey Ball Type
+Team Sports,Hockey Helmet,Hockey Helmet Type
+Team Sports,Hockey Pucks,Hockey Puck Type
+Team Sports,Hockey Stick - Intermediate,Hockey Stick Type
+Team Sports,"Intermediate Basketball - 28.5""",Basketball League License
+Team Sports,"Intermediate Basketball - 28.5""",Other License Type
+Team Sports,"Intermediate Basketball - 28.5""",Surface Type
+Team Sports,Junior Football - Size 7,Football League License
+Team Sports,Lacrosse Full Sticks,Lacrosse Shaft Material
+Team Sports,Non-Wood Bats,Bat Construction
+Team Sports,Non-Wood Bats,Bat Drop
+Team Sports,Non-Wood Bats,Bat Length
+Team Sports,Non-Wood Bats,Bat Type
+Team Sports,Non-Wood Bats,League Association Certification
+Team Sports,Non-Wood Bats,Non Wood Bat Material
+Team Sports,Racquetball Racquet,Racquet Composition
+Team Sports,Soccer Balls,Soccer Ball Size
+Team Sports,Soccer Balls,Soccer League License
+Team Sports,Soccer Shin Guards,Shin Guard Types
+Team Sports,Tennis Racquet,Tennis Racquet Head Size
+Team Sports,Tennis Racquet,Tennis Racquet Strung
+Team Sports,Wood Bats,Wooden Bat Material
+Tech,35mm Lens Shutter,Inkjet/Toner Color
+Tech,3D Accessories,3D Glasses Color
+Tech,3D Accessories,3D Glasses Compatibility Type
+Tech,3D Accessories,3D Glasses Kit
+Tech,3D Accessories,3D Glasses Run Time
+Tech,3D Accessories,3D Glasses Size
+Tech,3D Accessories,3D Glasses Sync Type
+Tech,3D Accessories,3D Glasses Weight
+Tech,3D Accessories,3D Viewing Type
+Tech,3D Accessories,Extra Nose Pieces
+Tech,3D Accessories,Number of Glasses
+Tech,3D Accessories,Rechargeable
+Tech,3D Accessories,Rechargeable Battery Type
+Tech,3D Printing,3D Printer Technology
+Tech,3D Printing,3D Printer Type
+Tech,3D Printing,3D Printer Vertical Resolution
+Tech,3D Printing,3D Printer Weight
+Tech,3D Printing,Camera
+Tech,3D Printing,Color-Changing Filament
+Tech,3D Printing,Combination 3D Printer
+Tech,3D Printing,Consumable Material Type
+Tech,3D Printing,Consumable Primary Color
+Tech,3D Printing,Consumable Secondary Color
+Tech,3D Printing,Consumable Type
+Tech,3D Printing,Consumable or PartAccessory
+Tech,3D Printing,Display Screen
+Tech,3D Printing,Filament Diameter
+Tech,3D Printing,Filament Form Factor
+Tech,3D Printing,Filament Unit Size By Weight
+Tech,3D Printing,Glow in the Dark Filament
+Tech,3D Printing,Maximum Build Envelope
+Tech,3D Printing,Maximum Recommended Printing Temperature
+Tech,3D Printing,Minimum Recommended Printing Temperature
+Tech,3D Printing,Number of 3D Printer Extruders
+Tech,3D Printing,Open Source or Proprietary Filament
+Tech,3D Printing,Pre-Built or Kit
+Tech,3D Printing,Primary Extruder Diameter
+Tech,3D Printing,Refurbished
+Tech,3D Printing,Supports ABS Filament
+Tech,3D Printing,Supports Nylon Filament
+Tech,3D Printing,Supports PLA Filament
+Tech,3D Printing,Supports PVA Filament
+Tech,3D Printing,Wireless Printing
+Tech,A/V Antennas,Digital TV Antenna Type
+Tech,Appointment & Planner Books / Organizers,"Calendar Layout - Appt. Books, Organizer & Planner"
+Tech,Appointment & Planner Books / Organizers,Calendar Year
+Tech,Appointment & Planner Books / Organizers,"Carry Attachment - Appt. Book, Organizer & Planner"
+Tech,Appointment & Planner Books / Organizers,"Closure - Appointment Book, Organizer & Planner"
+Tech,Appointment & Planner Books / Organizers,"Cover Color - Appt. Book, Organizer & Planner"
+Tech,Appointment & Planner Books / Organizers,"Cover Material - Appt. Book, Organizer, Planner"
+Tech,Appointment & Planner Books / Organizers,Dated Goods Refillable/Non-Refillable
+Tech,Appointment & Planner Books / Organizers,Dimension Grouping
+Tech,Appointment & Planner Books / Organizers,"Dimensions - Appt. Books, Organizers & Planners"
+Tech,Appointment & Planner Books / Organizers,Number of Months
+Tech,Appointment & Planner Books / Organizers,Number of People's Appointments Tracked
+Tech,Appointment & Planner Books / Organizers,Recycled Materials
+Tech,Appointment & Planner Books / Organizers,Self Help
+Tech,Art & Craft Paper,Art & Craft Paper - Binding
+Tech,Art & Craft Paper,Art & Craft Paper Color
+Tech,Art & Craft Paper,Art & Craft Paper Size
+Tech,Art & Craft Paper,Art & Craft Paper Weight
+Tech,Art & Craft Paper,Licensed Character
+Tech,Art & Craft Paper,Trifold
+Tech,Assisted Hearing Devices,App Controllable
+Tech,Assisted Hearing Devices,Assisted Hearing Device Type
+Tech,Assisted Hearing Devices,Audio Streaming Capable
+Tech,Assisted Hearing Devices,Battery Run Time
+Tech,Assisted Hearing Devices,Battery Type
+Tech,Assisted Hearing Devices,FDA Medical Device Classification
+Tech,Assisted Hearing Devices,Hearing Aid Style
+Tech,Assisted Hearing Devices,Self-Fitting
+Tech,Assisted Hearing Devices,Warranty Term In Years
+Tech,Audio/Video Cables,Data Cable Packaging
+Tech,Audio/Video Cables,Data Cable Type
+Tech,Audio/Video Cables,Number in Pack
+Tech,Backup Technologies,HD Form Factor
+Tech,Backup Technologies,Hard Drive Disk Size GB
+Tech,Backup Technologies,Hard Drive Included
+Tech,Backup Technologies,Number of Drive Bays
+Tech,Backup Technologies,Number of Drives Included
+Tech,Backup Technologies,Populated Drive Bays
+Tech,Backup Technologies,Product Family
+Tech,Backup Technologies,Router Included
+Tech,Backup Technologies,Storage Interface
+Tech,Backup Technologies,Storage System Type
+Tech,Backup Technologies,System Form Factor
+Tech,Backup Technologies,Tape Libraries & Tape Drives Type
+Tech,Backup Technologies,iSCSI Capability
+Tech,Beverage Accessories,Breakroom Service - Color
+Tech,Beverage Cups,Beverage Type
+Tech,Beverage Cups,Cup Size
+Tech,Binder Accessories,All Other Binder Accessory Type
+Tech,Binder Accessories,Binder Accessory Material
+Tech,Binder Accessories,Binder Accessory Pack Size
+Tech,Binder Accessories,Binder Accessory Weight
+Tech,Binder Accessories,Binder Pocket
+Tech,Binder Accessories,Clarity
+Tech,Binder Accessories,Divider Color
+Tech,Binder Accessories,Feed Through A Machine
+Tech,Binder Accessories,Loading
+Tech,Binder Accessories,Media Type
+Tech,Binder Accessories,Number of Sets Included
+Tech,Binder Accessories,Protector Size
+Tech,Binder Accessories,Tab Color
+Tech,Binding,BindingType
+Tech,Binding,CoverColor-BindingMachineAccessories
+Tech,Binding,CoverMaterial-BindingMachineAccessories
+Tech,Binding,CoverSize
+Tech,Binding,MachinePortable
+Tech,Binding,PackSize-BindingMachineAccessories
+Tech,Binding,PunchCapacity
+Tech,Binding,SheetCapacity
+Tech,Binding,SpineBindingStyle
+Tech,Binding,SpineColor
+Tech,Binding,SpineSize
+Tech,Binoculars - Do Not Use,Digital Camera
+Tech,Binoculars - Do Not Use,Focus
+Tech,Binoculars - Do Not Use,Objective Lens Aperature
+Tech,Binoculars - Do Not Use,Prism Type
+Tech,Binoculars - Do Not Use,Scope
+Tech,Binoculars - Do Not Use,Zoom
+Tech,Blank Video Tape,Blank Video Type
+Tech,Blank Video Tape,Length (in Minutes)
+Tech,Blank Video Tape,Pack Size (Tapes in Package) 
+Tech,Blank Video Tape,Tape Grade
+Tech,Blu-ray Media,DVD # in Package
+Tech,Blu-ray Media,DVD Capacity
+Tech,Blu-ray Media,DVD Max Recording Speed
+Tech,Blu-ray Media,DVD Media Type
+Tech,Blu-ray Media,Data Format
+Tech,Blu-ray Media,Layers DVD Media
+Tech,Blu-ray Media,Packaging Type
+Tech,Blu-ray Media,Printable Media Type
+Tech,Blu-ray Media,Sides
+Tech,Blu-ray Media,Size DVD Media
+Tech,Blu-ray Players/Recorders,3D
+Tech,Blu-ray Players/Recorders,BD Profile
+Tech,Blu-ray Players/Recorders,Browser Installed
+Tech,Blu-ray Players/Recorders,DTS Decoder
+Tech,Blu-ray Players/Recorders,DiVX
+Tech,Blu-ray Players/Recorders,Dolby Digital Decoder
+Tech,Blu-ray Players/Recorders,High Resolution Audio
+Tech,Blu-ray Players/Recorders,JPEG Viewer
+Tech,Blu-ray Players/Recorders,Kodak Picture CD
+Tech,Blu-ray Players/Recorders,MPEG-4
+Tech,Blu-ray Players/Recorders,Networked
+Tech,Blu-ray Players/Recorders,Networking Capable
+Tech,Blu-ray Players/Recorders,Next Gen DVD Format
+Tech,Blu-ray Players/Recorders,Shuttle Control
+Tech,Blu-ray Players/Recorders,Streaming - Hulu
+Tech,Blu-ray Players/Recorders,Streaming - Netflix
+Tech,Blu-ray Players/Recorders,Streaming - Other Video
+Tech,Blu-ray Players/Recorders,Streaming - YouTube
+Tech,Blu-ray Players/Recorders,Ultra HD Blu-ray
+Tech,Blu-ray Players/Recorders,Video Streaming Capable
+Tech,Blu-ray Players/Recorders,Windows Media
+Tech,Blu-ray Players/Recorders,Xvid
+Tech,Business Applications,Cloud Backup
+Tech,Business Applications,Cloud Enabled
+Tech,Business Applications,First Month Sold
+Tech,Business Applications,First Year Sold
+Tech,Business Applications,License Segment
+Tech,Business Applications,License Support Status
+Tech,Business Applications,License Term - Months
+Tech,Business Applications,Licensed Socket CPU Max Quantity
+Tech,Business Applications,Licensed seat - user Quantity Range
+Tech,Business Applications,Protected Storage Capacity
+Tech,Business Applications,Software Product Family
+Tech,Business Applications,Software Use-Case
+Tech,CD Boombox,CDC Configuration
+Tech,CD Boombox,Design
+Tech,CD Boombox,Digital File Playback
+Tech,CD Boombox,HD Radio
+Tech,CD Boombox,Remote Control Included
+Tech,CD Boombox,Tuner Type
+Tech,CD Boombox,Type of Disc Loader
+Tech,CD Boombox,Wireless Capability
+Tech,CD Controllers,Amplifier Type
+Tech,CD Controllers,CD Controller Remote Control
+Tech,CD Controllers,CD Controller Size
+Tech,CD Controllers,CD Controller Type
+Tech,CD Controllers,Power Per Main Channel
+Tech,CD Media,CD # in Package
+Tech,CD Media,CD Format
+Tech,CD Media,CD Max Recording Speed
+Tech,CD Media,Media Style
+Tech,CD Media,Recordable Media Type
+Tech,CD Media,Recording Time/Data Size
+Tech,CD/DVD Drives,Blu-ray Technology
+Tech,CD/DVD Drives,CD Drive Type
+Tech,CD/DVD Drives,CD Reading Speed
+Tech,CD/DVD Drives,CD Rewriting Speed
+Tech,CD/DVD Drives,CD Writing Speed
+Tech,CD/DVD Drives,CD/DVD Format
+Tech,CD/DVD Drives,CD/DVD Interface
+Tech,CD/DVD Drives,DVD Format
+Tech,CD/DVD Drives,DVD Read/Write
+Tech,CD/DVD Drives,DVD Reading Speed
+Tech,CD/DVD Drives,DVD Rewriting Speed
+Tech,CD/DVD Drives,DVD Writing Speed
+Tech,CD/DVD Drives,Internal Memory
+Tech,CD/DVD Drives,Removable Media
+Tech,CD/DVD Drives,Removable Media Handle High Capacity
+Tech,CD/DVD Drives,Removable Media Type
+Tech,CD/DVD Drives,Slim Drive
+Tech,CPUs/Processors,Cache Size
+Tech,CPUs/Processors,DRAM Module Type
+Tech,CPUs/Processors,Lithography nm
+Tech,CPUs/Processors,MHz
+Tech,CPUs/Processors,MHz Max
+Tech,CPUs/Processors,NPU TOPS PC
+Tech,CPUs/Processors,PC Technology
+Tech,CPUs/Processors,PC Technology Family
+Tech,CPUs/Processors,PCIe Version
+Tech,CPUs/Processors,Processor Core
+Tech,CPUs/Processors,Processor Market
+Tech,CRT TV,Advanced OS
+Tech,CRT TV,Apps Included
+Tech,CRT TV,Backlight Source
+Tech,CRT TV,Broadcast System
+Tech,CRT TV,Cable Card Slot Included
+Tech,CRT TV,Colors Per Pixel
+Tech,CRT TV,DVD Included
+Tech,CRT TV,Digital Connector
+Tech,CRT TV,Digital Interface Included
+Tech,CRT TV,Display Resolution
+Tech,CRT TV,Display Segment
+Tech,CRT TV,Display Type
+Tech,CRT TV,Electronic Programming Guide
+Tech,CRT TV,Energy Star On Mode Power
+Tech,CRT TV,Energy Star Screen Area
+Tech,CRT TV,Energy Star Sleep Mode Power
+Tech,CRT TV,Energy Star Version
+Tech,CRT TV,Hard Drive Recorder Included
+Tech,CRT TV,Hard Drive Recorder Type
+Tech,CRT TV,Integrated Media Device
+Tech,CRT TV,Internet Connection Type
+Tech,CRT TV,Native Scan Formats
+Tech,CRT TV,Number of ATSC (Digital) Tuners
+Tech,CRT TV,Number of HDMI Connectors
+Tech,CRT TV,Number of NTSC (Analog) Tuners
+Tech,CRT TV,Picture in Picture
+Tech,CRT TV,Rear Projection TV Technology Type
+Tech,CRT TV,Refresh Rate
+Tech,CRT TV,Remote
+Tech,CRT TV,Screen Format
+Tech,CRT TV,Screen Size (in inches)
+Tech,CRT TV,Smart TV
+Tech,CRT TV,Software Service Name
+Tech,CRT TV,TV Command Type
+Tech,CRT TV,TV Display
+Tech,CRT TV,Touchpad CTV
+Tech,CRT TV,Tuner
+Tech,CRT TV,Under Counter Mount
+Tech,CRT TV,VCR Format
+Tech,Calculators,Calculator Number of Lines
+Tech,Calculators,Calculator Type
+Tech,Calculators,Number of Digits
+Tech,Calculators,Printing
+Tech,Calculators,Upgradable Rom
+Tech,Calendars,Calendar Base With Desk Organizer
+Tech,Calendars,Calendar Hanging Direction
+Tech,Calendars,Calendar Page Dimensions
+Tech,Calendars,Desk Calendar Refill Type
+Tech,Calendars,Desk Calendar Refills with Tabs
+Tech,Calendars,Erasable Surface Calendar
+Tech,Caller ID Boxes,Call Storage (Range)
+Tech,Caller ID Boxes,Call Waiting
+Tech,Caller ID Boxes,Caller Id Display
+Tech,Caller ID Boxes,Display Dial
+Tech,Caller ID Boxes,Time & Date Stamp
+Tech,Camcorder Accessory (Consumer Only),Imaging Accessory Usage
+Tech,Camcorders,360 Degrees
+Tech,Camcorders,AVCHD Format
+Tech,Camcorders,Action Camera
+Tech,Camcorders,Built in Flash
+Tech,Camcorders,Camcorder Rugged/Waterproof
+Tech,Camcorders,Camcorder Screen Orientation
+Tech,Camcorders,Camcorder Touchscreen
+Tech,Camcorders,Codec
+Tech,Camcorders,Color Viewfinder
+Tech,Camcorders,Digital Zoom
+Tech,Camcorders,Digital Zoom Length
+Tech,Camcorders,Electronic Image Stabilization (EIS)
+Tech,Camcorders,Geotagging
+Tech,Camcorders,HD Video Format
+Tech,Camcorders,HDV Format
+Tech,Camcorders,Handheld Orientation
+Tech,Camcorders,Image Stabilization
+Tech,Camcorders,Imaging Resolution
+Tech,Camcorders,Internal Memory Size
+Tech,Camcorders,LCD Screen
+Tech,Camcorders,Mountable
+Tech,Camcorders,Optical Zoom Included
+Tech,Camcorders,Optical Zoom Length
+Tech,Camcorders,Power Zoom Ratio
+Tech,Camcorders,Record/Playback
+Tech,Camcorders,Recording Media
+Tech,Camcorders,Weight (In Ounces)
+Tech,Camcorders,Wi-Fi Capable
+Tech,Car Amplifiers,Bridgeable Amplifier
+Tech,Car Amplifiers,Built in CrossOvers
+Tech,Car Amplifiers,Car Amp Number of Channels
+Tech,Car Amplifiers,Input Type
+Tech,Car Amplifiers,Power (40HM) per Channel
+Tech,Car CD Changers,CD Changer Number of Discs
+Tech,Car CD Changers,CD Changer Type
+Tech,Car CD Changers,CD-R/CD-RW Playback
+Tech,Car CD Changers,Satellite Radio
+Tech,Car Stereo Speakers,Car Speaker Mount Type
+Tech,Car Stereo Speakers,Marine Quality
+Tech,Car Stereo Speakers,Speaker Configuration
+Tech,Car Stereo Speakers,Speaker Package Quantity
+Tech,Car Stereo Speakers,Speaker Size
+Tech,Car Stereo Speakers,Speaker Type
+Tech,Car Stereo Speakers,Subwoofer Size
+Tech,Car Stereo Speakers,Top Mount Depth
+Tech,Cell Phone Accessories,Anti-Fingerprint
+Tech,Cell Phone Accessories,Anti-Glare
+Tech,Cell Phone Accessories,Antimicrobial Protection
+Tech,Cell Phone Accessories,Battery Life
+Tech,Cell Phone Accessories,Brand Series
+Tech,Cell Phone Accessories,Built in GripStand
+Tech,Cell Phone Accessories,Cell Phone Battery Capacity
+Tech,Cell Phone Accessories,Cell Phone Case Series
+Tech,Cell Phone Accessories,Cell Phone Case Type
+Tech,Cell Phone Accessories,Charging Case
+Tech,Cell Phone Accessories,Charging Case Battery Capacity
+Tech,Cell Phone Accessories,Curved Screen Protector
+Tech,Cell Phone Accessories,Device Pattern
+Tech,Cell Phone Accessories,Device Protection Material
+Tech,Cell Phone Accessories,IP Rating
+Tech,Cell Phone Accessories,Magnetic Holder
+Tech,Cell Phone Accessories,Mobile Accessory Type
+Tech,Cell Phone Accessories,Mobile Holder Type
+Tech,Cell Phone Accessories,Number of Items in Package
+Tech,Cell Phone Accessories,Phone Brand
+Tech,Cell Phone Accessories,Phone Model
+Tech,Cell Phone Accessories,Phone Type
+Tech,Cell Phone Accessories,Primary Color
+Tech,Cell Phone Accessories,Privacy Protection
+Tech,Cell Phone Accessories,Ring Light
+Tech,Cell Phone Accessories,Screen Protection Included
+Tech,Cell Phone Accessories,Screen Protector Coverage
+Tech,Cell Phone Accessories,Screen Protector Material
+Tech,Cell Phone Accessories,Secondary Color
+Tech,Cell Phone Accessories,Self-Healing Film
+Tech,Cell Phone Accessories,Sustainable Materials
+Tech,Cell Phone Accessories,Translucent
+Tech,Cell Phone Accessories,Wallet Case
+Tech,Cell Phone Accessories,Water-Resistant/Waterproof
+Tech,Cell Phone Accessories,Wireless Charging Standard
+Tech,Cellular Headset Equipment,A2DP Profile
+Tech,Cellular Headset Equipment,Base/Remote Technology
+Tech,Cellular Headset Equipment,Gaming
+Tech,Cellular Headset Equipment,Handsfree Type
+Tech,Cellular Headset Equipment,Headphone Headset Style
+Tech,Cellular Headset Equipment,Headset Caller ID
+Tech,Cellular Headset Equipment,Headset Sound
+Tech,Cellular Headset Equipment,Headset Voice Alerts
+Tech,Cellular Headset Equipment,Headset Voice Commands
+Tech,Cellular Headset Equipment,Mute
+Tech,Cellular Headset Equipment,Noise Cancelling
+Tech,Cellular Headset Equipment,Number of Microphones
+Tech,Cellular Headset Equipment,PC Headset/PC Microphone
+Tech,Cellular Headset Equipment,USB Connection
+Tech,Cellular Headset Equipment,Wireless or Wired
+Tech,Clips,Clip Color
+Tech,Clips,Clip Material
+Tech,Clips,Clip Size
+Tech,Clips,Clip with Magnetic Backing
+Tech,Coloring,Chalk Type
+Tech,Coloring,Coloring Dry Erase
+Tech,Coloring,Coloring Size
+Tech,Coloring,Count/Pack Size
+Tech,Coloring,Fabric
+Tech,Coloring,Outdoor Use
+Tech,Coloring,Twist Up
+Tech,Coloring,Washable
+Tech,Communication Devices,Certified Device Type
+Tech,Communication Devices,Telecom Device Type
+Tech,Communication Devices,Telecom Interaction Capability
+Tech,Communication Devices,VOIP Capable
+Tech,Computer Connectivity,KVM Extender
+Tech,Computer Connectivity,KVM Switch
+Tech,Computer Connectivity,NB Mobile
+Tech,Computer Connectivity,USB Type- C Connector
+Tech,Corded Equipment,Amplified
+Tech,Corded Equipment,Answer Recording Time
+Tech,Corded Equipment,Caller ID
+Tech,Corded Equipment,Conference Call
+Tech,Corded Equipment,Corded LCD Display
+Tech,Corded Equipment,Data Port Jack
+Tech,Corded Equipment,Dial Type
+Tech,Corded Equipment,Headset Included
+Tech,Corded Equipment,Hold Function
+Tech,Corded Equipment,Memories
+Tech,Corded Equipment,Number of Lines
+Tech,Corded Equipment,Number of Mailboxes
+Tech,Corded Equipment,Remote Functions
+Tech,Corded Equipment,Speakerphone
+Tech,Corded Equipment,Voice Menu
+Tech,Corded Equipment,Voice over IP Capable (VoIP)
+Tech,Cordless Equipment,Color Display Included
+Tech,Cordless Equipment,Corded Handset on Base
+Tech,Cordless Equipment,Dial on Base
+Tech,Cordless Equipment,Extra Handsets/Phone
+Tech,Cordless Equipment,Frequency Technique
+Tech,Cordless Equipment,Headset Jack
+Tech,Cordless Equipment,Intercom Function
+Tech,Cordless Equipment,Number of Handsets
+Tech,Cordless Equipment,Radio Frequency
+Tech,Cordless Equipment,Talking Caller ID
+Tech,Cordless Equipment,USB Port
+Tech,Correction,Correction - Fluid Form
+Tech,Correction,Correction - Pencil Eraser Type
+Tech,Correction,Correction - Tape Type
+Tech,Correction,Fine Writing - Set Composition
+Tech,Correction,Highlighters - Self Stick Flags
+Tech,Correction,Highlighters - Type
+Tech,Correction,Markers - Ink Type
+Tech,Correction,Markers - Type of Erasable
+Tech,Correction,Markers - Washable
+Tech,Correction,Pencils - Lead Size
+Tech,Correction,Pencils - Pre-Sharpened
+Tech,Correction,Pencils - Watercolor
+Tech,Correction,Pencils - Woodless
+Tech,Correction,Pens - Actual Pen Point Size
+Tech,Correction,Refills - Pencil Refill Pack Size
+Tech,Correction,Refills - Pencil Refill Point Size
+Tech,Correction,Writing - Barrel Color
+Tech,Correction,Writing - Bonus Count
+Tech,Correction,Writing - Bonus Item Type
+Tech,Correction,Writing - Color
+Tech,Correction,Writing - Comfort Grip
+Tech,Correction,Writing - Erasable
+Tech,Correction,Writing - Mini Size
+Tech,Correction,Writing - Pack Size
+Tech,Correction,Writing - Pen Type
+Tech,Correction,Writing - Product Line
+Tech,Correction,Writing - Retractable
+Tech,Correction,Writing - Style
+Tech,Correction,Writing - Tip
+Tech,Correction,Writing - Twistable
+Tech,Correction,Writing Instruments Acc - Case Closure
+Tech,Correction,Writing Instruments Acc - Color
+Tech,Correction,Writing Instruments Acc - Eyelets
+Tech,Correction,Writing Instruments Acc - Material
+Tech,Correction,Writing Instruments Acc - Power Source
+Tech,Cutlery,Actual Cutlery Count per Pack
+Tech,Cutlery,Actual Cutlery Pack Count
+Tech,Cutlery,Cutlery Weight
+Tech,Cutting Tools,Blade Type
+Tech,Cutting Tools,Cutting Tool Blade Length
+Tech,Cutting Tools,Cutting Tool Form
+Tech,Cutting Tools,Cutting Tool Pack Size
+Tech,Cutting Tools,Cutting Tool Use
+Tech,Data Binders,Binder Color
+Tech,Data Binders,Binder Durability
+Tech,Data Binders,Binder Material
+Tech,Data Binders,Binder Pack Size
+Tech,Data Binders,Binder Sheet Capacity
+Tech,Data Binders,Binder Size
+Tech,Data Binders,Hanging
+Tech,Data Binders,Number of Rings
+Tech,Data Binders,Ring Size
+Tech,Data Binders,Ring Type
+Tech,Data Binders,View Cover
+Tech,Data Binders,Zippered vs Non-Zippered
+Tech,Data Cables,Pins
+Tech,Data Cartridges,4MM Type
+Tech,Data Cartridges,8MM Type
+Tech,Data Cartridges,DLT Type
+Tech,Data Cartridges,Data # in Package
+Tech,Data Cartridges,Data Cartridge Capacity
+Tech,Data Cartridges,Data Cartridge Type
+Tech,Data Cartridges,LTO TYPE
+Tech,Digital Assistant Robots,Alexa
+Tech,Digital Assistant Robots,Collision Avoidance
+Tech,Digital Assistant Robots,Cortana
+Tech,Digital Assistant Robots,Google Assistant
+Tech,Digital Assistant Robots,Integrated Camera
+Tech,Digital Assistant Robots,Siri
+Tech,Digital Assistant Robots,Z-wave
+Tech,Digital Assistant Robots,ZigBee
+Tech,Digital Health,Blood Pressure Monitor
+Tech,Digital Health,Device Location
+Tech,Digital Health,Digital Health Device Type
+Tech,Digital Health,Glucose Monitor
+Tech,Digital Health,Heart Rate Tracking Technology
+Tech,Digital Health,Technology Type
+Tech,Digital Health,User Log
+Tech,Digital Health,Voice Control
+Tech,Digital Imaging Accessories,Attachment Points
+Tech,Digital Imaging Accessories,Bag/Case Type
+Tech,Digital Imaging Accessories,Battery Brand Compatibility
+Tech,Digital Imaging Accessories,Battery Capacity
+Tech,Digital Imaging Accessories,Battery Make Up
+Tech,Digital Imaging Accessories,Camera Case Type
+Tech,Digital Imaging Accessories,Case Depth
+Tech,Digital Imaging Accessories,Case Height
+Tech,Digital Imaging Accessories,Case Material Type
+Tech,Digital Imaging Accessories,Case Width
+Tech,Digital Imaging Accessories,Constant Aperture
+Tech,Digital Imaging Accessories,Cradle/Dock Function
+Tech,Digital Imaging Accessories,Image Sensor Format
+Tech,Digital Imaging Accessories,Imaging Accessory Type
+Tech,Digital Imaging Accessories,Lens Anti-Shake Technology
+Tech,Digital Imaging Accessories,Lens Brand Compatibility
+Tech,Digital Imaging Accessories,Lens Classification
+Tech,Digital Imaging Accessories,Lens Filter Set Type
+Tech,Digital Imaging Accessories,Lens Focus Type
+Tech,Digital Imaging Accessories,Lens Mount Type
+Tech,Digital Imaging Accessories,Life
+Tech,Digital Imaging Accessories,Maximum F-Stop Aperture
+Tech,Digital Imaging Accessories,Maximum T-Stop Aperture
+Tech,Digital Imaging Accessories,Maximum Zoom Size
+Tech,Digital Imaging Accessories,Minimum F-Stop Aperture
+Tech,Digital Imaging Accessories,Minimum T-Stop Aperture
+Tech,Digital Imaging Accessories,Minimum Zoom Size
+Tech,Digital Imaging Accessories,Prime Lens Size
+Tech,Digital Imaging Accessories,Quiet Autofocus Motor
+Tech,Digital Imaging Accessories,Tripod/Monopod - Closed Length (range/inches)
+Tech,Digital Imaging Accessories,Tripod/Monopod - Flexibility
+Tech,Digital Imaging Accessories,Tripod/Monopod - Leg Sections
+Tech,Digital Imaging Accessories,Tripod/Monopod - Material
+Tech,Digital Imaging Accessories,Tripod/Monopod - Max Height (range/inches)
+Tech,Digital Imaging Accessories,Tripod/Monopod/Head  - Max Load Capacity (range)
+Tech,Digital Imaging Accessories,Tripod/Monopod/Head - Camera Type
+Tech,Digital Imaging Accessories,Tripod/Monopod/Head - Fluid Head
+Tech,Digital Imaging Accessories,Tripod/Monopod/Head - Head Type
+Tech,Digital Imaging Accessories,Tripod/Monopod/Head - Weight (range)
+Tech,Digital Imaging Accessories,Voltage (Actual Rounded)
+Tech,Digital Media Speakers,A/V Inputs
+Tech,Digital Media Speakers,Accessory Usage
+Tech,Digital Media Speakers,AirPlay Local Streaming
+Tech,Digital Media Speakers,Battery Compartment
+Tech,Digital Media Speakers,Battery Powered
+Tech,Digital Media Speakers,Bixby
+Tech,Digital Media Speakers,Bluetooth Local Streaming
+Tech,Digital Media Speakers,Bluetooth Speaker to Speaker Communication
+Tech,Digital Media Speakers,Brand Designed For
+Tech,Digital Media Speakers,Cell Phone Docking Capable
+Tech,Digital Media Speakers,Clock Radio Mount
+Tech,Digital Media Speakers,Clock/Radio
+Tech,Digital Media Speakers,Color Changing Lights
+Tech,Digital Media Speakers,Content Type
+Tech,Digital Media Speakers,DLNA Local Streaming
+Tech,Digital Media Speakers,Detachable Speakers
+Tech,Digital Media Speakers,Device Color
+Tech,Digital Media Speakers,Digital Media Speaker Type
+Tech,Digital Media Speakers,Digital Player Connection Type
+Tech,Digital Media Speakers,Dock Capability
+Tech,Digital Media Speakers,Dock Connector Type
+Tech,Digital Media Speakers,Docking Speaker with Video
+Tech,Digital Media Speakers,Drive Size
+Tech,Digital Media Speakers,Expandable Wireless System
+Tech,Digital Media Speakers,Google Cast Local Streaming
+Tech,Digital Media Speakers,HD Radio Tagging
+Tech,Digital Media Speakers,Handle Built In
+Tech,Digital Media Speakers,Karaoke Compatibility
+Tech,Digital Media Speakers,Microphone Type
+Tech,Digital Media Speakers,MultiMedia Configuration
+Tech,Digital Media Speakers,MultiMedia Surround Type
+Tech,Digital Media Speakers,Networked Content Device Type
+Tech,Digital Media Speakers,Number of Discs
+Tech,Digital Media Speakers,Number of Speaker Drivers and Subwoofers
+Tech,Digital Media Speakers,Other Local Streaming Technologies
+Tech,Digital Media Speakers,Outputs
+Tech,Digital Media Speakers,Radio Frequency Local Streaming
+Tech,Digital Media Speakers,Rugged
+Tech,Digital Media Speakers,Speaker Depth - inches
+Tech,Digital Media Speakers,Speaker Family
+Tech,Digital Media Speakers,Speaker Form Factor
+Tech,Digital Media Speakers,Speaker Height - inches
+Tech,Digital Media Speakers,Speaker Phone Capability
+Tech,Digital Media Speakers,Speaker Series - Internal Only
+Tech,Digital Media Speakers,Speaker Weight - lbs
+Tech,Digital Media Speakers,Speaker Width - inches
+Tech,Digital Media Speakers,Spotify Connect Local Streaming
+Tech,Digital Media Speakers,Stand Alone Internet Radio
+Tech,Digital Media Speakers,Streaming Audio Speaker Component Type
+Tech,Digital Media Speakers,Streaming Source Location
+Tech,Digital Media Speakers,Total Wattage
+Tech,Digital Media Speakers,Wi-Fi Local Streaming
+Tech,Digital Media Speakers,Wi-Fi Speaker to Speaker Communication
+Tech,Digital Media Speakers,Wired Connection
+Tech,Digital Media Speakers,Wireless Local Streaming
+Tech,Digital Picture Frames,Digital Picture Frame Resolution
+Tech,Digital Picture Frames,Included Memory Capacity
+Tech,Digital Picture Frames,Touchscreen Display
+Tech,Digital Picture Frames,Wireless Connectivity
+Tech,Digital Set-Top Decoder Boxes,Built-in AC3 Decoder
+Tech,Digital Set-Top Decoder Boxes,Component Video Input
+Tech,Digital Set-Top Decoder Boxes,Digital Set Decoder Type
+Tech,Digital Set-Top Decoder Boxes,Digital Set IEEE1394
+Tech,Digital Set-Top Decoder Boxes,Includes Cable Receiver
+Tech,Digital Set-Top Decoder Boxes,Includes NTSC Line Modifiers
+Tech,Digital Set-Top Decoder Boxes,Includes NTSC Receiver
+Tech,Digital Set-Top Decoder Boxes,Includes Satellite Receiver
+Tech,Digital Set-Top Decoder Boxes,RGB
+Tech,Digital Set-Top Decoder Boxes,S-Video Input
+Tech,Digital Set-Top Decoder Boxes,Scan Conversion Capable of 1080i
+Tech,Digital Set-Top Decoder Boxes,Scan Conversion Capable of 480p
+Tech,Digital Set-Top Decoder Boxes,Scan Conversion Capable of 720p
+Tech,Digital Set-Top Decoder Boxes,VGA or S-VGA Connector
+Tech,Direct Broadcast Satellite,Audio
+Tech,Direct Broadcast Satellite,Digital Outputs
+Tech,Direct Broadcast Satellite,LNB/LNBF Receiver
+Tech,Direct Broadcast Satellite,Local Link Capability
+Tech,Direct Broadcast Satellite,Modem Capability or Internet Access
+Tech,Direct Broadcast Satellite,Parental Guidance/Control or V-Chip
+Tech,Direct Broadcast Satellite,Remote Type
+Tech,Direct Broadcast Satellite,Satellite TV Format
+Tech,Direct Broadcast Satellite,Satellite Type
+Tech,Dummy,Subcategory Temp
+Tech,Envelopes,Closure Type
+Tech,Envelopes,Envelope Color
+Tech,Envelopes,Envelope Dimensions
+Tech,Envelopes,Envelope Material
+Tech,Envelopes,Envelope Pack Size
+Tech,Envelopes,Envelopes - Tax
+Tech,Envelopes,Material Weight
+Tech,Envelopes,Opening
+Tech,Envelopes,Self-Seal
+Tech,Envelopes,Window
+Tech,Fax Machines,Auto Document Feed
+Tech,Fax Machines,Auto-Dial Capability
+Tech,Fax Machines,Fax Modem Speed
+Tech,Fax Machines,Fax Resolution
+Tech,Fax Machines,Fax TAD
+Tech,Fax Machines,Fax Type
+Tech,Fax Machines,Halftone Capability
+Tech,Fax Machines,Laser Type PPM
+Tech,Fax Machines,MFP Ready
+Tech,Fax Machines,Max Document Size
+Tech,Fax Machines,Memory Capacity
+Tech,Fax Machines,Paper Roll Length
+Tech,Fax Machines,Paper Sheets (PPF)
+Tech,Fax Machines,Ppf Print Type
+Tech,Fax Machines,Telephone
+Tech,Film,Instant Paper Size
+Tech,Film,Instant Print Paper Usage
+Tech,Film,ZINK Paper
+Tech,Fine Writing,Writing - Pen Form Factor
+Tech,Fitness Trackers,Band Material
+Tech,Fitness Trackers,Face Shape
+Tech,Fitness Trackers,Gender designed for
+Tech,Fitness Trackers,Size of Band
+Tech,Fitness Trackers,Wearable Device Type
+Tech,Fitness Trackers,Wearable Technology Accessory Type
+Tech,Fitness Trackers,Wearable Technology Family
+Tech,Flash Memory,Card Type
+Tech,Flash Memory,Connector Input Type
+Tech,Flash Memory,Dual USB Drive
+Tech,Flash Memory,Memory Size
+Tech,Flash Memory,Read Speed
+Tech,Flash Memory,Speed Class
+Tech,Flash Memory,Speed Class Bus Interface
+Tech,Flash Memory,USB Flash
+Tech,Flash Memory,Video Speed Class
+Tech,Flat Panel Mounts,Max Screen Size Supported
+Tech,Flat Panel Mounts,Maximum Weight Capacity
+Tech,Flat Panel Mounts,Type of Mount
+Tech,GPS Accessories,GPS Accessory Type
+Tech,Gaming Devices,Corded-Cordless Device
+Tech,Gaming Devices,Entertainment Device Type
+Tech,Gaming Devices,Forced Feedback
+Tech,Gaming Devices,Port Type
+Tech,Geometry Tools,Geometry Tools - Item Type
+Tech,Geometry Tools,Geometry Tools - Material
+Tech,Glues & Adhesives,Glue - Product Line
+Tech,Glues & Adhesives,Glue Dispenser Type
+Tech,Glues & Adhesives,Glue Pack Size
+Tech,Glues & Adhesives,Glue Type
+Tech,Graphic Cards,3D HDMI Version
+Tech,Graphic Cards,Bus Type
+Tech,Graphic Cards,Chip Set
+Tech,Graphic Cards,Graphics Controller Brand
+Tech,Graphic Cards,TV-Out
+Tech,Hand Cleaners,Dispenser Refill
+Tech,Hand Cleaners,Hand Cleaner - Pack Size
+Tech,Hand Cleaners,Hand Cleaner - Unit Size
+Tech,Hand Cleaners,Soap Type
+Tech,Hanging File Folders,Dimensions (Size)
+Tech,Hanging File Folders,Expansion
+Tech,Hanging File Folders,File Accessory Type
+Tech,Hanging File Folders,File Folder Color
+Tech,Hanging File Folders,File Folder Pack Size
+Tech,Hanging File Folders,Folder Dimension Grouping
+Tech,Hanging File Folders,Folder Material
+Tech,Hanging File Folders,Index Type
+Tech,Hanging File Folders,Number of Pockets
+Tech,Hanging File Folders,Pockets Included
+Tech,Hanging File Folders,Post Consumer Recycled Content
+Tech,Hanging File Folders,Total Recycled Content
+Tech,Hanging File Folders,WaterShed/Cutless
+Tech,Hard Disk Drives,Backup Functionality
+Tech,Hard Disk Drives,Computer Format
+Tech,Hard Disk Drives,Deployment Grade
+Tech,Hard Disk Drives,Designed for NAS
+Tech,Hard Disk Drives,Drive Family
+Tech,Hard Disk Drives,Encryption Type
+Tech,Hard Disk Drives,Flash Drive Capacity GB
+Tech,Hard Disk Drives,Hard Drive Interface
+Tech,Hard Disk Drives,Hybrid Drive
+Tech,Hard Disk Drives,Internal/External
+Tech,Hard Disk Drives,Number of Included Drives
+Tech,Hard Disk Drives,Product Packaging
+Tech,Hard Disk Drives,Rotational Speed
+Tech,Hard Drive Recorders,AC3/Dolby Digital Capable
+Tech,Hard Drive Recorders,HDTV Capable
+Tech,Hard Drive Recorders,Hard Drive Size PVR
+Tech,Hard Drive Recorders,IEEE1394
+Tech,Hard Drive Recorders,PVR Type
+Tech,Hard Drive Recorders,Recording Capability Time (in Hours)
+Tech,Hard Drive Recorders,Satellite Receiver
+Tech,Headset Stereo,Cassette Auto Reverse
+Tech,Headset Stereo,Headset Type
+Tech,Headset Stereo,Radio
+Tech,Highlighters,Highlighters - Pastel
+Tech,Home Security Systems,Apple HomeKit Compatible
+Tech,Home Security Systems,Insteon
+Tech,Home Security Systems,Iris Platform Capable
+Tech,Home Security Systems,Matter
+Tech,Home Security Systems,Nest Platform Capable
+Tech,Home Security Systems,Number of Items in Box
+Tech,Home Security Systems,Number of Smart Garage Door Openers Included in Kit
+Tech,Home Security Systems,Number of Smart Intercoms or Smart Doorbells Included in Kit
+Tech,Home Security Systems,Number of Smart Lighting Devices Included in Kit
+Tech,Home Security Systems,Number of Smart Locks Included in Kit
+Tech,Home Security Systems,Number of Smart Power & Sensor Items Included in Kit
+Tech,Home Security Systems,Number of Smart System Controllers Included in Kit
+Tech,Home Security Systems,Number of Surveillance Cameras Included in Kit
+Tech,Home Security Systems,Security System Kit
+Tech,Home Security Systems,SmartThings Platform Capable
+Tech,Home Security Systems,WeMo Platform Capable
+Tech,Home Security Systems,Wink Platform Capable
+Tech,Home Security Systems,Wireless-Type
+Tech,Home Speakers,Home Speaker Type
+Tech,Home Speakers,Magnetic Shielding
+Tech,Home Speakers,Main Speaker Crossover
+Tech,Home Speakers,Main Speaker Design
+Tech,Home Speakers,Main Speaker Driver
+Tech,Home Speakers,Main Speaker Woofer
+Tech,Home Speakers,Mounting Accessories
+Tech,Home Speakers,Number of Speaker Cabinets
+Tech,Home Speakers,Powered
+Tech,Home Speakers,Primary Use
+Tech,Home Speakers,Surround Speaker Type
+Tech,Home Speakers,Surround System Type
+Tech,Home Speakers,THX Certification
+Tech,Home Speakers,Weather Proofing
+Tech,Home Speakers,Wireless
+Tech,In-Dash Stereo Receivers,Amplifier Power per Channel
+Tech,In-Dash Stereo Receivers,Android Auto
+Tech,In-Dash Stereo Receivers,Apple CarPlay
+Tech,In-Dash Stereo Receivers,Bluetooth Technology
+Tech,In-Dash Stereo Receivers,Camera Ready
+Tech,In-Dash Stereo Receivers,Car Size
+Tech,In-Dash Stereo Receivers,Compatible OS
+Tech,In-Dash Stereo Receivers,DVD Video Playback Capable
+Tech,In-Dash Stereo Receivers,Dash Disc Mechanism
+Tech,In-Dash Stereo Receivers,HDMI Port
+Tech,In-Dash Stereo Receivers,In-Dash Number of Discs
+Tech,In-Dash Stereo Receivers,In-Dash Type
+Tech,In-Dash Stereo Receivers,MirrorLink Technology
+Tech,In-Dash Stereo Receivers,Multi-CD Control
+Tech,In-Dash Stereo Receivers,PDP Capable
+Tech,In-Dash Stereo Receivers,Preamp Outputs
+Tech,In-Dash Stereo Receivers,Security Type
+Tech,In-Dash Stereo Receivers,Streaming - Aha
+Tech,In-Dash Stereo Receivers,Streaming - Other Internet Music
+Tech,In-Dash Stereo Receivers,Streaming - iHeartRadio
+Tech,In-Dash Stereo Receivers,Streaming Pandora
+Tech,In-Dash Stereo Receivers,WebLink Technology
+Tech,In-Dash Video Receivers,Car Entertainment Type
+Tech,In-Dash Video Receivers,DVD Type
+Tech,In-Dash Video Receivers,Dual Screen
+Tech,In-Dash Video Receivers,Monitor Type
+Tech,In-Dash Video Receivers,Source
+Tech,In-Dash Video Receivers,TV Tuner
+Tech,Index Cards,Index Card Tabbed
+Tech,Index Cards,Index Cards Binding
+Tech,Index Cards,Index Cards Dimensions
+Tech,Index Cards,Index Cards Line Ruling
+Tech,Index Cards,Index Cards Pack Size
+Tech,Index Cards,Index Cards Sheet Color
+Tech,Inkjet Cartridges,Bundled
+Tech,Inkjet Cartridges,Cartridge Usage-Model
+Tech,Inkjet Cartridges,Case vs Reams
+Tech,Inkjet Cartridges,Coated/Uncoated
+Tech,Inkjet Cartridges,GSM - (Grams per Square Meter)
+Tech,Inkjet Cartridges,Genuine vs Third Party
+Tech,Inkjet Cartridges,High Yield Capable
+Tech,Inkjet Cartridges,Ink Cartridge Series
+Tech,Inkjet Cartridges,Inkjet Cartridge Package Size
+Tech,Inkjet Cartridges,Inkjet Cartridge Type
+Tech,Inkjet Cartridges,Inkjet Subscription Enrollment Card
+Tech,Inkjet Cartridges,Model Usage
+Tech,Inkjet Cartridges,Multi Ink Cartridge
+Tech,Inkjet Cartridges,Packaged Brightness
+Tech,Inkjet Cartridges,Page Yield
+Tech,Inkjet Cartridges,Paper Color
+Tech,Inkjet Cartridges,Paper Format
+Tech,Inkjet Cartridges,Paper Size
+Tech,Inkjet Cartridges,Paper Type
+Tech,Inkjet Cartridges,Paper Weight
+Tech,Inkjet Cartridges,Photo
+Tech,Inkjet Cartridges,Photo Cartridge
+Tech,Inkjet Cartridges,Recycled Post-consumer Content
+Tech,Inkjet Cartridges,Refill Type
+Tech,Inkjet Cartridges,Segment
+Tech,Inkjet Cartridges,TAPPI Brightness
+Tech,Input Devices,Biometric
+Tech,Input Devices,Handedness
+Tech,Input Devices,Mobile
+Tech,Input Devices,Mouse Backlight Color
+Tech,Input Devices,Mouse Form Factor
+Tech,Input Devices,Number of Buttons
+Tech,Input Devices,Scroll Wheel
+Tech,Instant Printing,Instant Print Series
+Tech,Instant Printing,Maximum Page Width
+Tech,Instant Printing,Print Method
+Tech,Instant Printing,Print Resolution
+Tech,Integrated Systems,Max Processors
+Tech,Integrated Systems,Number of HDD Drives
+Tech,Integrated Systems,Number of Processors Included
+Tech,Integrated Systems,Number of SSD Drives
+Tech,Integrated Systems,PC Memory
+Tech,Integrated Systems,Rack Units
+Tech,Integrated Systems,Solution Type
+Tech,Item Trackers,GPS Item Tracker
+Tech,Item Trackers,GSM Item Tracker
+Tech,Item Trackers,Pack
+Tech,Item Trackers,Pet Tracker
+Tech,Item Trackers,Vehicle Tracker
+Tech,Keyboards,Combo Pack
+Tech,Keyboards,Key Switch Behavior
+Tech,Keyboards,Keyboard Backlight Color
+Tech,Keyboards,Keyboard Package Size
+Tech,Keyboards,Keyboard Size
+Tech,Keyboards,Keyboard Technology
+Tech,Keyboards,Keyboard Type
+Tech,Keyboards,Mechanical Keyboard
+Tech,Keyboards,Mechanical Keyboard Switch Type
+Tech,Keyboards,Multimedia Keys
+Tech,Keyboards,Number of Keys (Actual)
+Tech,Keyboards,TenKeyLess Keyboard
+Tech,Label Printer Tapes,Tape Width
+Tech,Label Printers,Keyboard
+Tech,Label Printers,LCD Display Size
+Tech,Label Printers,Label Printer Type
+Tech,Label Printers,Label Resolution
+Tech,Label Printers,Max Lines of Printing
+Tech,Label Printers,Max Width of Printing
+Tech,Label Printers,Max Width of Tape
+Tech,Label Printers,PC- Linkage
+Tech,Laminating,FilmSize
+Tech,Laminating,FilmThickness
+Tech,Laminating,Finish
+Tech,Laminating,Laminating Machine - Intake Dimensions
+Tech,Laminating,Laminating Machine Type
+Tech,Laminating,Laminating Pack Size
+Tech,Laminating,Laminating Thickness
+Tech,Laminating,LaminatingStyle
+Tech,Laminating,LaminatingType
+Tech,Laminating,Lamination Type
+Tech,Laminating,Lamination Use
+Tech,Laminating,PortableMachine
+Tech,Laminating,Pouch Size
+Tech,Landline Headset Equipment,Aviation
+Tech,Landline Headset Equipment,Surround Sound Type
+Tech,Laser Toner,Laser Toner Series
+Tech,Laser Toner,Toner Package Size
+Tech,Laser Toner,Toner Type
+Tech,Laser Toner,Toner Usage
+Tech,Laser Toner,Toner Usage Type
+Tech,Laser Toner,Usage-Model
+Tech,Loose Filler Paper - Notebooks,Binding Location
+Tech,Loose Filler Paper - Notebooks,Cover Type
+Tech,Loose Filler Paper - Notebooks,Loose Filler Paper Notebooks Pack Size
+Tech,Loose Filler Paper - Notebooks,Notebooks - Fashion vs. Core
+Tech,Loose Filler Paper - Notebooks,Number of Holes Punched in Paper
+Tech,Loose Filler Paper - Notebooks,Paper Line Ruling
+Tech,Loose Filler Paper - Notebooks,Sheet Count
+Tech,Loose Filler Paper - Notebooks,Sheet Dimensions
+Tech,Loose Filler Paper - Notebooks,Subject Count
+Tech,Markers,Fineliner
+Tech,Markers,Marker Tip
+Tech,Mobile Phones,Bluetooth A2DP
+Tech,Mobile Phones,Camera Number
+Tech,Mobile Phones,Data Type
+Tech,Mobile Phones,Device Type - Mobile Phones
+Tech,Mobile Phones,Display Resolution - Mobile Phones
+Tech,Mobile Phones,Display Type - Mobile Phones
+Tech,Mobile Phones,Finger Print Sensor Location
+Tech,Mobile Phones,Form Factor
+Tech,Mobile Phones,GPS Capability
+Tech,Mobile Phones,Headphone Jack
+Tech,Mobile Phones,ID Sensor
+Tech,Mobile Phones,Manufacturer
+Tech,Mobile Phones,Memory Built-in
+Tech,Mobile Phones,Model Introduction Date
+Tech,Mobile Phones,Near Field Communication
+Tech,Mobile Phones,Network 2G
+Tech,Mobile Phones,Network 3G
+Tech,Mobile Phones,Network 4G
+Tech,Mobile Phones,Network 5G
+Tech,Mobile Phones,Network Technology Max
+Tech,Mobile Phones,Network Type
+Tech,Mobile Phones,Number of SIM Card Slots
+Tech,Mobile Phones,Operating System
+Tech,Mobile Phones,Pen Stylus
+Tech,Mobile Phones,Pixel Density PPI
+Tech,Mobile Phones,Processor - Mobile Phones
+Tech,Mobile Phones,Processor Number of Cores
+Tech,Mobile Phones,Processor Speed - Mobile Phones
+Tech,Mobile Phones,Push To Talk
+Tech,Mobile Phones,QWERTY
+Tech,Mobile Phones,Touch Screen
+Tech,Mobile Phones,USB Connector Type
+Tech,Mobile Phones,Unlocked
+Tech,Mobile Phones,Video Resolution
+Tech,Mobile Power,Braided Cable
+Tech,Mobile Power,Cable Included
+Tech,Mobile Power,Charger Type
+Tech,Mobile Power,Charger Wireless/Wired
+Tech,Mobile Power,Connector Output Type
+Tech,Mobile Power,Dock Type
+Tech,Mobile Power,Fast Charge Technology
+Tech,Mobile Power,Fastest Power Output
+Tech,Mobile Power,GaN Technology
+Tech,Mobile Power,Number of USB Ports
+Tech,Mobile Power,Number of USB-C Connectors
+Tech,Mobile Power,Pass-Through Charging
+Tech,Mobile Power,Portable Power Pack Built-in AC Wall Prongs
+Tech,Mobile Power,Portable Power Pack Charge Capacity
+Tech,Mobile Power,Smart Watch Charger
+Tech,Mobile Power,Solar Charger
+Tech,Mobile Power,Total Power Output
+Tech,Mobile Power,Total Watts
+Tech,Modems (Consumer Data Only),Computer Connectivity
+Tech,Modems (Consumer Data Only),Device Type
+Tech,Modems (Consumer Data Only),Modem Type
+Tech,Modems (Consumer Data Only),Module Type
+Tech,Modems (Consumer Data Only),Network Connectivity
+Tech,Modems (Consumer Data Only),Package Size
+Tech,Modems (Consumer Data Only),Transmission Speed
+Tech,Modems (Consumer Data Only),Voice Capable Modem
+Tech,Modems (Consumer Data Only),Wireless Technology
+Tech,Musical Keyboards,Key Size
+Tech,Musical Keyboards,Music Key Display
+Tech,Musical Keyboards,Number of Preset Songs
+Tech,Musical Keyboards,Number of Preset Sounds
+Tech,Musical Keyboards,Touch Sensitive
+Tech,Navigation,Base POI DB Size
+Tech,Navigation,GPS Included
+Tech,Navigation,Handheld GPS Battery Type
+Tech,Navigation,Handheld GPS PC Connection
+Tech,Navigation,Lane Guidance
+Tech,Navigation,Lifetime Maps
+Tech,Navigation,Lifetime Traffic
+Tech,Navigation,Live Traffic
+Tech,Navigation,Live Traffic Source
+Tech,Navigation,Map Data Storage
+Tech,Navigation,Map Provider
+Tech,Navigation,Maximum Supported Channels
+Tech,Navigation,Pedestrian Mode
+Tech,Navigation,Premium POI DB Capable
+Tech,Navigation,Real Time Turn-By-Turn Navigation
+Tech,Navigation,Roadmap Included
+Tech,Navigation,Rugged Enclosure
+Tech,Navigation,Service Level - TMC
+Tech,Navigation,Text To Speech Navigation
+Tech,Navigation,Topography Map Included
+Tech,Navigation,Two Way Connectivity
+Tech,Navigation,Voice Command
+Tech,Navigation,Wearable
+Tech,Network Attached Storage,SAN Device Type
+Tech,Network Attached Storage,Type of NAS
+Tech,Network Attached Storage,Wireless Storage
+Tech,Network Storage,Storage Array Tier
+Tech,Networking Devices,Adapter Type
+Tech,Networking Devices,Cellular Ready Technology
+Tech,Networking Devices,Home Video/TV Adapter
+Tech,Networking Devices,Management Layer
+Tech,Networking Devices,Mesh Wi-Fi System
+Tech,Networking Devices,Multiband Transmission Speed
+Tech,Networking Devices,Multiband Type
+Tech,Networking Devices,Number of External Antennas
+Tech,Networking Devices,Number of Ports
+Tech,Networking Devices,PoE Capable
+Tech,Networking Devices,SD-WAN
+Tech,Networking Devices,Speaker Included
+Tech,Networking Devices,Switch Type
+Tech,Networking Devices,WPS Certified
+Tech,Networking Devices,Wired / Wireless
+Tech,Non-Hanging File Folders,Expanding Type
+Tech,Non-Hanging File Folders,Imprinted Tab File
+Tech,Non-Hanging File Folders,Tab Cut
+Tech,Non-Hanging File Folders,Tab Location
+Tech,Non-Hanging File Folders,Top/End Tab Type
+Tech,Note Pads,Note Pads Form
+Tech,Note Pads,Note Pads Pack Size
+Tech,Note Pads,Note Pads Sheet Colors
+Tech,Note Pads,Note Pads Sheet Count
+Tech,Note Pads,Note Pads Sheet Dimensions
+Tech,Note Pads,Note Pads with Built-In Easel
+Tech,Note Pads,Note Pads with Self-Stick Adhesive
+Tech,Office Tape,Decorative Office Tape
+Tech,Office Tape,Number of Tape Rolls Held
+Tech,Office Tape,Office Tape Pack Size
+Tech,Office Tape,Tape Dispenser
+Tech,Office Tape,Tape Dispenser Form
+Tech,Office Tape,Tape Dispenser Type
+Tech,Office Tape,Tape Type
+Tech,Other Multimedia,Multimedia Accessories Device Type
+Tech,Other TV (Do Not Use),A/C Power Source
+Tech,Other TV (Do Not Use),DVD
+Tech,Other TV (Do Not Use),HDMI
+Tech,Other TV (Do Not Use),HDR Size
+Tech,Other TV (Do Not Use),Wireless CTV
+Tech,PC Cooling,CPU Air Cooler Orientation
+Tech,PC Cooling,Cooling Location
+Tech,PC Cooling,Cooling Type
+Tech,PC Cooling,Fan Size
+Tech,PC Cooling,Heatsink Material
+Tech,PC Cooling,LED Color
+Tech,PC Cooling,Liquid Cooling System
+Tech,PC Cooling,Number of Fans
+Tech,PC Cooling,Number of Heat Pipes
+Tech,PC Cooling,Radiator Length
+Tech,PC Cooling,Radiator Material
+Tech,PC Headset/PC Microphone,Ecosystem
+Tech,PC Headset/PC Microphone,Platform Capability
+Tech,PC Memory,CAS Latency
+Tech,PC Memory,JEDEC Standard
+Tech,PC Memory,Memory Module Type
+Tech,PC Memory,Memory Voltage
+Tech,PC Memory,Pack Number with Memory Size
+Tech,PPE,Disposable Gloves - Color
+Tech,PPE,Disposable Gloves - Material
+Tech,PPE,Disposable Gloves - Powdered Vs. Non-Powdered
+Tech,PPE,Disposable Gloves - Size
+Tech,PPE,Disposable Mask - Regulatory Class
+Tech,PPE,Disposable Masks - Color
+Tech,PPE,Disposable Masks -Loop vs Strap
+Tech,PPE,Disposable Masks- Kit
+Tech,PPE,Face Shields - Anti-Fog
+Tech,PPE,Face Shields - Attachable
+Tech,PPE,PPE - Children
+Tech,PPE,PPE - Pack Size
+Tech,PPE,PPE - Sterile vs. Non Sterile
+Tech,Packing Products,Corrugated Box Dimensions
+Tech,Packing Products,Corrugated Box Pack Sizes
+Tech,Packing Products,Cushioning Material Type
+Tech,Packing Products,Decorative
+Tech,Packing Products,Mailer Dimensions (Size)
+Tech,Packing Products,Mailer Pack Size
+Tech,Packing Products,Mailer Type
+Tech,Packing Products,Tape Required
+Tech,Packing Products,Tube Dimensions (Size)
+Tech,Packing Products,Tube Pack Size
+Tech,Packing Products,Wrapping Material Type
+Tech,Pagers,Alarm
+Tech,Pagers,Clock
+Tech,Pagers,Internet Capability
+Tech,Pagers,Pager Display
+Tech,Pagers,Pager Memories
+Tech,Pagers,Pager Style
+Tech,Paint & Painting Supplies,Canvas - Quantity in Pack
+Tech,Paint & Painting Supplies,Canvas - Size
+Tech,Paint & Painting Supplies,Item Type
+Tech,Paint & Painting Supplies,Paint - Item Type
+Tech,Paint & Painting Supplies,Paint Brushes & Applicator - Type
+Tech,Paint & Painting Supplies,Paint Brushes & Applicators - Quantity in Pack
+Tech,Paper Punches,Number of Holes Punched
+Tech,Paper Punches,Paper Punches Form
+Tech,Paper Punches,Paper Punches Maximum Sheets
+Tech,Paper Punches,Paper Punches Power Source
+Tech,Paper Rolls,Paper Rolls - Pack Size
+Tech,Paper Rolls,Paper Rolls Pack Size - Business Machines
+Tech,Paper Rolls,Paper Rolls Ply - Business Machines
+Tech,Paper Rolls,Paper Rolls Type - Bus. Machines Paper Rolls Type
+Tech,"Paper Towels, Napkins & Dispensers",Actual Napkin Count Per Pack
+Tech,"Paper Towels, Napkins & Dispensers",Actual Napkin Pack Count
+Tech,"Paper Towels, Napkins & Dispensers",Actual Paper Towel Roll_Pack Count
+Tech,"Paper Towels, Napkins & Dispensers",Actual Paper Towel Sheets Per Roll_Pack
+Tech,"Paper Towels, Napkins & Dispensers",Napkin Fold
+Tech,"Paper Towels, Napkins & Dispensers",Napkin Type
+Tech,"Paper Towels, Napkins & Dispensers",Paper Towel Dispenser Type
+Tech,"Paper Towels, Napkins & Dispensers",Paper Towel Type
+Tech,"Paper Towels, Napkins & Dispensers",Total Paper Towel Number of Sheets
+Tech,Pens,Pen Ink Type
+Tech,Pens,Pens - Refillable
+Tech,Personal CD Players,Car Kit Included
+Tech,Personal CD Players,ESP (Buffer Memory)
+Tech,Personal CD Players,Load Capability (# of Discs)
+Tech,Personal CD Players,Super Audio  CD
+Tech,Personal Digital Assistants,Built-In Handwriting Recognition
+Tech,Personal Digital Assistants,Color  Display
+Tech,Personal Digital Assistants,Digital Imaging Included
+Tech,Personal Digital Assistants,Embedded Camera
+Tech,Personal Digital Assistants,Expansion Slots
+Tech,Personal Digital Assistants,Input Technology
+Tech,Personal Digital Assistants,PDA Memory
+Tech,Personal Digital Assistants,Processor Brand
+Tech,Personal Digital Assistants,Processor Brand Name
+Tech,Personal Digital Assistants,Processor Speed
+Tech,Personal Organizers,Data Transmission
+Tech,Personal Organizers,Display Size (Characters)
+Tech,Personal Organizers,Display Size (Lines)
+Tech,Personal Organizers,Memory Size PO
+Tech,Plasma TV,3D Full HD
+Tech,Plasma TV,3D Glasses Bundled
+Tech,Plasma TV,Curved Display
+Tech,Plasma TV,DVD Technology
+Tech,Plasma TV,Depth Without Stand
+Tech,Plasma TV,Display Size CA-MX
+Tech,Plasma TV,MHL Port
+Tech,Plates & Bowls,Actual Plate Bowl Count Per Pack
+Tech,Plates & Bowls,Actual Plate Bowl Pack Count
+Tech,Plates & Bowls,Bowl Size
+Tech,Plates & Bowls,Plate Size
+Tech,Portable Digital Player Accessories,PDP Accessory Type
+Tech,Portable Digital Player Accessories,PDP Case Material
+Tech,Portable Digital Players,FM Radio
+Tech,Portable Digital Players,MP3 Format
+Tech,Portable Digital Players,MPEG/Video Playback
+Tech,Portable Digital Players,Portable MP3 Memory
+Tech,Portable Digital Players,Portable MP3 Memory Size
+Tech,Portable Digital Players,Portable MP3 PC Connection
+Tech,Portable Digital Players,Recording Capability
+Tech,Portable Digital Players,Screen Size
+Tech,Portable TV,Google TV
+Tech,Portable Two-Way Radios,Broadcast Radio
+Tech,Portable Two-Way Radios,Digital Clock
+Tech,Portable Two-Way Radios,Number of Codes
+Tech,Portable Two-Way Radios,Power Output (in watts)
+Tech,Portable Two-Way Radios,Range/Mileage
+Tech,Portable Two-Way Radios,Scramble
+Tech,Portable Two-Way Radios,Two Way LCD Display
+Tech,Portable Two-Way Radios,Two Way Number of Channels
+Tech,Portable Two-Way Radios,Two Way Package Quantity
+Tech,Portable Two-Way Radios,Two Way Type
+Tech,Portable Two-Way Radios,Vibrate
+Tech,Power & Equipment,Battery Charger
+Tech,Power & Equipment,Battery Chemistry
+Tech,Power & Equipment,Battery Family
+Tech,Power & Equipment,Battery Package Type
+Tech,Power & Equipment,Battery Size
+Tech,Power & Equipment,EMI/RFI Noise Reduction
+Tech,Power & Equipment,Infrastructure Type
+Tech,Power & Equipment,Joules
+Tech,Power & Equipment,Number of Outlets
+Tech,Power & Equipment,PDU Type
+Tech,Power & Equipment,Power Supply Form Factor
+Tech,Power & Equipment,Protection
+Tech,Power & Equipment,Rack Mount Capability
+Tech,Power & Equipment,Surge Protector Form
+Tech,Power & Equipment,Topology
+Tech,Power & Equipment,UPS Type
+Tech,Power & Equipment,USB Output
+Tech,Power & Equipment,Volt-Ampere
+Tech,Power & Equipment,Voltage
+Tech,Power & Sensors(DO NOT USE),Combination Sensor - Carbon Monoxide Function
+Tech,Power & Sensors(DO NOT USE),Combination Sensor - Humidity Function
+Tech,Power & Sensors(DO NOT USE),Combination Sensor - Motion Function
+Tech,Power & Sensors(DO NOT USE),Combination Sensor - Number of Functions
+Tech,Power & Sensors(DO NOT USE),Combination Sensor - Smoke Function
+Tech,Power & Sensors(DO NOT USE),Combination Sensor - Temperature Function
+Tech,Power & Sensors(DO NOT USE),Type of Smart Power
+Tech,Power & Sensors(DO NOT USE),Type of Smart Sensor
+Tech,Presentation Boards,Board Sizes
+Tech,Presentation Boards,Clipboard Storage
+Tech,Presentation Boards,Combo Boards - Calendar
+Tech,Presentation Boards,Dry Erase Board Type
+Tech,Presentation Boards,FrameMaterial
+Tech,Presentation Boards,Magnetic
+Tech,Presentation Boards,Surface Color
+Tech,Presentation Boards,Surface Material
+Tech,Presentation Products,Binding
+Tech,Presentation Products,Clear Front
+Tech,Presentation Products,Cover Material - Presentation Products
+Tech,Presentation Products,Fastener Included
+Tech,Presentation Products,Number of Pockets - Presentation Products
+Tech,Presentation Products,Pockets
+Tech,Presentation Products,Presentation Products Color
+Tech,Presentation Products,Presentation Products Pack Size
+Tech,Projectors,Audio Capability
+Tech,Projectors,Backlight Technology
+Tech,Projectors,Brightness (Lumens)
+Tech,Projectors,Color Light Output (Lumens)
+Tech,Projectors,Display Technology
+Tech,Projectors,Document Viewer
+Tech,Projectors,Interactive Projector
+Tech,Projectors,Max. Compressed Resolution
+Tech,Projectors,Max. Projectable (True) Resolution
+Tech,Projectors,Native Aspect Ratio
+Tech,Projectors,Pico Projector
+Tech,Projectors,Projector Type
+Tech,Projectors,Throw Ratio
+Tech,Projectors,Throw Ratio Range
+Tech,Projectors,Weight (Actual Range lbs)
+Tech,Projectors,Wireless Networking Capability
+Tech,Radar Detectors,360 Degrees Coverage
+Tech,Radar Detectors,City Mode - Highway Mode
+Tech,Radar Detectors,Compatible Smartphone App
+Tech,Radar Detectors,Red Light Camera Warning
+Tech,Radar Detectors,Speed Camera Warning
+Tech,Radar Detectors,VG-2 Detection
+Tech,Radar Detectors,Vehicle Battery Saver
+Tech,Radar Detectors,Voice Alerts
+Tech,Rear Projection TV,Energy Star Qualified
+Tech,Rear Projection TV,Open App Store
+Tech,Rear Projection TV,Projection Screen Type
+Tech,Receivers & Amplifiers,Dolby Pro Logic Decoder
+Tech,Receivers & Amplifiers,Graphic Equalizer
+Tech,Receivers & Amplifiers,HDMI-CEC Compliant
+Tech,Receivers & Amplifiers,Multi-Channel
+Tech,Receivers & Amplifiers,Receiver Surround DeCoder Type
+Tech,Receivers & Amplifiers,Receiver Tuning
+Tech,Receivers & Amplifiers,Receiver Type
+Tech,Receivers & Amplifiers,Surround Sound
+Tech,Receivers & Amplifiers,Video Switching
+Tech,Receivers & Amplifiers,Watts per Channel (Front)
+Tech,Reference Data Banks,Data Bank Cartridge Display
+Tech,Reference Data Banks,Data Bank Type
+Tech,Reference Data Banks,Voice/Sound
+Tech,Refills,Refills - Pen Refill Ink Color
+Tech,Remote Car Starters & Alarm,Car Alarm Included
+Tech,Remote Car Starters & Alarm,Keyless Entry
+Tech,Remote Car Starters & Alarm,Number of Remote Controllers Included
+Tech,Remote Car Starters & Alarm,Panic Mode or Alert
+Tech,Remote Car Starters & Alarm,Remote Starter Included
+Tech,Remote Car Starters & Alarm,Transmitter Range
+Tech,Remote Controllers,Home Automation
+Tech,Remote Controllers,Macro
+Tech,Remote Controllers,Maximum Devices Controlled
+Tech,Remote Controllers,Remote Control Type
+Tech,Remote Controllers,Smartphone/Tablet Interface Device
+Tech,Remote Controllers,Transmission Type
+Tech,Remote Controllers,Use
+Tech,Removable Media Drives,Removable Drive Type
+Tech,Rubber bands,Rubber Band Colors
+Tech,Rubber bands,Rubber Band Materials
+Tech,Rubber bands,Rubber Band Size
+Tech,Satellite Radio Boxes,Digital Storage (MP3)
+Tech,Satellite Radio Boxes,FM Modulated
+Tech,Satellite Radio Boxes,Kit
+Tech,Satellite Radio Boxes,Memory Buffer
+Tech,Satellite Radio Boxes,Satellite Provider
+Tech,Satellite Radio Boxes,Storage Size
+Tech,Satellite Radio Boxes,Storage Type
+Tech,Scrapbooking & Paper Crafts,Die Cutting & Craft Machines - Bundle
+Tech,Scrapbooking & Paper Crafts,Die Cutting & Craft Machines - Type
+Tech,Scrapbooking & Paper Crafts,Die Cutting Machines - Feed Type
+Tech,Scrapbooking & Paper Crafts,Die Cutting Machines - Product Line
+Tech,Scrapbooking & Paper Crafts,Die Cutting Materials & Accessories - Pack Size
+Tech,Scrapbooking & Paper Crafts,Die Cutting Materials & Accessories - Type
+Tech,Scrapbooking & Paper Crafts,Feed Material - Color
+Tech,Scrapbooking & Paper Crafts,Feed Material - Material
+Tech,Scrapbooking & Paper Crafts,Maximum Cutting Width
+Tech,Scrapbooking & Paper Crafts,Stamp & Ink Pads - ArtCraft use
+Tech,Scrapbooking & Paper Crafts,Stamp & Ink Pads - Stamp Color
+Tech,Scrapbooking & Paper Crafts,Stamp & Ink Pads - Stamp Image
+Tech,Scrapbooking & Paper Crafts,Stamp & Ink Pads - Stamp Size
+Tech,Scrapbooking & Paper Crafts,Stamps & Ink Pads - Item Type
+Tech,Security & Monitoring,Audio I/O
+Tech,Security & Monitoring,Baby Monitor Product Family
+Tech,Security & Monitoring,Baby Monitor Receiver Unit
+Tech,Security & Monitoring,Baby Monitor Two-Way Communication
+Tech,Security & Monitoring,Baby Monitor Type
+Tech,Security & Monitoring,Baby Monitor Visual Sound Level Indicator
+Tech,Security & Monitoring,Camera Connection Type
+Tech,Security & Monitoring,Camera Day Vision
+Tech,Security & Monitoring,Camera Field of View
+Tech,Security & Monitoring,Camera Focus
+Tech,Security & Monitoring,Camera Form Factor
+Tech,Security & Monitoring,Camera Motion Sensor
+Tech,Security & Monitoring,Camera Night Vision
+Tech,Security & Monitoring,Camera Technology
+Tech,Security & Monitoring,Camera Video Resolution
+Tech,Security & Monitoring,DVR Included
+Tech,Security & Monitoring,Home Automation Series
+Tech,Security & Monitoring,Indoor-Outdoor Use
+Tech,Security & Monitoring,Inputs-Outputs
+Tech,Security & Monitoring,Lens Mount
+Tech,Security & Monitoring,Maximum Storage Included
+Tech,Security & Monitoring,Monitor Screen Included
+Tech,Security & Monitoring,NVR Included
+Tech,Security & Monitoring,Number of Cameras-Kit
+Tech,Security & Monitoring,Number of DVR-NVR System Channels
+Tech,Security & Monitoring,Pan Tilt & Zoom
+Tech,Security & Monitoring,Security Camera Accessory Type
+Tech,Security & Monitoring,Security Camera System Type
+Tech,Security & Monitoring,Smart Detection
+Tech,Security & Monitoring,Wi-Fi Connection Type
+Tech,Security & Monitoring,Wire & Power Cord Free Camera
+Tech,Security & Monitoring,Wired Connection Type
+Tech,Security & Monitoring,Wired Power Source Type
+Tech,Security & Monitoring,Wireless Power Source Type
+Tech,Self-Stick Dispensers,Notes Dimensions
+Tech,Self-Stick Fan Fold Notes,Line-Ruled Notes
+Tech,Self-Stick Fan Fold Notes,Notes Pack Size
+Tech,Self-Stick Fan Fold Notes,Self-Stick Notes Color
+Tech,Self-Stick Fan Fold Notes,Super-Sticky Notes
+Tech,Self-Stick Flags,Self-Stick Flag Notes Dimensions
+Tech,Self-Stick Flags,Self-Stick Flag Notes Pack Size
+Tech,Self-Stick Flags,Self-Stick Flag Notes Preprinted Message
+Tech,Self-Stick Flat Notes,Flat Notes Pre-Printed Messages
+Tech,Self-Stick Flat Notes,Memo Cube Flat Notes
+Tech,Self-Stick Value Packs,Self-Stick Notes Type
+Tech,Services,Professional Service Type
+Tech,Services,Warranty Category
+Tech,Shredders,Auto Feed Capacity
+Tech,Shredders,Blade Safety Feature
+Tech,Shredders,Jam Resistance
+Tech,Shredders,Oil Dispence Type
+Tech,Shredders,Shredder Basket
+Tech,Shredders,Shredder Cut Style
+Tech,Shredders,Shredder Entry Width
+Tech,Shredders,Shredder Feed Type
+Tech,Shredders,Shredder Sheet Capacity
+Tech,Shredders,Shredder Type
+Tech,Shredders,Shredder Usage
+Tech,Shredders,Waste Bin Location
+Tech,Sim Cards / Prepaid Cards,Activation Type
+Tech,Smart Displays,Microphone
+Tech,Smart Entry,Auto Unlock Feature
+Tech,Smart Entry,Home Automation Integrated Camera
+Tech,Smart Entry,Smart Entry Color
+Tech,Smart Entry,Type of Smart Entry
+Tech,Smart Lighting,Bulb - Lamp Type
+Tech,Smart Lighting,Dimmer - Switch
+Tech,Smart Lighting,Number of Smart Lights
+Tech,Smart Lighting,Smart Light Bridge
+Tech,Smart Lighting,Smart Light Color
+Tech,Smart Lighting,Smart Lighting Product Series
+Tech,Smart Lighting,Type of Smart Lighting
+Tech,Smart Locks,Keyed or Keyless Standalone Smart Lock
+Tech,Smart Locks,Retrofit Smart Lock or Standalone Smart Lock
+Tech,Smart Locks,Smart Lock Code Input
+Tech,Smart Locks,Type of Smart Lock
+Tech,Solid State Drives,Integrated Heatsink
+Tech,Solid State Drives,MTBF
+Tech,Solid State Drives,Maximum Sequential Read Speed
+Tech,Solid State Drives,Maximum Sequential Write Speed
+Tech,Solid State Drives,NAND Memory Type
+Tech,Solid State Drives,NVMe Generation
+Tech,Solid State Drives,RGB Color
+Tech,Solid State Drives,SATA Generation
+Tech,Solid State Drives,SSD Capacity GB
+Tech,Solid State Drives,SSD Form Factor
+Tech,Solid State Drives,SSD Interface
+Tech,Solid State Drives,USB Cable Included
+Tech,Solid State Voice Recorders,DVR Display
+Tech,Solid State Voice Recorders,DVR Recording Time
+Tech,Solid State Voice Recorders,Memory Banks
+Tech,Solid State Voice Recorders,PC Compatibility
+Tech,Solid State Voice Recorders,Type of Recorder
+Tech,Specialty Paper,Label Use
+Tech,Specialty Paper,Printer Ready
+Tech,Specialty Paper,Specialty Labels - Label Size
+Tech,Specialty Tape,Duct Tape Type
+Tech,Specialty Tape,Flame Retardant
+Tech,Specialty Tape,Specialty Tape Color or Design
+Tech,Specialty Tape,Specialty Tape Length
+Tech,Specialty Tape,Specialty Tape Material
+Tech,Specialty Tape,Width
+Tech,Standard DVD,Analog Connection
+Tech,Standard DVD,Audio Feature
+Tech,Standard DVD,Changer
+Tech,Standard DVD,DTS Sound
+Tech,Standard DVD,DVD  Audio
+Tech,Standard DVD,Number of Headphone Jacks
+Tech,Standard DVD,Progressive Scan
+Tech,Standard DVD,Remote  Control
+Tech,Standard DVD,Super Audio CD
+Tech,Standard DVD,Swivel Screen
+Tech,Standard DVD,Up-Converter
+Tech,Standard DVD,VCR Included
+Tech,Standard DVD,Weight
+Tech,Stapler/Staples,Staple Length
+Tech,Stapler/Staples,Staple Remover Style
+Tech,Stapler/Staples,Staple Shape
+Tech,Stapler/Staples,Stapler Color
+Tech,Stapler/Staples,Stapler Design
+Tech,Stapler/Staples,Stapler Material
+Tech,Stapler/Staples,Stapler Power
+Tech,Stapler/Staples,Stapler Sheet Capacity
+Tech,Stereo Headphones,Accessories Included
+Tech,Stereo Headphones,Active Noise Cancelling
+Tech,Stereo Headphones,Bass Booster
+Tech,Stereo Headphones,Battery Run Time (In Hours)
+Tech,Stereo Headphones,Charging Case Type
+Tech,Stereo Headphones,Corded Connection Type
+Tech,Stereo Headphones,Foldable
+Tech,Stereo Headphones,Headphone Jack Size
+Tech,Stereo Headphones,Headphone Style
+Tech,Stereo Headphones,Headphone Type
+Tech,Stereo Headphones,In-Line Playback Controls
+Tech,Stereo Headphones,MicMute
+Tech,Stereo Headphones,Number of Buttons on Wire
+Tech,Stereo Headphones,PDP Accessory
+Tech,Stereo Headphones,Passive Noise Blocking
+Tech,Stereo Headphones,Rotating Ear Cup
+Tech,Stereo Headphones,Skull-iQ Smart Feature Technology
+Tech,Stereo Headphones,Sound Amplifying
+Tech,Stereo Headphones,Sound Limiting
+Tech,Stereo Headphones,Transducer Type
+Tech,Stereo Headphones,Vented Diaphragm
+Tech,Stereo Headphones,Water Resistant
+Tech,Storage,Capacity - Quarts Gallons
+Tech,Storage,Number of Drawers
+Tech,Storage,Portability
+Tech,Storage,Removable Casters
+Tech,Storage,Stackable
+Tech,Storage,Storage Material
+Tech,Storage Arrays,Number of Storage Interface Ports
+Tech,Streaming Audio Speakers,Compact Disc Player (# of Discs)
+Tech,Streaming Audio Speakers,Shelf System Type Size
+Tech,Streaming Media Players,Dual Functionality
+Tech,Streaming Media Players,On Screen Remote
+Tech,Streaming Media Players,Speakers
+Tech,Streaming Media Players,Streaming Media Players Series
+Tech,System Controllers,Hub Color
+Tech,System Controllers,Type of System Controller
+Tech,TV,ATSC 3.0
+Tech,TV,Augmented Refresh Rate Type
+Tech,TV,HDBaseT Included
+Tech,TV,High Dynamic Range
+Tech,TV,LED Backlighting
+Tech,TV,Local Dimming
+Tech,TV,Quantum Dot Technology
+Tech,TV,Sunlight Condition
+Tech,TV,TV Series
+Tech,TV,Wide Color Gamut
+Tech,TV Combinations (Consumer Only),TV Combination DVD
+Tech,TV Combinations (Consumer Only),TV Combination Display
+Tech,TV Combinations (Consumer Only),TV Combination Screen Size
+Tech,TV Combinations (Consumer Only),TV Combination Tuner
+Tech,TV Combinations (Consumer Only),TV Combination Type
+Tech,TV Combinations (Consumer Only),TV Combination VCR Format
+Tech,Tablets & e-readers,Back Camera Size
+Tech,Tablets & e-readers,Front Camera Size
+Tech,Tablets & e-readers,Height (Inches)
+Tech,Tablets & e-readers,Keyboard Style
+Tech,Tablets & e-readers,Number of Cameras
+Tech,Tablets & e-readers,Op Sys Family
+Tech,Tablets & e-readers,Pen Stylus Technology
+Tech,Tablets & e-readers,Resolution of Camera
+Tech,Tablets & e-readers,Tablet Family
+Tech,Tablets & e-readers,Tablet Form
+Tech,Tablets & e-readers,Weight (Lbs.)
+Tech,Tablets & e-readers,Windows Modern PC
+Tech,Tablets & e-readers,Wireless WAN
+Tech,Tablets & e-readers,Wireless-Technology
+Tech,Tablets & e-readers - Accessories,Accessory Design Type
+Tech,Tablets & e-readers - Accessories,Tablet & e-reader Accessory Type
+Tech,Tablets & e-readers - Cases,Case Design Type
+Tech,Tablets & e-readers - Cases,Case Type
+Tech,Tablets & e-readers - Cases,Case Weight
+Tech,Tablets & e-readers - Cases,Keyboard Included
+Tech,Tablets & e-readers - Cases,Max Display Size
+Tech,Tape,Decorative Shipping Tape
+Tech,Tape,Dispenser Type
+Tech,Tape,Mailing and Shipping Tape Pack Size
+Tech,Tape,Tape Backing
+Tech,Tape,Tape Used
+Tech,Tissue & Dispensers,Actual Bathroom Tissue Roll Count
+Tech,Tissue & Dispensers,Actual Bathroom Tissue Sheets Per Roll
+Tech,Tissue & Dispensers,Actual Facial Tissue Box_Pack Count
+Tech,Tissue & Dispensers,Actual Facial Tissue Sheets Per Box_Pack
+Tech,Tissue & Dispensers,Bathroom Tissue Count per Pack
+Tech,Tissue & Dispensers,Bathroom Tissue Dispenser Type
+Tech,Tissue & Dispensers,Bathroom Tissue Pack Count
+Tech,Tissue & Dispensers,Bathroom Tissue Type
+Tech,Tissue & Dispensers,Display Style (PLY)
+Tech,Tissue & Dispensers,Facial Tissue Type
+Tech,Tissue & Dispensers,Total Bathroom Tissue Number of Sheets
+Tech,Tissue & Dispensers,Total Facial Tissue Number of Sheets
+Tech,Total Accessories,Built in RGB Lighting
+Tech,Total Accessories,Cleaning Accessory Type
+Tech,Total Accessories,Motherboard Size
+Tech,Total Accessories,Tower Size
+Tech,Total BTO PCs,Consumer-Commercial
+Tech,Total BTO PCs,Density Optimized
+Tech,Total BTO PCs,PC Family
+Tech,Total BTO PCs,PC Form
+Tech,Total BTO PCs,PC Product Line
+Tech,Total BTO PCs,PC Product Series
+Tech,Total BTO PCs,Storage Drive Type
+Tech,Total BTO PCs,Workstation
+Tech,Total Digital Still Cameras,Aperture Control
+Tech,Total Digital Still Cameras,Burst Mode Max (FPS)
+Tech,Total Digital Still Cameras,Camera Family
+Tech,Total Digital Still Cameras,Camera Weight
+Tech,Total Digital Still Cameras,DSC Battery Type
+Tech,Total Digital Still Cameras,DSC Touchscreen Display
+Tech,Total Digital Still Cameras,Depth of Waterproof
+Tech,Total Digital Still Cameras,Digital Lens Type
+Tech,Total Digital Still Cameras,Face Detection
+Tech,Total Digital Still Cameras,Hot Shoe
+Tech,Total Digital Still Cameras,In Camera Image Stabilization
+Tech,Total Digital Still Cameras,Max Focal Length
+Tech,Total Digital Still Cameras,Max ISO
+Tech,Total Digital Still Cameras,Memory type
+Tech,Total Digital Still Cameras,Minimum Focal Length
+Tech,Total Digital Still Cameras,Number of Lenses
+Tech,Total Digital Still Cameras,PC/Digi-Cam Viewer Type
+Tech,Total Digital Still Cameras,Pictbridge
+Tech,Total Digital Still Cameras,Porttype (PC/Digi-Cam)
+Tech,Total Digital Still Cameras,Sensor Size
+Tech,Total Digital Still Cameras,Sensor Type
+Tech,Total Digital Still Cameras,Shutter Speed Control
+Tech,Total Digital Still Cameras,Thickness
+Tech,Total Digital Still Cameras,Total Zoom Length
+Tech,Total Digital Still Cameras,WiFi Version
+Tech,Total Digital Still Cameras,Zoom Type
+Tech,Total Drones,App Enabled
+Tech,Total Drones,Auto Pilot
+Tech,Total Drones,Built-In Camera
+Tech,Total Drones,Camera Gimbal Compatible
+Tech,Total Drones,Drone Accessory Type
+Tech,Total Drones,Drone Type
+Tech,Total Drones,Drone Weight
+Tech,Total Drones,Fixed Wing
+Tech,Total Drones,Foldable-Collapsible Form Factor
+Tech,Total Drones,Follow Mode
+Tech,Total Drones,Geofencing
+Tech,Total Drones,Integrated Camera Image Stabilization
+Tech,Total Drones,Max Operating Range
+Tech,Total Drones,Max Operating Time
+Tech,Total Drones,Max Video Resolution
+Tech,Total Drones,Number of Rotors
+Tech,Total Drones,Number of Spare Rotor Blades
+Tech,Total Drones,Remote Controller Compatible
+Tech,Total Drones,Removable Media Type - Drones
+Tech,Total Drones,Return to Home
+Tech,Total Drones,Standalone Gimbal Type
+Tech,Total Drones,Type of Camera Gimbal Included
+Tech,Total Drones,Type of Drone Case
+Tech,Total Home Components,Auto Reverse
+Tech,Total Home Components,Cassette Deck Type size
+Tech,Total Home Components,Heads (Recording Deck)
+Tech,Total Home Components,Noise Reduction
+Tech,Total Home Components,Record Capability
+Tech,Total Home Systems,Audio Channels
+Tech,Total Home Systems,DVD Audio
+Tech,Total Home Systems,DVD Player/Recorder
+Tech,Total Home Systems,DVD-Load Capability (# of Discs)
+Tech,Total Home Systems,Home Theater Audio Type
+Tech,Total Home Systems,Main Woofer Size - inches
+Tech,Total Home Systems,PDP Docking Cradle
+Tech,Total Home Systems,Rear Speakers
+Tech,Total Home Systems,Remote Control HTIB
+Tech,Total Home Systems,Shelf Primary Configuration
+Tech,Total Home Systems,Shelf Surround Sound
+Tech,Total Home Systems,Shelf Surround Type
+Tech,Total Home Systems,Shelf Woofer Size
+Tech,Total Home Systems,Sound Bar Depth
+Tech,Total Home Systems,Sound Bar Length
+Tech,Total Home Systems,Sound Bar Platform
+Tech,Total Home Systems,Sound Bar Series
+Tech,Total Home Systems,Subwoofer Included
+Tech,Total Home Systems,Subwoofer Shelf Systems
+Tech,Total Home Systems,Super  Audio CD
+Tech,Total Home Systems,Total Wattage Power
+Tech,Total Home Systems,Watts per Channel
+Tech,Total Home Systems,Wireless HTIB
+Tech,Total Monitors,AMD FreeSync Type
+Tech,Total Monitors,Actual Screen Size
+Tech,Total Monitors,Adaptive Sync Technology
+Tech,Total Monitors,Adjustable Height
+Tech,Total Monitors,Adjustable Pivot
+Tech,Total Monitors,Adjustable Swivel
+Tech,Total Monitors,Adjustable Tilt
+Tech,Total Monitors,Aspect Ratio
+Tech,Total Monitors,Color Accuracy
+Tech,Total Monitors,Commercial Display Segment
+Tech,Total Monitors,Display Brightness
+Tech,Total Monitors,Display Operating Time
+Tech,Total Monitors,Docking Station
+Tech,Total Monitors,Dot Pitch
+Tech,Total Monitors,Low Blue Light Technology
+Tech,Total Monitors,Minimum Bezel Width
+Tech,Total Monitors,Monitor Series
+Tech,Total Monitors,NVIDIA G-Sync Type
+Tech,Total Monitors,Number of DVI Connectors
+Tech,Total Monitors,Number of DisplayPort Connectors
+Tech,Total Monitors,Number of VGA Connectors
+Tech,Total Monitors,Panel Type
+Tech,Total Monitors,Portable
+Tech,Total Monitors,RS-232 Connector
+Tech,Total Monitors,Response Time
+Tech,Total Monitors,Smart Monitor
+Tech,Total Monitors,System on Chip
+Tech,Total Monitors,TV  Tuner
+Tech,Total Monitors,Touchscreen Monitor
+Tech,Total Monitors,USB-C Power Delivery
+Tech,Total Monitors,VESA Mount Pattern
+Tech,Total Monitors,VESA Mountable
+Tech,Total Monitors,Vertical Refresh Rate (Max)
+Tech,Total Monitors,Video Wall
+Tech,Total Notebook Accessories,Battery Cell
+Tech,Total Notebook Accessories,Docking Station Interface Connector Type
+Tech,Total Notebook Accessories,Docking Station Physical Connector Type
+Tech,Total Notebook Accessories,Ethernet Controller Connection
+Tech,Total Notebook Accessories,Firewire Port Connection
+Tech,Total Notebook Accessories,Laptop Case Weight
+Tech,Total Notebook Accessories,Notebook Battery Type
+Tech,Total Notebook Accessories,Notebook Battery Usage
+Tech,Total Notebook Accessories,PS/2 Port Connection
+Tech,Total Notebook Accessories,Parallel Port Connection
+Tech,Total Notebook Accessories,Power Adapter
+Tech,Total Notebook Accessories,Power Adapter Included
+Tech,Total Notebook Accessories,Serial Port Connection
+Tech,Total Notebook Accessories,USB Port Connection
+Tech,Total PCs,All-In-One
+Tech,Total PCs,BTO Component
+Tech,Total PCs,BTO Type
+Tech,Total PCs,Depth - Inches
+Tech,Total PCs,Graphics Controller
+Tech,Total PCs,Graphics Memory
+Tech,Total PCs,Included Drives
+Tech,Total PCs,Microsoft Office 365
+Tech,Total PCs,Number of Screens
+Tech,Total PCs,Screen Finish
+Tech,Total PCs,Width - Inches
+Tech,Total PCs,Windows 8 with Bing
+Tech,Total PCs,Wireless Display Interface
+Tech,Total Portable/Home Radios,CD Player
+Tech,Total Portable/Home Radios,Cassette Deck
+Tech,Total Portable/Home Radios,Cassette Recording
+Tech,Total Portable/Home Radios,Mount Type
+Tech,Total Portable/Home Radios,Portable Radio Cassette Type
+Tech,Total Portable/Home Radios,Sports Design
+Tech,Total Printers,Automatic Duplex
+Tech,Total Printers,B-Size Capable
+Tech,Total Printers,Built-In Scanner
+Tech,Total Printers,CPS (Characters/Second)
+Tech,Total Printers,Color/Mono Printing
+Tech,Total Printers,Dotpins
+Tech,Total Printers,Interface
+Tech,Total Printers,MFD Fax Speed
+Tech,Total Printers,MFD Scanner Format
+Tech,Total Printers,Number of Ink Colors
+Tech,Total Printers,PPM Color
+Tech,Total Printers,PPM Monochrome
+Tech,Total Printers,Paper Tray Capacity
+Tech,Total Printers,Photo Printer
+Tech,Total Printers,Photo Size Printing Only
+Tech,Total Printers,PictBridge Printer MFD
+Tech,Total Printers,Printer Memory
+Tech,Total Printers,Printer Source
+Tech,Total Printers,Reduction/Enlargement
+Tech,Total Printers,Refillable Tank
+Tech,Total Scanners,Compatibility 
+Tech,Total Scanners,Dots per Inch
+Tech,Total Scanners,IPM
+Tech,Total Scanners,ISIS Interface
+Tech,Total Scanners,Maximum Paper/Document
+Tech,Total Scanners,SANE Interface
+Tech,Total Scanners,Scanner Format
+Tech,Total Scanners,Scanner PPM Color
+Tech,Total Scanners,Scanner Type
+Tech,Total Scanners,TWAIN Interface
+Tech,Total Scanners,Transparency Adapter
+Tech,Total Scanners,WIA Interface
+Tech,Transparencies,Transparency Format
+Tech,Transparencies,Transparency Package Size
+Tech,Transparencies,Transparency Paper Size
+Tech,Transparencies,Transparency Type
+Tech,Turntables,33 RPM
+Tech,Turntables,45 RPM
+Tech,Turntables,78 RPM
+Tech,Turntables,AM-FM Tuner
+Tech,Turntables,Anti-Skate Control
+Tech,Turntables,Auxiliary Input Port
+Tech,Turntables,Built-In Phono Preamp
+Tech,Turntables,Built-In Speakers
+Tech,Turntables,Digitize Records
+Tech,Turntables,Headphone Jack Availability
+Tech,Turntables,Installed Cartridge Type
+Tech,Turntables,Pitch Control
+Tech,Turntables,RCA Output Jack
+Tech,Turntables,Replaceable Cartridge
+Tech,Turntables,Tonearm Shape
+Tech,Turntables,Turntable Drive Type
+Tech,Turntables,Turntable Operation Type
+Tech,USB Camera,Camera Refresh Rate
+Tech,USB Camera,Mounting Options
+Tech,USB Camera,Tripod Mountable
+Tech,USB Camera,USB Connection Included
+Tech,VR/AR Hardware & Accessories,Controller Included
+Tech,VR/AR Hardware & Accessories,Max Positional Tracking Area
+Tech,VR/AR Hardware & Accessories,Tethered Unit
+Tech,VR/AR Hardware & Accessories,VR-AR Accessory Type
+Tech,VR/AR Hardware & Accessories,VR-AR Display Technology
+Tech,VR/AR Hardware & Accessories,VR-AR Field of View
+Tech,VR/AR Hardware & Accessories,VR-AR Hardware or Accessory
+Tech,VR/AR Hardware & Accessories,VR-AR Headsets & Glasses Product Type
+Tech,VR/AR Hardware & Accessories,VR-AR Max Display Resolution
+Tech,VR/AR Hardware & Accessories,VR-AR Max Refresh Rate
+Tech,VR/AR Hardware & Accessories,VR-AR Mobile Device Based
+Tech,VR/AR Hardware & Accessories,VR-AR Platform
+Tech,VR/AR Hardware & Accessories,Virtual Reality and or Augmented Reality Capable
+Tech,Variety Packs,Variety - Content
+Tech,Vehicle Cameras,Backup Camera Form Factor
+Tech,Vehicle Cameras,Backup Camera Video Screen
+Tech,Vehicle Cameras,Built-In Screen
+Tech,Vehicle Cameras,Collision Warning
+Tech,Vehicle Cameras,Dash Camera Audio IO
+Tech,Vehicle Cameras,Dash Camera Form Factor
+Tech,Vehicle Cameras,Dual View
+Tech,Vehicle Cameras,Field of View
+Tech,Vehicle Cameras,G-Sensor
+Tech,Vehicle Cameras,Lane-Departure Warning
+Tech,Vehicle Cameras,Parking Guidelines
+Tech,Vehicle Cameras,Rear Camera
+Tech,Vehicle Cameras,Rechargeable Battery
+Tech,Vehicle Cameras,Video Resolution - Front Facing
+Tech,Vehicle Cameras,Wireless Content Transmission
+Tech,Warranties,Response Availability
+Tech,Warranties,Response SLA
+Tech,Warranties,Warranty Term
+Tech,Warranties,Warranty Type
+Tech,Watches,Watch Band Color
+Tech,Watches,Watch Case Dimensions
+Tech,Watches,Watch Case Material
+Tech,Watches,Watch Case Size
+Tech,Watches,Watch Display Type
+Tech,Watches,Watch Introduction Date
+Tech,Watches,Watch Style
+Tech,Wearable Technology,Sports Watch Type
+Tech,Wearable Technology,Wearable Device Accessory
+Tech,Wearable Technology,Wearable Device Use Type
+Tech,Wearable Technology,Wearable Type
+Tech,Web Browsers,Composite Audio/Video
+Tech,Web Browsers,High Definition Recording
+Tech,Web Browsers,Printer Port
+Tech,Web Browsers,S-Video Output
+Tech,Web Browsers,Smart Card Reader
+Tech,Web Browsers,Web Browser Type
+Toys,12 inch Bicycles (Brazil Only),Gender - Brazil Only
+Toys,12 inch Bicycles (Mexico Only),Non-Powered Ride-Ons - Gender
+Toys,3D Puzzles,ConsumerAttribute
+Toys,3D Puzzles,ELCCategory
+Toys,3D Puzzles,ELCSuperCategory
+Toys,Action Figure Collectibles,Action Figures Size Range
+Toys,Action Figure Collectibles,Granular Size
+Toys,Adult Games,Mystery/Investigation/Escape Games
+Toys,Adult Games,Nameofgame
+Toys,Backpacks,BackpackType
+Toys,Balance Bikes,Custom Material Type
+Toys,Balance Bikes,Custom Other Non-Pedal Ride-Ons
+Toys,Balance Bikes,Ride On Wagons
+Toys,Balance Bikes,Ride-On Type
+Toys,Bath Toys,Train Attribute
+Toys,Battery Op Ride-Ons&Acc,Battery Size for Battery Operated Ride Ons
+Toys,Blasters/Shooters & Accessories,Blaster/Shooter Type
+Toys,Blasters/Shooters & Accessories,Blaster/Shooters Projectile Type
+Toys,Card Games,Custom Traditional Playing Cards
+Toys,Craft Kits,LEGO Disney Brand
+Toys,Do Not Use Model Supplies,Model Type
+Toys,Do Not Use Plug N Play Games,Plug N Play Games
+Toys,Electronic Entertainment ex Tablets,Electronic Entertainment Type
+Toys,Junior Building Sets,Building Set Pieces Count
+Toys,Junior Building Sets,Construction Type Marble Run
+Toys,Junior Building Sets,Magnetic Building Sets
+Toys,Large Dolls & Acc,"18"" Large Dolls & Accessories"
+Toys,Miscellaneous Toys,Miscellaneous Type Attribute
+Toys,Notebooks,NotebookSize
+Toys,Other Infant Toys,Night Light
+Toys,Other Infant Toys,Soothers/Projectors
+Toys,PS All Other Role Play,Type of PS Role Play
+Toys,PS Figure/Playsets & Acc,Playmobilbrand
+Toys,PS Kitchen & Food,Custom PS Kitchen & Food
+Toys,Paint Kits,Custom Paint Kits
+Toys,Pencil Cases,FilledPencilCase
+Toys,Playground Equipment,Custom Playground Equipment
+Toys,Playground Equipment,Playground Equipment Type
+Toys,Puppets,Plush Size Range Values
+Toys,Radio/Remote Control Air,RadioRemote Control Air Drones
+Toys,Radio/Remote Control Ground/Sea/Other,RC Ground Scale
+Toys,Robotic/Interactive Playmates,Interactive Playmates
+Toys,Skates/Skateboards/Scooters,Electric Skates Skateboards Scooters
+Toys,Skates/Skateboards/Scooters,Skates-Skateboards-Scooters-Hoverboards
+Toys,Sport Activities & Games,Sports Activities and Games Type
+Toys,Water/Sand Toys & Acc,Inflatable Water Toys
+Toys,Water/Sand Toys & Acc,WaterSand Toys & Accessories Type
+Video,6th Generation Hardware,RDH Needs a Category Attribute / Do Not Code
